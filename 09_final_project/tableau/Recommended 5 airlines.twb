@@ -1,0 +1,636 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20232.23.0611.2007                               -->
+<workbook original-version='18.1' source-build='2023.2.0 (20232.23.0611.2007)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='5airways' inline='true' name='federated.1oh08l710gxyat1ey27vc106zpfd' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='5airways' name='textscan.03cejhr1yl7bde13a37xu12boclt'>
+            <connection class='textscan' directory='C:/Users/alina/OneDrive/Рабочий стол/alina/09_final_project' filename='5airways.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.03cejhr1yl7bde13a37xu12boclt' name='5airways.csv' table='[5airways#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_GB' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='integer' name='Unnamed: 0' ordinal='1' />
+            <column datatype='string' name='Airline Name' ordinal='2' />
+            <column datatype='integer' name='Overall_Rating' ordinal='3' />
+            <column datatype='string' name='Review_Title' ordinal='4' />
+            <column datatype='string' name='Review Date' ordinal='5' />
+            <column datatype='boolean' name='Verified' ordinal='6' />
+            <column datatype='string' name='Review' ordinal='7' />
+            <column datatype='string' name='Aircraft' ordinal='8' />
+            <column datatype='string' name='Type Of Traveller' ordinal='9' />
+            <column datatype='string' name='Seat Type' ordinal='10' />
+            <column datatype='string' name='Route' ordinal='11' />
+            <column datatype='string' name='Date Flown' ordinal='12' />
+            <column datatype='real' name='Seat Comfort' ordinal='13' />
+            <column datatype='real' name='Cabin Staff Service' ordinal='14' />
+            <column datatype='real' name='Food &amp; Beverages' ordinal='15' />
+            <column datatype='real' name='Ground Service' ordinal='16' />
+            <column datatype='real' name='Inflight Entertainment' ordinal='17' />
+            <column datatype='real' name='Wifi &amp; Connectivity' ordinal='18' />
+            <column datatype='real' name='Value For Money' ordinal='19' />
+            <column datatype='string' name='Recommended' ordinal='20' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.03cejhr1yl7bde13a37xu12boclt' name='5airways.csv' table='[5airways#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_GB' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='integer' name='Unnamed: 0' ordinal='1' />
+            <column datatype='string' name='Airline Name' ordinal='2' />
+            <column datatype='integer' name='Overall_Rating' ordinal='3' />
+            <column datatype='string' name='Review_Title' ordinal='4' />
+            <column datatype='string' name='Review Date' ordinal='5' />
+            <column datatype='boolean' name='Verified' ordinal='6' />
+            <column datatype='string' name='Review' ordinal='7' />
+            <column datatype='string' name='Aircraft' ordinal='8' />
+            <column datatype='string' name='Type Of Traveller' ordinal='9' />
+            <column datatype='string' name='Seat Type' ordinal='10' />
+            <column datatype='string' name='Route' ordinal='11' />
+            <column datatype='string' name='Date Flown' ordinal='12' />
+            <column datatype='real' name='Seat Comfort' ordinal='13' />
+            <column datatype='real' name='Cabin Staff Service' ordinal='14' />
+            <column datatype='real' name='Food &amp; Beverages' ordinal='15' />
+            <column datatype='real' name='Ground Service' ordinal='16' />
+            <column datatype='real' name='Inflight Entertainment' ordinal='17' />
+            <column datatype='real' name='Wifi &amp; Connectivity' ordinal='18' />
+            <column datatype='real' name='Value For Money' ordinal='19' />
+            <column datatype='string' name='Recommended' ordinal='20' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;£&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Unnamed: 0</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Unnamed: 0]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Unnamed: 0</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Airline Name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Airline Name]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Airline Name</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Overall_Rating</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Overall_Rating]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Overall_Rating</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Review_Title</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Review_Title]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Review_Title</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Review Date</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Review Date]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Review Date</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Verified</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[Verified]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Verified</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Review</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Review]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Review</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Aircraft</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Aircraft]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Aircraft</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Type Of Traveller</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Type Of Traveller]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Type Of Traveller</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Seat Type</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Seat Type]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Seat Type</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Route</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Route]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Route</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Date Flown</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Date Flown]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Date Flown</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Seat Comfort</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Seat Comfort]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Seat Comfort</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Cabin Staff Service</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Cabin Staff Service]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Cabin Staff Service</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Food &amp; Beverages</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Food &amp; Beverages]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Food &amp; Beverages</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ground Service</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Ground Service]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Ground Service</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Inflight Entertainment</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Inflight Entertainment]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Inflight Entertainment</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Wifi &amp; Connectivity</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Wifi &amp; Connectivity]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Wifi &amp; Connectivity</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Value For Money</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Value For Money]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Value For Money</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Recommended</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Recommended]</local-name>
+            <parent-name>[5airways.csv]</parent-name>
+            <remote-alias>Recommended</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[Airline Name]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;British Airways&quot;' value='BA' />
+          <alias key='&quot;TUI Airways&quot;' value='TUI' />
+        </aliases>
+      </column>
+      <column caption='Overall Rating' datatype='integer' name='[Overall_Rating]' role='measure' type='quantitative' />
+      <column datatype='string' name='[Recommended]' role='dimension' type='nominal' />
+      <column caption='Review Title' datatype='string' name='[Review_Title]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='5airways.csv' datatype='table' name='[__tableau_internal_object_id__].[5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B]' role='measure' type='quantitative' />
+      <column-instance column='[Recommended]' derivation='None' name='[none:Recommended:nk]' pivot='key' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Recommended:nk]' type='palette'>
+            <map to='#16365e'>
+              <bucket>&quot;yes&quot;</bucket>
+            </map>
+            <map to='#cf2527'>
+              <bucket>&quot;no&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Russia&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='5airways.csv' id='5airways.csv_BB9BCE2F380E43468AF5DB526F26D23B'>
+            <properties context=''>
+              <relation connection='textscan.03cejhr1yl7bde13a37xu12boclt' name='5airways.csv' table='[5airways#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_GB' separator=','>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='integer' name='Unnamed: 0' ordinal='1' />
+                  <column datatype='string' name='Airline Name' ordinal='2' />
+                  <column datatype='integer' name='Overall_Rating' ordinal='3' />
+                  <column datatype='string' name='Review_Title' ordinal='4' />
+                  <column datatype='string' name='Review Date' ordinal='5' />
+                  <column datatype='boolean' name='Verified' ordinal='6' />
+                  <column datatype='string' name='Review' ordinal='7' />
+                  <column datatype='string' name='Aircraft' ordinal='8' />
+                  <column datatype='string' name='Type Of Traveller' ordinal='9' />
+                  <column datatype='string' name='Seat Type' ordinal='10' />
+                  <column datatype='string' name='Route' ordinal='11' />
+                  <column datatype='string' name='Date Flown' ordinal='12' />
+                  <column datatype='real' name='Seat Comfort' ordinal='13' />
+                  <column datatype='real' name='Cabin Staff Service' ordinal='14' />
+                  <column datatype='real' name='Food &amp; Beverages' ordinal='15' />
+                  <column datatype='real' name='Ground Service' ordinal='16' />
+                  <column datatype='real' name='Inflight Entertainment' ordinal='17' />
+                  <column datatype='real' name='Wifi &amp; Connectivity' ordinal='18' />
+                  <column datatype='real' name='Value For Money' ordinal='19' />
+                  <column datatype='string' name='Recommended' ordinal='20' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='5airways' name='federated.1oh08l710gxyat1ey27vc106zpfd' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1oh08l710gxyat1ey27vc106zpfd'>
+            <column datatype='string' name='[Airline Name]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;British Airways&quot;' value='BA' />
+                <alias key='&quot;TUI Airways&quot;' value='TUI' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Recommended]' role='dimension' type='nominal' />
+            <column-instance column='[Recommended]' derivation='Count' name='[cnt:Recommended:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Airline Name]' derivation='None' name='[none:Airline Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Recommended]' derivation='None' name='[none:Recommended:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.1oh08l710gxyat1ey27vc106zpfd].[cnt:Recommended:qk]' field-type='quantitative' max='102' min='0' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1oh08l710gxyat1ey27vc106zpfd].[none:Airline Name:nk]' value='100' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-weight' field='[federated.1oh08l710gxyat1ey27vc106zpfd].[none:Airline Name:nk]' value='bold' />
+            <format attr='font-weight' field='[federated.1oh08l710gxyat1ey27vc106zpfd].[cnt:Recommended:qk]' value='bold' />
+            <format attr='font-size' field='[federated.1oh08l710gxyat1ey27vc106zpfd].[none:Airline Name:nk]' value='11' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1oh08l710gxyat1ey27vc106zpfd].[none:Recommended:nk]' />
+              <text column='[federated.1oh08l710gxyat1ey27vc106zpfd].[cnt:Recommended:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1oh08l710gxyat1ey27vc106zpfd].[cnt:Recommended:qk]</rows>
+        <cols>[federated.1oh08l710gxyat1ey27vc106zpfd].[none:Airline Name:nk]</cols>
+      </table>
+      <simple-id uuid='{DFBB0ECC-9CD5-4198-9139-E69DA7EAF385}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.5' source-height='44'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1oh08l710gxyat1ey27vc106zpfd].[none:Recommended:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1oh08l710gxyat1ey27vc106zpfd].[none:Airline Name:nk]</field>
+            <field>[federated.1oh08l710gxyat1ey27vc106zpfd].[none:Recommended:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{C870C3C6-976C-46FF-AF4E-BD6AB566DF93}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+      TkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>

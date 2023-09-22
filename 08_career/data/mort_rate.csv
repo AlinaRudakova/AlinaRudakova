@@ -1,0 +1,3112 @@
+,code,country,year,sex,mort_rate
+1,BRB,Barbados,2016,Both sexes,100.4
+4,SRB,Serbia,2016,Both sexes,102.5
+8,TUR,Türkiye,2016,Both sexes,104.0
+9,SVK,Slovakia,2016,Both sexes,104.1
+18,WSM,Samoa,2016,Both sexes,110.4
+19,JOR,Jordan,2016,Both sexes,110.5
+20,POL,Poland,2016,Both sexes,110.6
+21,PAN,Panama,2016,Both sexes,111.0
+24,ARG,Argentina,2016,Both sexes,111.4
+26,URY,Uruguay,2016,Both sexes,113.9
+27,USA,United States of America,2016,Both sexes,114.1
+29,ECU,Ecuador,2016,Both sexes,114.2
+32,ARM,Armenia,2016,Both sexes,116.4
+34,AZE,Azerbaijan,2016,Both sexes,117.6
+35,EST,Estonia,2016,Both sexes,118.6
+40,ATG,Antigua and Barbuda,2016,Both sexes,119.9
+44,CPV,Cabo Verde,2016,Both sexes,121.8
+46,MYS,Malaysia,2016,Both sexes,122.9
+47,TJK,Tajikistan,2016,Both sexes,123.3
+49,PER,Peru,2016,Both sexes,124.1
+52,VNM,Viet Nam,2016,Both sexes,124.8
+54,HUN,Hungary,2016,Both sexes,125.8
+57,MEX,Mexico,2016,Both sexes,126.6
+61,VUT,Vanuatu,2016,Both sexes,129.4
+62,BGD,Bangladesh,2016,Both sexes,130.2
+65,UZB,Uzbekistan,2016,Both sexes,130.7
+66,JAM,Jamaica,2016,Both sexes,131.4
+67,LKA,Sri Lanka,2016,Both sexes,131.4
+70,PRK,Democratic People's Republic of Korea,2016,Both sexes,132.2
+71,TON,Tonga,2016,Both sexes,133.0
+74,ROU,Romania,2016,Both sexes,134.8
+75,BGR,Bulgaria,2016,Both sexes,135.3
+79,COL,Colombia,2016,Both sexes,137.1
+85,GRD,Grenada,2016,Both sexes,140.2
+89,BRA,Brazil,2016,Both sexes,142.8
+92,HND,Honduras,2016,Both sexes,145.1
+93,MUS,Mauritius,2016,Both sexes,145.4
+94,PRY,Paraguay,2016,Both sexes,145.5
+97,SLB,Solomon Islands,2016,Both sexes,145.6
+98,NIC,Nicaragua,2016,Both sexes,145.9
+100,LCA,Saint Lucia,2016,Both sexes,147.2
+101,THA,Thailand,2016,Both sexes,147.4
+105,TLS,Timor-Leste,2016,Both sexes,149.8
+107,LBY,Libya,2016,Both sexes,150.3
+108,NPL,Nepal,2016,Both sexes,150.6
+110,LVA,Latvia,2016,Both sexes,153.8
+112,LTU,Lithuania,2016,Both sexes,154.5
+117,VEN,Venezuela (Bolivarian Republic of),2016,Both sexes,156.7
+119,PAK,Pakistan,2016,Both sexes,159.1
+120,BHS,Bahamas,2016,Both sexes,159.2
+121,GEO,Georgia,2016,Both sexes,159.9
+122,DOM,Dominican Republic,2016,Both sexes,160.1
+124,BLR,Belarus,2016,Both sexes,160.6
+126,GTM,Guatemala,2016,Both sexes,161.7
+127,KGZ,Kyrgyzstan,2016,Both sexes,162.3
+129,SYC,Seychelles,2016,Both sexes,163.1
+130,FSM,Micronesia (Federated States of),2016,Both sexes,163.8
+133,EGY,Egypt,2016,Both sexes,164.6
+138,MDA,Republic of Moldova,2016,Both sexes,166.8
+140,VCT,Saint Vincent and the Grenadines,2016,Both sexes,168.7
+141,KHM,Cambodia,2016,Both sexes,170.5
+146,TTO,Trinidad and Tobago,2016,Both sexes,171.8
+149,IRQ,Iraq,2016,Both sexes,173.5
+150,IDN,Indonesia,2016,Both sexes,175.6
+153,SLV,El Salvador,2016,Both sexes,176.8
+154,IND,India,2016,Both sexes,178.0
+157,BLZ,Belize,2016,Both sexes,179.3
+158,UKR,Ukraine,2016,Both sexes,180.1
+160,SUR,Suriname,2016,Both sexes,180.5
+162,KAZ,Kazakhstan,2016,Both sexes,181.5
+165,BOL,Bolivia (Plurinational State of),2016,Both sexes,182.2
+169,SEN,Senegal,2016,Both sexes,185.2
+170,FJI,Fiji,2016,Both sexes,186.2
+173,STP,Sao Tome and Principe,2016,Both sexes,190.6
+176,TKM,Turkmenistan,2016,Both sexes,191.0
+178,LAO,Lao People's Democratic Republic,2016,Both sexes,192.8
+180,PHL,Philippines,2016,Both sexes,193.9
+184,MMR,Myanmar,2016,Both sexes,195.0
+186,KIR,Kiribati,2016,Both sexes,197.0
+187,RWA,Rwanda,2016,Both sexes,198.3
+195,MRT,Mauritania,2016,Both sexes,202.4
+196,RUS,Russian Federation,2016,Both sexes,202.7
+203,BTN,Bhutan,2016,Both sexes,207.0
+209,MNG,Mongolia,2016,Both sexes,210.7
+217,MDG,Madagascar,2016,Both sexes,215.5
+220,KEN,Kenya,2016,Both sexes,219.3
+221,ETH,Ethiopia,2016,Both sexes,219.5
+223,GAB,Gabon,2016,Both sexes,220.7
+225,YEM,Yemen,2016,Both sexes,221.3
+231,SDN,Sudan,2016,Both sexes,223.9
+234,PNG,Papua New Guinea,2016,Both sexes,224.3
+239,COM,Comoros,2016,Both sexes,225.0
+241,LBR,Liberia,2016,Both sexes,230.3
+249,AGO,Angola,2016,Both sexes,238.0
+257,GHA,Ghana,2016,Both sexes,241.3
+258,BEN,Benin,2016,Both sexes,242.4
+261,HTI,Haiti,2016,Both sexes,243.5
+264,DJI,Djibouti,2016,Both sexes,244.5
+265,AFG,Afghanistan,2016,Both sexes,245.2
+269,BWA,Botswana,2016,Both sexes,249.2
+273,NER,Niger,2016,Both sexes,250.2
+275,ERI,Eritrea,2016,Both sexes,252.1
+279,BFA,Burkina Faso,2016,Both sexes,254.6
+280,MWI,Malawi,2016,Both sexes,254.7
+282,COD,Democratic Republic of the Congo,2016,Both sexes,256.1
+287,COG,Congo,2016,Both sexes,260.5
+288,TZA,United Republic of Tanzania,2016,Both sexes,260.7
+291,GIN,Guinea,2016,Both sexes,262.1
+292,GMB,Gambia,2016,Both sexes,262.2
+295,GUY,Guyana,2016,Both sexes,263.7
+297,TGO,Togo,2016,Both sexes,265.3
+300,GNB,Guinea-Bissau,2016,Both sexes,268.9
+301,MLI,Mali,2016,Both sexes,269.6
+312,ZMB,Zambia,2016,Both sexes,286.3
+313,UGA,Uganda,2016,Both sexes,287.9
+315,BDI,Burundi,2016,Both sexes,290.2
+321,NAM,Namibia,2016,Both sexes,295.9
+324,SYR,Syrian Arab Republic,2016,Both sexes,301.1
+325,ZAF,South Africa,2016,Both sexes,301.3
+327,GNQ,Equatorial Guinea,2016,Both sexes,304.8
+331,SOM,Somalia,2016,Both sexes,316.1
+334,SSD,South Sudan,2016,Both sexes,321.4
+338,ZWE,Zimbabwe,2016,Both sexes,334.0
+340,MOZ,Mozambique,2016,Both sexes,336.4
+344,CMR,Cameroon,2016,Both sexes,341.4
+349,NGA,Nigeria,2016,Both sexes,352.5
+351,TCD,Chad,2016,Both sexes,359.7
+366,SLE,Sierra Leone,2016,Both sexes,388.8
+370,SWZ,Eswatini,2016,Both sexes,393.3
+373,CIV,Côte d’Ivoire,2016,Both sexes,397.8
+376,CAF,Central African Republic,2016,Both sexes,411.9
+393,LSO,Lesotho,2016,Both sexes,483.5
+395,CHE,Switzerland,2016,Both sexes,49.2
+397,JPN,Japan,2016,Both sexes,50.83
+399,SGP,Singapore,2016,Both sexes,51.36
+403,SWE,Sweden,2016,Both sexes,52.43
+404,MDV,Maldives,2016,Both sexes,52.53
+406,ITA,Italy,2016,Both sexes,53.53
+409,NOR,Norway,2016,Both sexes,54.66
+410,ISL,Iceland,2016,Both sexes,55.01
+411,MLT,Malta,2016,Both sexes,55.03
+412,CYP,Cyprus,2016,Both sexes,55.41
+413,LUX,Luxembourg,2016,Both sexes,55.5
+414,ESP,Spain,2016,Both sexes,55.79
+416,BHR,Bahrain,2016,Both sexes,56.81
+418,ISR,Israel,2016,Both sexes,57.98
+419,NLD,Netherlands,2016,Both sexes,58.63
+423,AUS,Australia,2016,Both sexes,60.73
+424,KOR,Republic of Korea,2016,Both sexes,60.81
+426,QAT,Qatar,2016,Both sexes,61.76
+428,AUT,Austria,2016,Both sexes,61.89
+430,IRL,Ireland,2016,Both sexes,62.39
+431,CAN,Canada,2016,Both sexes,62.83
+437,DNK,Denmark,2016,Both sexes,65.04
+443,NZL,New Zealand,2016,Both sexes,66.06
+448,GRC,Greece,2016,Both sexes,66.42
+450,GBR,United Kingdom of Great Britain and Northern Ireland,2016,Both sexes,66.68
+456,DEU,Germany,2016,Both sexes,68.69
+457,MAR,Morocco,2016,Both sexes,69.06
+459,FIN,Finland,2016,Both sexes,70.18
+462,FRA,France,2016,Both sexes,70.98
+466,BEL,Belgium,2016,Both sexes,71.56
+467,SVN,Slovenia,2016,Both sexes,72.04
+472,ARE,United Arab Emirates,2016,Both sexes,73.95
+475,PRT,Portugal,2016,Both sexes,75.56
+485,KWT,Kuwait,2016,Both sexes,79.22
+490,IRN,Iran (Islamic Republic of),2016,Both sexes,80.13
+491,CHN,China,2016,Both sexes,80.36
+495,CZE,Czechia,2016,Both sexes,81.13
+508,CHL,Chile,2016,Both sexes,87.43
+509,HRV,Croatia,2016,Both sexes,87.51
+512,SAU,Saudi Arabia,2016,Both sexes,89.13
+516,TUN,Tunisia,2016,Both sexes,91.0
+521,BIH,Bosnia and Herzegovina,2016,Both sexes,92.03
+523,CUB,Cuba,2016,Both sexes,92.46
+532,DZA,Algeria,2016,Both sexes,95.03
+533,LBN,Lebanon,2016,Both sexes,95.62
+535,MKD,The former Yugoslav Republic of Macedonia,2016,Both sexes,95.83
+537,OMN,Oman,2016,Both sexes,96.25
+538,ALB,Albania,2016,Both sexes,96.41
+540,CRI,Costa Rica,2016,Both sexes,96.74
+542,BRN,Brunei Darussalam,2016,Both sexes,97.7
+546,MNE,Montenegro,2016,Both sexes,99.06
+549,BRB,Barbados,2015,Both sexes,100.9
+551,MNE,Montenegro,2015,Both sexes,101.0
+561,SRB,Serbia,2015,Both sexes,106.1
+563,TUR,Türkiye,2015,Both sexes,106.5
+564,SVK,Slovakia,2015,Both sexes,106.6
+568,USA,United States of America,2015,Both sexes,110.4
+571,JOR,Jordan,2015,Both sexes,111.5
+574,PAN,Panama,2015,Both sexes,111.9
+575,WSM,Samoa,2015,Both sexes,112.6
+576,ARG,Argentina,2015,Both sexes,112.7
+581,URY,Uruguay,2015,Both sexes,114.2
+582,POL,Poland,2015,Both sexes,114.8
+584,EST,Estonia,2015,Both sexes,115.8
+586,ECU,Ecuador,2015,Both sexes,117.0
+590,AZE,Azerbaijan,2015,Both sexes,119.5
+595,ARM,Armenia,2015,Both sexes,121.3
+596,ATG,Antigua and Barbuda,2015,Both sexes,121.9
+599,CPV,Cabo Verde,2015,Both sexes,123.5
+601,TJK,Tajikistan,2015,Both sexes,124.9
+604,PER,Peru,2015,Both sexes,125.5
+605,MYS,Malaysia,2015,Both sexes,125.6
+607,VNM,Viet Nam,2015,Both sexes,126.4
+609,MEX,Mexico,2015,Both sexes,128.4
+614,LKA,Sri Lanka,2015,Both sexes,131.1
+615,VUT,Vanuatu,2015,Both sexes,131.6
+617,HUN,Hungary,2015,Both sexes,132.3
+618,JAM,Jamaica,2015,Both sexes,132.6
+620,BGD,Bangladesh,2015,Both sexes,133.1
+621,UZB,Uzbekistan,2015,Both sexes,133.5
+622,PRK,Democratic People's Republic of Korea,2015,Both sexes,133.8
+624,TON,Tonga,2015,Both sexes,134.8
+626,ROU,Romania,2015,Both sexes,135.9
+627,BGR,Bulgaria,2015,Both sexes,136.2
+631,COL,Colombia,2015,Both sexes,138.1
+637,GRD,Grenada,2015,Both sexes,141.3
+642,BRA,Brazil,2015,Both sexes,144.5
+647,PRY,Paraguay,2015,Both sexes,145.8
+648,HND,Honduras,2015,Both sexes,146.5
+649,LBY,Libya,2015,Both sexes,146.9
+651,MUS,Mauritius,2015,Both sexes,147.8
+652,LCA,Saint Lucia,2015,Both sexes,147.8
+654,NIC,Nicaragua,2015,Both sexes,147.9
+655,SLB,Solomon Islands,2015,Both sexes,148.8
+656,THA,Thailand,2015,Both sexes,149.0
+661,TLS,Timor-Leste,2015,Both sexes,152.6
+663,LVA,Latvia,2015,Both sexes,154.3
+665,GEO,Georgia,2015,Both sexes,156.4
+670,VEN,Venezuela (Bolivarian Republic of),2015,Both sexes,158.5
+672,BHS,Bahamas,2015,Both sexes,160.6
+675,BLR,Belarus,2015,Both sexes,163.0
+676,DOM,Dominican Republic,2015,Both sexes,163.1
+678,VCT,Saint Vincent and the Grenadines,2015,Both sexes,164.4
+679,GTM,Guatemala,2015,Both sexes,164.7
+682,LTU,Lithuania,2015,Both sexes,165.4
+683,EGY,Egypt,2015,Both sexes,165.6
+684,SYC,Seychelles,2015,Both sexes,165.6
+685,PAK,Pakistan,2015,Both sexes,166.0
+686,NPL,Nepal,2015,Both sexes,166.2
+690,KGZ,Kyrgyzstan,2015,Both sexes,167.4
+692,FSM,Micronesia (Federated States of),2015,Both sexes,168.2
+696,TTO,Trinidad and Tobago,2015,Both sexes,172.9
+698,KHM,Cambodia,2015,Both sexes,174.3
+700,IDN,Indonesia,2015,Both sexes,177.6
+705,SLV,El Salvador,2015,Both sexes,179.5
+706,IRQ,Iraq,2015,Both sexes,180.3
+707,IND,India,2015,Both sexes,180.5
+708,BLZ,Belize,2015,Both sexes,181.6
+711,SUR,Suriname,2015,Both sexes,182.4
+713,MDA,Republic of Moldova,2015,Both sexes,183.6
+717,BOL,Bolivia (Plurinational State of),2015,Both sexes,185.2
+720,UKR,Ukraine,2015,Both sexes,187.7
+721,FJI,Fiji,2015,Both sexes,188.1
+722,SEN,Senegal,2015,Both sexes,188.9
+727,STP,Sao Tome and Principe,2015,Both sexes,191.6
+729,KAZ,Kazakhstan,2015,Both sexes,192.5
+732,PHL,Philippines,2015,Both sexes,195.0
+736,LAO,Lao People's Democratic Republic,2015,Both sexes,196.7
+737,MMR,Myanmar,2015,Both sexes,197.3
+739,TKM,Turkmenistan,2015,Both sexes,198.2
+740,KIR,Kiribati,2015,Both sexes,199.2
+746,RWA,Rwanda,2015,Both sexes,203.2
+747,MRT,Mauritania,2015,Both sexes,204.0
+752,RUS,Russian Federation,2015,Both sexes,207.8
+760,BTN,Bhutan,2015,Both sexes,211.1
+763,MNG,Mongolia,2015,Both sexes,212.9
+772,MDG,Madagascar,2015,Both sexes,220.1
+779,ETH,Ethiopia,2015,Both sexes,224.7
+780,PNG,Papua New Guinea,2015,Both sexes,225.5
+786,SDN,Sudan,2015,Both sexes,226.6
+787,COM,Comoros,2015,Both sexes,227.3
+790,GAB,Gabon,2015,Both sexes,228.2
+793,KEN,Kenya,2015,Both sexes,231.7
+796,AFG,Afghanistan,2015,Both sexes,233.2
+801,AGO,Angola,2015,Both sexes,239.8
+803,YEM,Yemen,2015,Both sexes,240.1
+804,LBR,Liberia,2015,Both sexes,240.6
+807,HTI,Haiti,2015,Both sexes,244.6
+808,GHA,Ghana,2015,Both sexes,244.9
+813,BEN,Benin,2015,Both sexes,246.3
+816,DJI,Djibouti,2015,Both sexes,247.6
+827,NER,Niger,2015,Both sexes,257.0
+829,ERI,Eritrea,2015,Both sexes,258.1
+830,BFA,Burkina Faso,2015,Both sexes,259.6
+831,COD,Democratic Republic of the Congo,2015,Both sexes,260.2
+835,BWA,Botswana,2015,Both sexes,263.3
+838,GUY,Guyana,2015,Both sexes,263.9
+840,GMB,Gambia,2015,Both sexes,264.8
+843,MWI,Malawi,2015,Both sexes,266.4
+847,TZA,United Republic of Tanzania,2015,Both sexes,269.7
+849,TGO,Togo,2015,Both sexes,271.0
+853,COG,Congo,2015,Both sexes,275.1
+855,GIN,Guinea,2015,Both sexes,277.1
+857,MLI,Mali,2015,Both sexes,277.5
+859,GNB,Guinea-Bissau,2015,Both sexes,278.2
+867,UGA,Uganda,2015,Both sexes,293.0
+869,ZMB,Zambia,2015,Both sexes,294.6
+871,NAM,Namibia,2015,Both sexes,295.8
+873,BDI,Burundi,2015,Both sexes,296.1
+874,GNQ,Equatorial Guinea,2015,Both sexes,300.9
+876,ZAF,South Africa,2015,Both sexes,304.6
+878,SOM,Somalia,2015,Both sexes,307.3
+884,SYR,Syrian Arab Republic,2015,Both sexes,315.8
+887,SSD,South Sudan,2015,Both sexes,327.8
+900,ZWE,Zimbabwe,2015,Both sexes,345.5
+901,CMR,Cameroon,2015,Both sexes,355.0
+902,NGA,Nigeria,2015,Both sexes,355.4
+903,MOZ,Mozambique,2015,Both sexes,358.7
+908,TCD,Chad,2015,Both sexes,367.0
+920,SWZ,Eswatini,2015,Both sexes,398.4
+926,SLE,Sierra Leone,2015,Both sexes,403.7
+930,CIV,Côte d’Ivoire,2015,Both sexes,410.1
+932,CAF,Central African Republic,2015,Both sexes,418.2
+946,CHE,Switzerland,2015,Both sexes,49.61
+950,LSO,Lesotho,2015,Both sexes,498.3
+953,LUX,Luxembourg,2015,Both sexes,51.89
+955,JPN,Japan,2015,Both sexes,52.57
+957,SGP,Singapore,2015,Both sexes,53.56
+959,NOR,Norway,2015,Both sexes,53.66
+960,SWE,Sweden,2015,Both sexes,53.96
+961,MDV,Maldives,2015,Both sexes,54.04
+963,ISL,Iceland,2015,Both sexes,54.38
+964,ITA,Italy,2015,Both sexes,54.86
+965,MLT,Malta,2015,Both sexes,55.18
+967,CYP,Cyprus,2015,Both sexes,56.64
+969,ISR,Israel,2015,Both sexes,57.66
+970,ESP,Spain,2015,Both sexes,57.71
+972,NLD,Netherlands,2015,Both sexes,58.32
+973,BHR,Bahrain,2015,Both sexes,58.52
+978,AUS,Australia,2015,Both sexes,62.17
+981,KOR,Republic of Korea,2015,Both sexes,62.53
+982,IRL,Ireland,2015,Both sexes,62.77
+984,QAT,Qatar,2015,Both sexes,62.81
+987,CAN,Canada,2015,Both sexes,63.82
+988,AUT,Austria,2015,Both sexes,64.34
+992,DNK,Denmark,2015,Both sexes,66.27
+996,NZL,New Zealand,2015,Both sexes,66.68
+1002,GRC,Greece,2015,Both sexes,67.59
+1007,GBR,United Kingdom of Great Britain and Northern Ireland,2015,Both sexes,68.76
+1011,FIN,Finland,2015,Both sexes,69.52
+1014,MAR,Morocco,2015,Both sexes,70.15
+1016,DEU,Germany,2015,Both sexes,71.19
+1017,BEL,Belgium,2015,Both sexes,71.87
+1021,FRA,France,2015,Both sexes,73.08
+1023,SVN,Slovenia,2015,Both sexes,74.18
+1028,ARE,United Arab Emirates,2015,Both sexes,75.04
+1029,PRT,Portugal,2015,Both sexes,76.52
+1039,KWT,Kuwait,2015,Both sexes,80.47
+1043,CHN,China,2015,Both sexes,81.52
+1044,IRN,Iran (Islamic Republic of),2015,Both sexes,81.68
+1051,CZE,Czechia,2015,Both sexes,82.95
+1063,CHL,Chile,2015,Both sexes,88.14
+1066,SAU,Saudi Arabia,2015,Both sexes,90.5
+1069,ALB,Albania,2015,Both sexes,92.24
+1074,TUN,Tunisia,2015,Both sexes,92.85
+1077,BIH,Bosnia and Herzegovina,2015,Both sexes,93.72
+1080,CUB,Cuba,2015,Both sexes,94.34
+1083,HRV,Croatia,2015,Both sexes,95.58
+1085,DZA,Algeria,2015,Both sexes,96.49
+1087,MKD,The former Yugoslav Republic of Macedonia,2015,Both sexes,96.99
+1089,CRI,Costa Rica,2015,Both sexes,97.17
+1092,OMN,Oman,2015,Both sexes,97.97
+1095,LBN,Lebanon,2015,Both sexes,98.44
+1096,BRN,Brunei Darussalam,2015,Both sexes,98.86
+1098,BRB,Barbados,2014,Both sexes,100.9
+1102,MNE,Montenegro,2014,Both sexes,103.0
+1107,SRB,Serbia,2014,Both sexes,106.1
+1108,USA,United States of America,2014,Both sexes,106.3
+1111,TUR,Türkiye,2014,Both sexes,107.2
+1112,SVK,Slovakia,2014,Both sexes,108.9
+1119,PAN,Panama,2014,Both sexes,111.1
+1121,JOR,Jordan,2014,Both sexes,112.6
+1122,ARG,Argentina,2014,Both sexes,112.8
+1125,URY,Uruguay,2014,Both sexes,114.2
+1128,POL,Poland,2014,Both sexes,114.7
+1129,WSM,Samoa,2014,Both sexes,115.1
+1133,ARM,Armenia,2014,Both sexes,118.5
+1136,ECU,Ecuador,2014,Both sexes,119.1
+1137,AZE,Azerbaijan,2014,Both sexes,121.5
+1142,EST,Estonia,2014,Both sexes,123.5
+1148,CPV,Cabo Verde,2014,Both sexes,126.4
+1149,TJK,Tajikistan,2014,Both sexes,126.5
+1150,ATG,Antigua and Barbuda,2014,Both sexes,126.6
+1152,PER,Peru,2014,Both sexes,126.9
+1154,MYS,Malaysia,2014,Both sexes,127.7
+1155,VNM,Viet Nam,2014,Both sexes,127.8
+1158,MEX,Mexico,2014,Both sexes,129.1
+1162,LKA,Sri Lanka,2014,Both sexes,131.1
+1165,JAM,Jamaica,2014,Both sexes,131.8
+1166,HUN,Hungary,2014,Both sexes,133.4
+1169,BGD,Bangladesh,2014,Both sexes,135.8
+1171,VUT,Vanuatu,2014,Both sexes,135.9
+1172,PRK,Democratic People's Republic of Korea,2014,Both sexes,136.0
+1173,TON,Tonga,2014,Both sexes,136.4
+1175,LBY,Libya,2014,Both sexes,137.1
+1176,COL,Colombia,2014,Both sexes,138.8
+1177,UZB,Uzbekistan,2014,Both sexes,138.9
+1179,ROU,Romania,2014,Both sexes,139.6
+1183,BGR,Bulgaria,2014,Both sexes,140.7
+1185,GRD,Grenada,2014,Both sexes,142.9
+1192,BRA,Brazil,2014,Both sexes,144.7
+1195,LCA,Saint Lucia,2014,Both sexes,145.3
+1196,PRY,Paraguay,2014,Both sexes,146.8
+1197,HND,Honduras,2014,Both sexes,147.7
+1198,MUS,Mauritius,2014,Both sexes,147.8
+1203,NIC,Nicaragua,2014,Both sexes,150.3
+1206,THA,Thailand,2014,Both sexes,151.4
+1209,GEO,Georgia,2014,Both sexes,155.2
+1210,TLS,Timor-Leste,2014,Both sexes,155.2
+1211,SLB,Solomon Islands,2014,Both sexes,156.1
+1215,LVA,Latvia,2014,Both sexes,158.9
+1216,VEN,Venezuela (Bolivarian Republic of),2014,Both sexes,159.5
+1217,NPL,Nepal,2014,Both sexes,160.1
+1224,EGY,Egypt,2014,Both sexes,164.6
+1227,DOM,Dominican Republic,2014,Both sexes,166.3
+1230,FSM,Micronesia (Federated States of),2014,Both sexes,166.8
+1232,LTU,Lithuania,2014,Both sexes,167.2
+1233,PAK,Pakistan,2014,Both sexes,167.3
+1234,BHS,Bahamas,2014,Both sexes,167.6
+1235,SYC,Seychelles,2014,Both sexes,168.3
+1236,GTM,Guatemala,2014,Both sexes,169.1
+1238,VCT,Saint Vincent and the Grenadines,2014,Both sexes,170.4
+1240,TTO,Trinidad and Tobago,2014,Both sexes,174.4
+1242,KGZ,Kyrgyzstan,2014,Both sexes,174.7
+1243,BLR,Belarus,2014,Both sexes,175.0
+1247,KHM,Cambodia,2014,Both sexes,178.4
+1250,IDN,Indonesia,2014,Both sexes,179.5
+1253,MDA,Republic of Moldova,2014,Both sexes,180.4
+1255,SLV,El Salvador,2014,Both sexes,181.9
+1258,BLZ,Belize,2014,Both sexes,182.7
+1259,IND,India,2014,Both sexes,183.1
+1263,SUR,Suriname,2014,Both sexes,183.9
+1267,BOL,Bolivia (Plurinational State of),2014,Both sexes,188.3
+1270,FJI,Fiji,2014,Both sexes,189.9
+1272,IRQ,Iraq,2014,Both sexes,191.6
+1273,STP,Sao Tome and Principe,2014,Both sexes,192.6
+1274,SEN,Senegal,2014,Both sexes,193.0
+1280,PHL,Philippines,2014,Both sexes,196.6
+1282,KAZ,Kazakhstan,2014,Both sexes,198.9
+1283,TKM,Turkmenistan,2014,Both sexes,199.4
+1284,MMR,Myanmar,2014,Both sexes,199.7
+1287,LAO,Lao People's Democratic Republic,2014,Both sexes,200.8
+1288,KIR,Kiribati,2014,Both sexes,201.2
+1292,MRT,Mauritania,2014,Both sexes,205.5
+1294,RWA,Rwanda,2014,Both sexes,207.0
+1304,UKR,Ukraine,2014,Both sexes,212.2
+1306,RUS,Russian Federation,2014,Both sexes,214.0
+1309,BTN,Bhutan,2014,Both sexes,215.0
+1310,MNG,Mongolia,2014,Both sexes,215.4
+1320,MDG,Madagascar,2014,Both sexes,224.7
+1322,YEM,Yemen,2014,Both sexes,225.9
+1328,PNG,Papua New Guinea,2014,Both sexes,227.9
+1330,SDN,Sudan,2014,Both sexes,228.8
+1332,COM,Comoros,2014,Both sexes,230.0
+1333,ETH,Ethiopia,2014,Both sexes,230.1
+1338,AFG,Afghanistan,2014,Both sexes,234.3
+1339,GAB,Gabon,2014,Both sexes,234.7
+1344,KEN,Kenya,2014,Both sexes,238.7
+1351,AGO,Angola,2014,Both sexes,243.9
+1356,HTI,Haiti,2014,Both sexes,247.7
+1357,GHA,Ghana,2014,Both sexes,247.8
+1359,BEN,Benin,2014,Both sexes,248.3
+1367,DJI,Djibouti,2014,Both sexes,255.9
+1370,NER,Niger,2014,Both sexes,257.5
+1378,GUY,Guyana,2014,Both sexes,263.9
+1379,BFA,Burkina Faso,2014,Both sexes,264.0
+1380,ERI,Eritrea,2014,Both sexes,264.6
+1381,COD,Democratic Republic of the Congo,2014,Both sexes,265.1
+1384,GMB,Gambia,2014,Both sexes,266.7
+1391,TGO,Togo,2014,Both sexes,274.1
+1392,BWA,Botswana,2014,Both sexes,277.0
+1394,COG,Congo,2014,Both sexes,278.6
+1395,MWI,Malawi,2014,Both sexes,279.3
+1400,MLI,Mali,2014,Both sexes,281.1
+1402,TZA,United Republic of Tanzania,2014,Both sexes,281.9
+1403,GNB,Guinea-Bissau,2014,Both sexes,282.3
+1407,NAM,Namibia,2014,Both sexes,286.0
+1408,GIN,Guinea,2014,Both sexes,289.6
+1414,ZMB,Zambia,2014,Both sexes,298.7
+1416,BDI,Burundi,2014,Both sexes,300.0
+1419,UGA,Uganda,2014,Both sexes,304.0
+1420,GNQ,Equatorial Guinea,2014,Both sexes,307.2
+1422,LBR,Liberia,2014,Both sexes,310.1
+1424,SOM,Somalia,2014,Both sexes,311.5
+1427,ZAF,South Africa,2014,Both sexes,315.9
+1441,SSD,South Sudan,2014,Both sexes,343.2
+1445,CMR,Cameroon,2014,Both sexes,357.9
+1446,ZWE,Zimbabwe,2014,Both sexes,358.4
+1450,NGA,Nigeria,2014,Both sexes,360.6
+1452,SYR,Syrian Arab Republic,2014,Both sexes,367.7
+1454,TCD,Chad,2014,Both sexes,374.5
+1461,MOZ,Mozambique,2014,Both sexes,386.6
+1467,SWZ,Eswatini,2014,Both sexes,407.8
+1470,CIV,Côte d’Ivoire,2014,Both sexes,418.0
+1481,CAF,Central African Republic,2014,Both sexes,443.8
+1482,SLE,Sierra Leone,2014,Both sexes,446.4
+1496,LSO,Lesotho,2014,Both sexes,494.9
+1497,CHE,Switzerland,2014,Both sexes,50.19
+1503,MLT,Malta,2014,Both sexes,53.08
+1506,ITA,Italy,2014,Both sexes,53.57
+1508,JPN,Japan,2014,Both sexes,54.46
+1509,LUX,Luxembourg,2014,Both sexes,54.65
+1510,SGP,Singapore,2014,Both sexes,54.83
+1511,ISL,Iceland,2014,Both sexes,54.93
+1512,SWE,Sweden,2014,Both sexes,54.93
+1514,MDV,Maldives,2014,Both sexes,56.54
+1515,NOR,Norway,2014,Both sexes,56.74
+1517,ESP,Spain,2014,Both sexes,57.57
+1518,ISR,Israel,2014,Both sexes,57.86
+1520,NLD,Netherlands,2014,Both sexes,59.03
+1523,AUS,Australia,2014,Both sexes,61.19
+1524,CYP,Cyprus,2014,Both sexes,61.32
+1525,BHR,Bahrain,2014,Both sexes,61.95
+1526,IRL,Ireland,2014,Both sexes,61.98
+1530,QAT,Qatar,2014,Both sexes,63.8
+1533,CAN,Canada,2014,Both sexes,64.83
+1535,AUT,Austria,2014,Both sexes,65.08
+1537,KOR,Republic of Korea,2014,Both sexes,65.73
+1540,GRC,Greece,2014,Both sexes,66.88
+1543,NZL,New Zealand,2014,Both sexes,67.33
+1547,GBR,United Kingdom of Great Britain and Northern Ireland,2014,Both sexes,68.06
+1550,DNK,Denmark,2014,Both sexes,68.37
+1559,SVN,Slovenia,2014,Both sexes,69.92
+1560,DEU,Germany,2014,Both sexes,69.93
+1564,MAR,Morocco,2014,Both sexes,71.5
+1567,BEL,Belgium,2014,Both sexes,72.82
+1568,FIN,Finland,2014,Both sexes,73.03
+1573,FRA,France,2014,Both sexes,74.28
+1576,ARE,United Arab Emirates,2014,Both sexes,76.4
+1578,PRT,Portugal,2014,Both sexes,76.71
+1590,KWT,Kuwait,2014,Both sexes,81.05
+1595,IRN,Iran (Islamic Republic of),2014,Both sexes,82.67
+1596,CHN,China,2014,Both sexes,82.73
+1601,CZE,Czechia,2014,Both sexes,84.65
+1607,CHL,Chile,2014,Both sexes,88.28
+1614,SAU,Saudi Arabia,2014,Both sexes,91.21
+1621,HRV,Croatia,2014,Both sexes,94.03
+1622,TUN,Tunisia,2014,Both sexes,94.09
+1629,CRI,Costa Rica,2014,Both sexes,95.27
+1630,CUB,Cuba,2014,Both sexes,95.34
+1632,BRN,Brunei Darussalam,2014,Both sexes,96.35
+1633,BIH,Bosnia and Herzegovina,2014,Both sexes,96.45
+1637,DZA,Algeria,2014,Both sexes,98.04
+1638,MKD,The former Yugoslav Republic of Macedonia,2014,Both sexes,98.16
+1639,ALB,Albania,2014,Both sexes,98.32
+1644,LBN,Lebanon,2014,Both sexes,99.19
+1646,OMN,Oman,2014,Both sexes,99.59
+1648,ALB,Albania,2013,Both sexes,100.3
+1649,BRB,Barbados,2013,Both sexes,101.4
+1650,OMN,Oman,2013,Both sexes,101.4
+1657,MNE,Montenegro,2013,Both sexes,105.2
+1660,USA,United States of America,2013,Both sexes,105.4
+1662,SRB,Serbia,2013,Both sexes,107.1
+1667,TUR,Türkiye,2013,Both sexes,109.2
+1669,SVK,Slovakia,2013,Both sexes,110.9
+1675,JOR,Jordan,2013,Both sexes,113.5
+1676,PAN,Panama,2013,Both sexes,113.7
+1679,ARG,Argentina,2013,Both sexes,116.5
+1681,URY,Uruguay,2013,Both sexes,117.0
+1683,WSM,Samoa,2013,Both sexes,117.9
+1687,POL,Poland,2013,Both sexes,120.9
+1688,ARM,Armenia,2013,Both sexes,121.1
+1690,ECU,Ecuador,2013,Both sexes,121.6
+1691,EST,Estonia,2013,Both sexes,121.6
+1696,AZE,Azerbaijan,2013,Both sexes,123.7
+1700,LBY,Libya,2013,Both sexes,126.3
+1703,MEX,Mexico,2013,Both sexes,126.8
+1704,ATG,Antigua and Barbuda,2013,Both sexes,127.0
+1707,PER,Peru,2013,Both sexes,128.1
+1708,TJK,Tajikistan,2013,Both sexes,128.1
+1712,MYS,Malaysia,2013,Both sexes,129.0
+1713,VNM,Viet Nam,2013,Both sexes,129.2
+1714,CPV,Cabo Verde,2013,Both sexes,129.4
+1717,LKA,Sri Lanka,2013,Both sexes,131.1
+1720,ROU,Romania,2013,Both sexes,134.2
+1723,JAM,Jamaica,2013,Both sexes,134.6
+1724,BGR,Bulgaria,2013,Both sexes,134.8
+1725,HUN,Hungary,2013,Both sexes,135.6
+1726,VUT,Vanuatu,2013,Both sexes,136.6
+1731,BGD,Bangladesh,2013,Both sexes,138.0
+1732,TON,Tonga,2013,Both sexes,138.0
+1734,PRK,Democratic People's Republic of Korea,2013,Both sexes,138.6
+1735,COL,Colombia,2013,Both sexes,139.3
+1736,UZB,Uzbekistan,2013,Both sexes,141.0
+1740,GRD,Grenada,2013,Both sexes,144.6
+1743,MUS,Mauritius,2013,Both sexes,145.2
+1749,PRY,Paraguay,2013,Both sexes,147.9
+1750,BRA,Brazil,2013,Both sexes,148.2
+1751,HND,Honduras,2013,Both sexes,149.1
+1752,LCA,Saint Lucia,2013,Both sexes,149.1
+1757,NIC,Nicaragua,2013,Both sexes,152.6
+1760,THA,Thailand,2013,Both sexes,154.0
+1764,SLB,Solomon Islands,2013,Both sexes,156.9
+1765,TLS,Timor-Leste,2013,Both sexes,157.6
+1766,GEO,Georgia,2013,Both sexes,157.7
+1769,VEN,Venezuela (Bolivarian Republic of),2013,Both sexes,159.2
+1772,IRQ,Iraq,2013,Both sexes,161.6
+1775,NPL,Nepal,2013,Both sexes,164.1
+1776,LVA,Latvia,2013,Both sexes,164.3
+1780,BHS,Bahamas,2013,Both sexes,166.2
+1783,EGY,Egypt,2013,Both sexes,167.2
+1784,PAK,Pakistan,2013,Both sexes,167.5
+1787,FSM,Micronesia (Federated States of),2013,Both sexes,168.2
+1788,DOM,Dominican Republic,2013,Both sexes,168.3
+1790,MDA,Republic of Moldova,2013,Both sexes,170.4
+1791,SYC,Seychelles,2013,Both sexes,171.2
+1793,GTM,Guatemala,2013,Both sexes,172.3
+1796,VCT,Saint Vincent and the Grenadines,2013,Both sexes,174.4
+1800,TTO,Trinidad and Tobago,2013,Both sexes,176.9
+1801,LTU,Lithuania,2013,Both sexes,178.8
+1803,IDN,Indonesia,2013,Both sexes,181.2
+1807,KHM,Cambodia,2013,Both sexes,182.7
+1808,KGZ,Kyrgyzstan,2013,Both sexes,183.1
+1809,BLR,Belarus,2013,Both sexes,183.3
+1811,BLZ,Belize,2013,Both sexes,183.7
+1813,SLV,El Salvador,2013,Both sexes,184.3
+1818,IND,India,2013,Both sexes,186.0
+1820,SUR,Suriname,2013,Both sexes,186.1
+1827,BOL,Bolivia (Plurinational State of),2013,Both sexes,191.6
+1828,FJI,Fiji,2013,Both sexes,191.9
+1830,STP,Sao Tome and Principe,2013,Both sexes,194.8
+1831,TKM,Turkmenistan,2013,Both sexes,195.9
+1832,SEN,Senegal,2013,Both sexes,196.3
+1836,PHL,Philippines,2013,Both sexes,198.9
+1840,KIR,Kiribati,2013,Both sexes,203.0
+1841,MMR,Myanmar,2013,Both sexes,203.2
+1843,LAO,Lao People's Democratic Republic,2013,Both sexes,205.1
+1846,UKR,Ukraine,2013,Both sexes,207.1
+1847,MRT,Mauritania,2013,Both sexes,207.5
+1853,KAZ,Kazakhstan,2013,Both sexes,210.7
+1857,RWA,Rwanda,2013,Both sexes,212.0
+1862,MNG,Mongolia,2013,Both sexes,218.3
+1863,BTN,Bhutan,2013,Both sexes,218.7
+1867,RUS,Russian Federation,2013,Both sexes,221.2
+1872,YEM,Yemen,2013,Both sexes,224.9
+1881,MDG,Madagascar,2013,Both sexes,229.6
+1882,PNG,Papua New Guinea,2013,Both sexes,230.9
+1885,SDN,Sudan,2013,Both sexes,231.9
+1888,COM,Comoros,2013,Both sexes,232.9
+1890,ETH,Ethiopia,2013,Both sexes,234.5
+1892,AFG,Afghanistan,2013,Both sexes,235.5
+1895,LBR,Liberia,2013,Both sexes,236.3
+1902,KEN,Kenya,2013,Both sexes,241.2
+1909,AGO,Angola,2013,Both sexes,249.3
+1911,BEN,Benin,2013,Both sexes,249.6
+1912,GHA,Ghana,2013,Both sexes,250.1
+1914,GAB,Gabon,2013,Both sexes,251.0
+1915,HTI,Haiti,2013,Both sexes,252.6
+1921,DJI,Djibouti,2013,Both sexes,254.5
+1929,NER,Niger,2013,Both sexes,261.3
+1932,GUY,Guyana,2013,Both sexes,263.3
+1934,GMB,Gambia,2013,Both sexes,266.1
+1935,BFA,Burkina Faso,2013,Both sexes,266.2
+1939,ERI,Eritrea,2013,Both sexes,270.8
+1942,COD,Democratic Republic of the Congo,2013,Both sexes,271.6
+1947,GIN,Guinea,2013,Both sexes,275.3
+1948,TGO,Togo,2013,Both sexes,275.8
+1952,COG,Congo,2013,Both sexes,278.4
+1953,GNB,Guinea-Bissau,2013,Both sexes,281.1
+1955,MLI,Mali,2013,Both sexes,284.4
+1959,NAM,Namibia,2013,Both sexes,286.6
+1962,BWA,Botswana,2013,Both sexes,291.5
+1967,TZA,United Republic of Tanzania,2013,Both sexes,298.1
+1968,MWI,Malawi,2013,Both sexes,298.4
+1973,BDI,Burundi,2013,Both sexes,302.1
+1977,ZMB,Zambia,2013,Both sexes,310.8
+1979,SOM,Somalia,2013,Both sexes,313.1
+1980,UGA,Uganda,2013,Both sexes,316.2
+1983,GNQ,Equatorial Guinea,2013,Both sexes,327.1
+1986,ZAF,South Africa,2013,Both sexes,334.7
+1988,SYR,Syrian Arab Republic,2013,Both sexes,338.4
+1991,SSD,South Sudan,2013,Both sexes,343.4
+1998,CMR,Cameroon,2013,Both sexes,352.3
+2004,NGA,Nigeria,2013,Both sexes,366.7
+2005,TCD,Chad,2013,Both sexes,369.5
+2012,ZWE,Zimbabwe,2013,Both sexes,383.0
+2019,SLE,Sierra Leone,2013,Both sexes,392.8
+2024,MOZ,Mozambique,2013,Both sexes,402.1
+2026,CIV,Côte d’Ivoire,2013,Both sexes,418.5
+2029,SWZ,Eswatini,2013,Both sexes,420.8
+2042,CAF,Central African Republic,2013,Both sexes,466.7
+2048,LSO,Lesotho,2013,Both sexes,487.3
+2055,CHE,Switzerland,2013,Both sexes,53.06
+2056,ISL,Iceland,2013,Both sexes,53.07
+2061,ITA,Italy,2013,Both sexes,55.55
+2062,SGP,Singapore,2013,Both sexes,55.79
+2063,JPN,Japan,2013,Both sexes,55.86
+2064,SWE,Sweden,2013,Both sexes,56.02
+2066,MLT,Malta,2013,Both sexes,56.69
+2068,CYP,Cyprus,2013,Both sexes,58.15
+2069,ISR,Israel,2013,Both sexes,58.56
+2071,ESP,Spain,2013,Both sexes,58.86
+2073,MDV,Maldives,2013,Both sexes,59.26
+2074,AUS,Australia,2013,Both sexes,59.59
+2075,LUX,Luxembourg,2013,Both sexes,59.67
+2077,NOR,Norway,2013,Both sexes,60.57
+2078,NLD,Netherlands,2013,Both sexes,60.89
+2080,BHR,Bahrain,2013,Both sexes,62.78
+2081,IRL,Ireland,2013,Both sexes,63.54
+2083,QAT,Qatar,2013,Both sexes,64.57
+2086,CAN,Canada,2013,Both sexes,66.2
+2087,NZL,New Zealand,2013,Both sexes,66.4
+2088,AUT,Austria,2013,Both sexes,66.55
+2096,KOR,Republic of Korea,2013,Both sexes,68.02
+2097,GRC,Greece,2013,Both sexes,68.27
+2101,GBR,United Kingdom of Great Britain and Northern Ireland,2013,Both sexes,68.87
+2110,DNK,Denmark,2013,Both sexes,71.94
+2114,DEU,Germany,2013,Both sexes,72.63
+2116,MAR,Morocco,2013,Both sexes,73.01
+2128,BEL,Belgium,2013,Both sexes,76.55
+2130,FRA,France,2013,Both sexes,77.29
+2131,FIN,Finland,2013,Both sexes,77.56
+2132,ARE,United Arab Emirates,2013,Both sexes,77.72
+2133,SVN,Slovenia,2013,Both sexes,78.03
+2134,PRT,Portugal,2013,Both sexes,78.49
+2148,KWT,Kuwait,2013,Both sexes,82.09
+2151,CHN,China,2013,Both sexes,83.87
+2152,IRN,Iran (Islamic Republic of),2013,Both sexes,84.21
+2161,CZE,Czechia,2013,Both sexes,89.36
+2163,CHL,Chile,2013,Both sexes,89.93
+2167,SAU,Saudi Arabia,2013,Both sexes,92.48
+2173,BRN,Brunei Darussalam,2013,Both sexes,94.05
+2177,TUN,Tunisia,2013,Both sexes,95.36
+2178,HRV,Croatia,2013,Both sexes,95.54
+2180,CUB,Cuba,2013,Both sexes,95.67
+2187,CRI,Costa Rica,2013,Both sexes,97.19
+2189,BIH,Bosnia and Herzegovina,2013,Both sexes,97.44
+2190,LBN,Lebanon,2013,Both sexes,97.75
+2192,MKD,The former Yugoslav Republic of Macedonia,2013,Both sexes,98.45
+2194,DZA,Algeria,2013,Both sexes,99.71
+2198,DZA,Algeria,2012,Both sexes,101.5
+2201,MKD,The former Yugoslav Republic of Macedonia,2012,Both sexes,102.1
+2202,HRV,Croatia,2012,Both sexes,102.6
+2203,ALB,Albania,2012,Both sexes,103.2
+2204,OMN,Oman,2012,Both sexes,103.2
+2207,USA,United States of America,2012,Both sexes,105.3
+2214,MNE,Montenegro,2012,Both sexes,107.7
+2217,BRB,Barbados,2012,Both sexes,108.4
+2223,SRB,Serbia,2012,Both sexes,111.0
+2224,TUR,Türkiye,2012,Both sexes,112.2
+2227,JOR,Jordan,2012,Both sexes,114.3
+2228,SVK,Slovakia,2012,Both sexes,115.4
+2230,PAN,Panama,2012,Both sexes,115.7
+2235,ARG,Argentina,2012,Both sexes,117.7
+2237,URY,Uruguay,2012,Both sexes,118.1
+2242,WSM,Samoa,2012,Both sexes,123.7
+2248,POL,Poland,2012,Both sexes,126.0
+2249,LBY,Libya,2012,Both sexes,126.1
+2250,AZE,Azerbaijan,2012,Both sexes,126.4
+2251,ECU,Ecuador,2012,Both sexes,126.5
+2254,ATG,Antigua and Barbuda,2012,Both sexes,127.1
+2257,MYS,Malaysia,2012,Both sexes,129.3
+2258,PER,Peru,2012,Both sexes,129.4
+2262,TJK,Tajikistan,2012,Both sexes,130.0
+2263,VNM,Viet Nam,2012,Both sexes,130.2
+2264,ARM,Armenia,2012,Both sexes,130.6
+2267,MEX,Mexico,2012,Both sexes,131.0
+2268,LKA,Sri Lanka,2012,Both sexes,131.1
+2271,CPV,Cabo Verde,2012,Both sexes,132.7
+2272,EST,Estonia,2012,Both sexes,133.9
+2277,BGR,Bulgaria,2012,Both sexes,136.6
+2279,JAM,Jamaica,2012,Both sexes,137.3
+2281,VUT,Vanuatu,2012,Both sexes,139.3
+2282,TON,Tonga,2012,Both sexes,139.4
+2283,BGD,Bangladesh,2012,Both sexes,139.7
+2284,COL,Colombia,2012,Both sexes,139.8
+2285,ROU,Romania,2012,Both sexes,140.6
+2289,PRK,Democratic People's Republic of Korea,2012,Both sexes,141.8
+2290,HUN,Hungary,2012,Both sexes,142.7
+2293,UZB,Uzbekistan,2012,Both sexes,144.8
+2294,IRQ,Iraq,2012,Both sexes,145.1
+2296,GRD,Grenada,2012,Both sexes,146.7
+2300,PRY,Paraguay,2012,Both sexes,148.8
+2303,BRA,Brazil,2012,Both sexes,150.4
+2304,HND,Honduras,2012,Both sexes,150.9
+2306,MUS,Mauritius,2012,Both sexes,152.0
+2308,LCA,Saint Lucia,2012,Both sexes,152.7
+2313,NIC,Nicaragua,2012,Both sexes,155.0
+2314,THA,Thailand,2012,Both sexes,155.4
+2318,GEO,Georgia,2012,Both sexes,157.2
+2322,TLS,Timor-Leste,2012,Both sexes,159.0
+2324,SLB,Solomon Islands,2012,Both sexes,160.3
+2326,LVA,Latvia,2012,Both sexes,162.0
+2327,BHS,Bahamas,2012,Both sexes,162.7
+2328,VEN,Venezuela (Bolivarian Republic of),2012,Both sexes,163.2
+2336,NPL,Nepal,2012,Both sexes,168.5
+2339,FSM,Micronesia (Federated States of),2012,Both sexes,169.4
+2340,PAK,Pakistan,2012,Both sexes,169.6
+2341,DOM,Dominican Republic,2012,Both sexes,170.9
+2345,GTM,Guatemala,2012,Both sexes,173.0
+2346,VCT,Saint Vincent and the Grenadines,2012,Both sexes,173.6
+2347,EGY,Egypt,2012,Both sexes,173.8
+2350,SYC,Seychelles,2012,Both sexes,174.2
+2354,TTO,Trinidad and Tobago,2012,Both sexes,178.7
+2356,LTU,Lithuania,2012,Both sexes,179.6
+2359,IDN,Indonesia,2012,Both sexes,182.8
+2360,BLZ,Belize,2012,Both sexes,183.1
+2361,MDA,Republic of Moldova,2012,Both sexes,183.1
+2364,KHM,Cambodia,2012,Both sexes,185.9
+2366,SLV,El Salvador,2012,Both sexes,186.3
+2369,IND,India,2012,Both sexes,188.3
+2370,SUR,Suriname,2012,Both sexes,188.3
+2375,TKM,Turkmenistan,2012,Both sexes,189.1
+2376,KGZ,Kyrgyzstan,2012,Both sexes,189.2
+2380,BLR,Belarus,2012,Both sexes,191.8
+2382,BOL,Bolivia (Plurinational State of),2012,Both sexes,194.8
+2383,FJI,Fiji,2012,Both sexes,194.8
+2387,STP,Sao Tome and Principe,2012,Both sexes,198.4
+2389,SEN,Senegal,2012,Both sexes,199.6
+2391,PHL,Philippines,2012,Both sexes,200.3
+2396,KIR,Kiribati,2012,Both sexes,204.6
+2399,MMR,Myanmar,2012,Both sexes,207.6
+2400,MRT,Mauritania,2012,Both sexes,208.4
+2401,LAO,Lao People's Democratic Republic,2012,Both sexes,209.3
+2405,UKR,Ukraine,2012,Both sexes,210.8
+2416,RWA,Rwanda,2012,Both sexes,219.5
+2418,MNG,Mongolia,2012,Both sexes,221.6
+2419,BTN,Bhutan,2012,Both sexes,222.0
+2421,KAZ,Kazakhstan,2012,Both sexes,224.3
+2431,RUS,Russian Federation,2012,Both sexes,229.7
+2435,PNG,Papua New Guinea,2012,Both sexes,233.9
+2436,YEM,Yemen,2012,Both sexes,234.4
+2438,MDG,Madagascar,2012,Both sexes,234.8
+2440,SDN,Sudan,2012,Both sexes,235.5
+2442,COM,Comoros,2012,Both sexes,236.5
+2445,LBR,Liberia,2012,Both sexes,239.5
+2446,ETH,Ethiopia,2012,Both sexes,239.7
+2453,AFG,Afghanistan,2012,Both sexes,242.3
+2455,KEN,Kenya,2012,Both sexes,245.0
+2462,BEN,Benin,2012,Both sexes,251.6
+2465,AGO,Angola,2012,Both sexes,253.2
+2466,GHA,Ghana,2012,Both sexes,254.8
+2468,HTI,Haiti,2012,Both sexes,256.5
+2471,DJI,Djibouti,2012,Both sexes,260.1
+2477,NER,Niger,2012,Both sexes,264.5
+2484,BFA,Burkina Faso,2012,Both sexes,267.5
+2485,GMB,Gambia,2012,Both sexes,269.0
+2486,GAB,Gabon,2012,Both sexes,269.4
+2489,GUY,Guyana,2012,Both sexes,271.8
+2495,COD,Democratic Republic of the Congo,2012,Both sexes,276.3
+2497,ERI,Eritrea,2012,Both sexes,277.1
+2500,SYR,Syrian Arab Republic,2012,Both sexes,278.0
+2501,GIN,Guinea,2012,Both sexes,279.3
+2503,MLI,Mali,2012,Both sexes,280.5
+2504,COG,Congo,2012,Both sexes,281.4
+2505,TGO,Togo,2012,Both sexes,281.4
+2511,GNB,Guinea-Bissau,2012,Both sexes,289.5
+2516,NAM,Namibia,2012,Both sexes,293.4
+2522,BWA,Botswana,2012,Both sexes,301.5
+2527,BDI,Burundi,2012,Both sexes,307.7
+2532,MWI,Malawi,2012,Both sexes,324.8
+2533,TZA,United Republic of Tanzania,2012,Both sexes,325.4
+2534,ZMB,Zambia,2012,Both sexes,325.4
+2537,SOM,Somalia,2012,Both sexes,329.1
+2540,UGA,Uganda,2012,Both sexes,335.4
+2541,GNQ,Equatorial Guinea,2012,Both sexes,335.6
+2543,SSD,South Sudan,2012,Both sexes,340.9
+2548,CMR,Cameroon,2012,Both sexes,352.3
+2554,ZAF,South Africa,2012,Both sexes,360.6
+2561,TCD,Chad,2012,Both sexes,370.6
+2562,NGA,Nigeria,2012,Both sexes,373.1
+2571,SLE,Sierra Leone,2012,Both sexes,395.4
+2579,MOZ,Mozambique,2012,Both sexes,404.4
+2580,ZWE,Zimbabwe,2012,Both sexes,406.7
+2581,CIV,Côte d’Ivoire,2012,Both sexes,416.3
+2591,SWZ,Eswatini,2012,Both sexes,443.0
+2592,CAF,Central African Republic,2012,Both sexes,445.2
+2599,LSO,Lesotho,2012,Both sexes,478.5
+2603,ISL,Iceland,2012,Both sexes,50.46
+2612,CHE,Switzerland,2012,Both sexes,53.88
+2615,CYP,Cyprus,2012,Both sexes,54.73
+2616,SWE,Sweden,2012,Both sexes,56.48
+2617,MLT,Malta,2012,Both sexes,56.77
+2618,ITA,Italy,2012,Both sexes,56.78
+2619,JPN,Japan,2012,Both sexes,57.19
+2620,SGP,Singapore,2012,Both sexes,57.35
+2622,ISR,Israel,2012,Both sexes,57.52
+2625,NOR,Norway,2012,Both sexes,59.79
+2626,AUS,Australia,2012,Both sexes,59.8
+2630,ESP,Spain,2012,Both sexes,60.9
+2633,MDV,Maldives,2012,Both sexes,62.29
+2634,LUX,Luxembourg,2012,Both sexes,62.58
+2636,NLD,Netherlands,2012,Both sexes,62.95
+2637,QAT,Qatar,2012,Both sexes,65.08
+2639,BHR,Bahrain,2012,Both sexes,65.73
+2640,IRL,Ireland,2012,Both sexes,65.81
+2644,CAN,Canada,2012,Both sexes,67.53
+2645,NZL,New Zealand,2012,Both sexes,67.99
+2647,AUT,Austria,2012,Both sexes,68.41
+2650,GBR,United Kingdom of Great Britain and Northern Ireland,2012,Both sexes,68.67
+2655,KOR,Republic of Korea,2012,Both sexes,70.13
+2661,GRC,Greece,2012,Both sexes,72.44
+2663,DEU,Germany,2012,Both sexes,72.74
+2674,DNK,Denmark,2012,Both sexes,74.62
+2676,MAR,Morocco,2012,Both sexes,74.92
+2686,BEL,Belgium,2012,Both sexes,78.97
+2687,ARE,United Arab Emirates,2012,Both sexes,79.04
+2690,FRA,France,2012,Both sexes,80.11
+2691,FIN,Finland,2012,Both sexes,80.43
+2693,PRT,Portugal,2012,Both sexes,80.59
+2694,SVN,Slovenia,2012,Both sexes,81.42
+2703,KWT,Kuwait,2012,Both sexes,82.71
+2708,CHN,China,2012,Both sexes,85.02
+2711,IRN,Iran (Islamic Republic of),2012,Both sexes,86.91
+2712,CHL,Chile,2012,Both sexes,89.09
+2720,BRN,Brunei Darussalam,2012,Both sexes,91.74
+2721,CZE,Czechia,2012,Both sexes,92.58
+2724,SAU,Saudi Arabia,2012,Both sexes,93.76
+2729,LBN,Lebanon,2012,Both sexes,94.58
+2730,CUB,Cuba,2012,Both sexes,95.85
+2732,TUN,Tunisia,2012,Both sexes,96.45
+2739,BIH,Bosnia and Herzegovina,2012,Both sexes,98.49
+2740,CRI,Costa Rica,2012,Both sexes,98.66
+2749,MKD,The former Yugoslav Republic of Macedonia,2011,Both sexes,101.7
+2752,DZA,Algeria,2011,Both sexes,102.9
+2753,ALB,Albania,2011,Both sexes,103.2
+2755,HRV,Croatia,2011,Both sexes,103.4
+2759,OMN,Oman,2011,Both sexes,105.2
+2760,USA,United States of America,2011,Both sexes,105.7
+2761,BRB,Barbados,2011,Both sexes,105.8
+2769,MNE,Montenegro,2011,Both sexes,110.7
+2771,LBN,Lebanon,2011,Both sexes,111.1
+2776,SRB,Serbia,2011,Both sexes,112.9
+2778,TUR,Türkiye,2011,Both sexes,114.5
+2782,JOR,Jordan,2011,Both sexes,115.3
+2784,PAN,Panama,2011,Both sexes,116.6
+2787,URY,Uruguay,2011,Both sexes,117.4
+2788,ARG,Argentina,2011,Both sexes,117.9
+2793,SVK,Slovakia,2011,Both sexes,119.7
+2801,WSM,Samoa,2011,Both sexes,127.4
+2802,ATG,Antigua and Barbuda,2011,Both sexes,128.2
+2804,POL,Poland,2011,Both sexes,128.5
+2809,AZE,Azerbaijan,2011,Both sexes,129.2
+2811,PER,Peru,2011,Both sexes,130.2
+2812,MYS,Malaysia,2011,Both sexes,130.4
+2813,ECU,Ecuador,2011,Both sexes,130.5
+2815,LKA,Sri Lanka,2011,Both sexes,131.2
+2816,VNM,Viet Nam,2011,Both sexes,131.3
+2822,TJK,Tajikistan,2011,Both sexes,132.6
+2824,MEX,Mexico,2011,Both sexes,132.9
+2828,ARM,Armenia,2011,Both sexes,135.2
+2829,CPV,Cabo Verde,2011,Both sexes,135.5
+2832,EST,Estonia,2011,Both sexes,136.5
+2834,JAM,Jamaica,2011,Both sexes,138.6
+2836,COL,Colombia,2011,Both sexes,140.1
+2837,TON,Tonga,2011,Both sexes,140.8
+2838,BGR,Bulgaria,2011,Both sexes,140.9
+2839,ROU,Romania,2011,Both sexes,141.2
+2840,BGD,Bangladesh,2011,Both sexes,141.3
+2842,SYR,Syrian Arab Republic,2011,Both sexes,141.9
+2843,VUT,Vanuatu,2011,Both sexes,142.4
+2845,IRQ,Iraq,2011,Both sexes,144.0
+2846,UZB,Uzbekistan,2011,Both sexes,144.4
+2850,HUN,Hungary,2011,Both sexes,146.7
+2851,PRK,Democratic People's Republic of Korea,2011,Both sexes,147.1
+2853,PRY,Paraguay,2011,Both sexes,149.7
+2854,GRD,Grenada,2011,Both sexes,149.8
+2860,LCA,Saint Lucia,2011,Both sexes,152.6
+2861,HND,Honduras,2011,Both sexes,152.9
+2862,BRA,Brazil,2011,Both sexes,153.0
+2863,GEO,Georgia,2011,Both sexes,153.3
+2869,MUS,Mauritius,2011,Both sexes,156.1
+2870,LBY,Libya,2011,Both sexes,156.2
+2872,NIC,Nicaragua,2011,Both sexes,157.5
+2873,BHS,Bahamas,2011,Both sexes,158.0
+2875,THA,Thailand,2011,Both sexes,158.2
+2879,VEN,Venezuela (Bolivarian Republic of),2011,Both sexes,160.2
+2880,TLS,Timor-Leste,2011,Both sexes,160.6
+2883,SLB,Solomon Islands,2011,Both sexes,165.0
+2886,LVA,Latvia,2011,Both sexes,167.0
+2888,VCT,Saint Vincent and the Grenadines,2011,Both sexes,167.1
+2893,FSM,Micronesia (Federated States of),2011,Both sexes,170.5
+2896,PAK,Pakistan,2011,Both sexes,171.3
+2898,NPL,Nepal,2011,Both sexes,173.3
+2900,EGY,Egypt,2011,Both sexes,174.6
+2901,DOM,Dominican Republic,2011,Both sexes,174.7
+2907,SYC,Seychelles,2011,Both sexes,177.5
+2910,GTM,Guatemala,2011,Both sexes,179.8
+2911,TTO,Trinidad and Tobago,2011,Both sexes,180.1
+2914,BLZ,Belize,2011,Both sexes,182.4
+2917,MDA,Republic of Moldova,2011,Both sexes,183.2
+2918,LTU,Lithuania,2011,Both sexes,183.8
+2919,IDN,Indonesia,2011,Both sexes,184.8
+2924,SLV,El Salvador,2011,Both sexes,188.9
+2926,TKM,Turkmenistan,2011,Both sexes,189.5
+2928,SUR,Suriname,2011,Both sexes,190.9
+2929,IND,India,2011,Both sexes,191.1
+2930,KHM,Cambodia,2011,Both sexes,191.4
+2936,KGZ,Kyrgyzstan,2011,Both sexes,195.8
+2937,FJI,Fiji,2011,Both sexes,196.9
+2939,BOL,Bolivia (Plurinational State of),2011,Both sexes,198.3
+2943,PHL,Philippines,2011,Both sexes,201.9
+2945,STP,Sao Tome and Principe,2011,Both sexes,202.2
+2949,SEN,Senegal,2011,Both sexes,204.2
+2952,KIR,Kiribati,2011,Both sexes,206.0
+2954,UKR,Ukraine,2011,Both sexes,208.8
+2957,MRT,Mauritania,2011,Both sexes,210.9
+2958,MMR,Myanmar,2011,Both sexes,211.5
+2962,LAO,Lao People's Democratic Republic,2011,Both sexes,213.9
+2973,BTN,Bhutan,2011,Both sexes,225.0
+2977,MNG,Mongolia,2011,Both sexes,227.0
+2978,BLR,Belarus,2011,Both sexes,227.1
+2980,RWA,Rwanda,2011,Both sexes,227.5
+2986,KAZ,Kazakhstan,2011,Both sexes,231.6
+2989,YEM,Yemen,2011,Both sexes,233.8
+2990,PNG,Papua New Guinea,2011,Both sexes,234.5
+2994,RUS,Russian Federation,2011,Both sexes,236.6
+2996,COM,Comoros,2011,Both sexes,240.5
+2997,MDG,Madagascar,2011,Both sexes,240.8
+2998,SDN,Sudan,2011,Both sexes,241.0
+3004,LBR,Liberia,2011,Both sexes,247.3
+3008,AFG,Afghanistan,2011,Both sexes,248.2
+3012,ETH,Ethiopia,2011,Both sexes,249.2
+3017,BEN,Benin,2011,Both sexes,254.2
+3019,HTI,Haiti,2011,Both sexes,256.1
+3022,AGO,Angola,2011,Both sexes,260.1
+3023,GUY,Guyana,2011,Both sexes,262.7
+3025,GHA,Ghana,2011,Both sexes,263.1
+3028,KEN,Kenya,2011,Both sexes,265.0
+3030,DJI,Djibouti,2011,Both sexes,265.5
+3033,NER,Niger,2011,Both sexes,267.1
+3039,BFA,Burkina Faso,2011,Both sexes,272.4
+3042,GMB,Gambia,2011,Both sexes,275.3
+3048,COD,Democratic Republic of the Congo,2011,Both sexes,278.3
+3051,MLI,Mali,2011,Both sexes,281.0
+3053,GAB,Gabon,2011,Both sexes,281.8
+3055,GIN,Guinea,2011,Both sexes,282.5
+3057,ERI,Eritrea,2011,Both sexes,284.7
+3064,TGO,Togo,2011,Both sexes,290.5
+3065,COG,Congo,2011,Both sexes,291.2
+3068,GNB,Guinea-Bissau,2011,Both sexes,296.1
+3080,NAM,Namibia,2011,Both sexes,310.2
+3082,BDI,Burundi,2011,Both sexes,314.7
+3083,BWA,Botswana,2011,Both sexes,319.1
+3087,SOM,Somalia,2011,Both sexes,327.9
+3088,TZA,United Republic of Tanzania,2011,Both sexes,328.1
+3089,GNQ,Equatorial Guinea,2011,Both sexes,335.0
+3095,ZMB,Zambia,2011,Both sexes,341.7
+3098,MWI,Malawi,2011,Both sexes,343.7
+3099,UGA,Uganda,2011,Both sexes,347.7
+3100,SSD,South Sudan,2011,Both sexes,348.5
+3103,CMR,Cameroon,2011,Both sexes,354.5
+3111,TCD,Chad,2011,Both sexes,370.3
+3114,NGA,Nigeria,2011,Both sexes,376.3
+3120,ZAF,South Africa,2011,Both sexes,396.8
+3126,SLE,Sierra Leone,2011,Both sexes,403.4
+3128,MOZ,Mozambique,2011,Both sexes,405.6
+3130,CIV,Côte d’Ivoire,2011,Both sexes,408.8
+3143,ZWE,Zimbabwe,2011,Both sexes,440.1
+3146,CAF,Central African Republic,2011,Both sexes,449.9
+3149,LSO,Lesotho,2011,Both sexes,467.2
+3150,SWZ,Eswatini,2011,Both sexes,468.9
+3159,ISL,Iceland,2011,Both sexes,50.96
+3166,CHE,Switzerland,2011,Both sexes,54.46
+3171,ITA,Italy,2011,Both sexes,57.58
+3172,SWE,Sweden,2011,Both sexes,57.77
+3173,CYP,Cyprus,2011,Both sexes,58.28
+3174,SGP,Singapore,2011,Both sexes,58.7
+3175,MLT,Malta,2011,Both sexes,58.85
+3177,ISR,Israel,2011,Both sexes,59.24
+3182,AUS,Australia,2011,Both sexes,61.96
+3186,JPN,Japan,2011,Both sexes,62.19
+3187,ESP,Spain,2011,Both sexes,63.17
+3189,NLD,Netherlands,2011,Both sexes,63.89
+3190,QAT,Qatar,2011,Both sexes,65.26
+3191,LUX,Luxembourg,2011,Both sexes,65.5
+3192,MDV,Maldives,2011,Both sexes,65.54
+3193,BHR,Bahrain,2011,Both sexes,65.57
+3195,NOR,Norway,2011,Both sexes,66.36
+3196,CAN,Canada,2011,Both sexes,66.75
+3197,IRL,Ireland,2011,Both sexes,67.12
+3207,GBR,United Kingdom of Great Britain and Northern Ireland,2011,Both sexes,71.07
+3211,NZL,New Zealand,2011,Both sexes,71.37
+3212,AUT,Austria,2011,Both sexes,71.6
+3217,GRC,Greece,2011,Both sexes,73.31
+3218,KOR,Republic of Korea,2011,Both sexes,73.51
+3228,DEU,Germany,2011,Both sexes,75.34
+3233,DNK,Denmark,2011,Both sexes,77.61
+3234,MAR,Morocco,2011,Both sexes,77.95
+3241,ARE,United Arab Emirates,2011,Both sexes,80.29
+3244,BEL,Belgium,2011,Both sexes,80.81
+3248,SVN,Slovenia,2011,Both sexes,81.91
+3251,FRA,France,2011,Both sexes,83.24
+3252,KWT,Kuwait,2011,Both sexes,83.5
+3254,PRT,Portugal,2011,Both sexes,83.85
+3257,FIN,Finland,2011,Both sexes,84.18
+3262,CHN,China,2011,Both sexes,86.4
+3268,CHL,Chile,2011,Both sexes,90.39
+3270,BRN,Brunei Darussalam,2011,Both sexes,91.13
+3272,CUB,Cuba,2011,Both sexes,91.7
+3278,IRN,Iran (Islamic Republic of),2011,Both sexes,94.96
+3279,SAU,Saudi Arabia,2011,Both sexes,95.4
+3282,CZE,Czechia,2011,Both sexes,96.19
+3288,TUN,Tunisia,2011,Both sexes,97.9
+3291,CRI,Costa Rica,2011,Both sexes,99.52
+3293,BIH,Bosnia and Herzegovina,2011,Both sexes,99.61
+3295,BIH,Bosnia and Herzegovina,2010,Both sexes,100.7
+3302,ALB,Albania,2010,Both sexes,103.5
+3303,DZA,Algeria,2010,Both sexes,104.4
+3307,USA,United States of America,2010,Both sexes,105.2
+3309,HRV,Croatia,2010,Both sexes,105.7
+3310,MKD,The former Yugoslav Republic of Macedonia,2010,Both sexes,105.8
+3313,CRI,Costa Rica,2010,Both sexes,106.5
+3314,OMN,Oman,2010,Both sexes,106.8
+3317,IRN,Iran (Islamic Republic of),2010,Both sexes,107.1
+3320,BRB,Barbados,2010,Both sexes,107.8
+3323,MNE,Montenegro,2010,Both sexes,111.9
+3328,SRB,Serbia,2010,Both sexes,115.1
+3331,TUR,Türkiye,2010,Both sexes,116.2
+3332,JOR,Jordan,2010,Both sexes,116.4
+3334,PAN,Panama,2010,Both sexes,117.0
+3337,URY,Uruguay,2010,Both sexes,117.9
+3339,ARG,Argentina,2010,Both sexes,118.7
+3345,SVK,Slovakia,2010,Both sexes,122.1
+3350,SYR,Syrian Arab Republic,2010,Both sexes,123.6
+3353,LBY,Libya,2010,Both sexes,128.0
+3358,POL,Poland,2010,Both sexes,131.2
+3359,LKA,Sri Lanka,2010,Both sexes,131.2
+3361,MYS,Malaysia,2010,Both sexes,131.5
+3365,AZE,Azerbaijan,2010,Both sexes,131.8
+3366,PER,Peru,2010,Both sexes,132.2
+3367,VNM,Viet Nam,2010,Both sexes,132.2
+3371,WSM,Samoa,2010,Both sexes,133.8
+3373,ECU,Ecuador,2010,Both sexes,134.1
+3374,EST,Estonia,2010,Both sexes,134.5
+3375,ATG,Antigua and Barbuda,2010,Both sexes,134.6
+3379,TJK,Tajikistan,2010,Both sexes,135.4
+3381,MEX,Mexico,2010,Both sexes,135.6
+3385,ARM,Armenia,2010,Both sexes,137.9
+3386,CPV,Cabo Verde,2010,Both sexes,138.1
+3388,JAM,Jamaica,2010,Both sexes,139.2
+3390,TON,Tonga,2010,Both sexes,142.1
+3391,BGD,Bangladesh,2010,Both sexes,143.1
+3393,BGR,Bulgaria,2010,Both sexes,143.4
+3394,IRQ,Iraq,2010,Both sexes,144.4
+3395,UZB,Uzbekistan,2010,Both sexes,144.9
+3397,COL,Colombia,2010,Both sexes,145.6
+3398,VUT,Vanuatu,2010,Both sexes,145.7
+3406,PRY,Paraguay,2010,Both sexes,151.7
+3407,HUN,Hungary,2010,Both sexes,152.1
+3408,LCA,Saint Lucia,2010,Both sexes,152.6
+3412,GRD,Grenada,2010,Both sexes,153.7
+3413,PRK,Democratic People's Republic of Korea,2010,Both sexes,153.8
+3415,BRA,Brazil,2010,Both sexes,154.3
+3416,ROU,Romania,2010,Both sexes,154.7
+3418,HND,Honduras,2010,Both sexes,155.5
+3421,GEO,Georgia,2010,Both sexes,156.8
+3425,BHS,Bahamas,2010,Both sexes,159.0
+3428,NIC,Nicaragua,2010,Both sexes,160.1
+3430,THA,Thailand,2010,Both sexes,161.2
+3431,VEN,Venezuela (Bolivarian Republic of),2010,Both sexes,161.6
+3432,MUS,Mauritius,2010,Both sexes,162.0
+3433,TLS,Timor-Leste,2010,Both sexes,162.7
+3435,VCT,Saint Vincent and the Grenadines,2010,Both sexes,163.2
+3442,SLB,Solomon Islands,2010,Both sexes,170.3
+3446,FSM,Micronesia (Federated States of),2010,Both sexes,171.6
+3451,PAK,Pakistan,2010,Both sexes,175.3
+3455,EGY,Egypt,2010,Both sexes,177.9
+3456,NPL,Nepal,2010,Both sexes,178.0
+3458,LVA,Latvia,2010,Both sexes,178.3
+3459,TTO,Trinidad and Tobago,2010,Both sexes,178.6
+3461,DOM,Dominican Republic,2010,Both sexes,179.7
+3462,SYC,Seychelles,2010,Both sexes,180.6
+3465,BLZ,Belize,2010,Both sexes,182.2
+3470,GTM,Guatemala,2010,Both sexes,186.1
+3471,IDN,Indonesia,2010,Both sexes,187.0
+3473,TKM,Turkmenistan,2010,Both sexes,188.4
+3474,LTU,Lithuania,2010,Both sexes,188.5
+3479,SLV,El Salvador,2010,Both sexes,192.0
+3482,SUR,Suriname,2010,Both sexes,194.1
+3483,IND,India,2010,Both sexes,194.4
+3486,KHM,Cambodia,2010,Both sexes,196.3
+3491,FJI,Fiji,2010,Both sexes,199.9
+3492,BOL,Bolivia (Plurinational State of),2010,Both sexes,202.2
+3496,PHL,Philippines,2010,Both sexes,203.1
+3497,STP,Sao Tome and Principe,2010,Both sexes,205.1
+3499,KIR,Kiribati,2010,Both sexes,207.3
+3502,KGZ,Kyrgyzstan,2010,Both sexes,208.7
+3503,SEN,Senegal,2010,Both sexes,209.2
+3508,MRT,Mauritania,2010,Both sexes,212.7
+3510,MMR,Myanmar,2010,Both sexes,214.7
+3513,UKR,Ukraine,2010,Both sexes,217.5
+3515,LAO,Lao People's Democratic Republic,2010,Both sexes,218.1
+3521,MDA,Republic of Moldova,2010,Both sexes,223.3
+3525,BLR,Belarus,2010,Both sexes,225.5
+3528,BTN,Bhutan,2010,Both sexes,227.8
+3535,MNG,Mongolia,2010,Both sexes,233.8
+3536,YEM,Yemen,2010,Both sexes,233.9
+3537,PNG,Papua New Guinea,2010,Both sexes,234.7
+3542,RWA,Rwanda,2010,Both sexes,239.1
+3546,KAZ,Kazakhstan,2010,Both sexes,242.8
+3547,SDN,Sudan,2010,Both sexes,242.9
+3549,COM,Comoros,2010,Both sexes,245.4
+3552,MDG,Madagascar,2010,Both sexes,247.5
+3557,RUS,Russian Federation,2010,Both sexes,250.6
+3561,AFG,Afghanistan,2010,Both sexes,254.8
+3564,BEN,Benin,2010,Both sexes,256.7
+3567,GUY,Guyana,2010,Both sexes,257.9
+3568,LBR,Liberia,2010,Both sexes,258.0
+3572,ETH,Ethiopia,2010,Both sexes,261.9
+3575,NER,Niger,2010,Both sexes,269.0
+3576,GHA,Ghana,2010,Both sexes,269.5
+3577,AGO,Angola,2010,Both sexes,269.7
+3580,DJI,Djibouti,2010,Both sexes,271.3
+3587,BFA,Burkina Faso,2010,Both sexes,277.2
+3593,GMB,Gambia,2010,Both sexes,282.4
+3595,MLI,Mali,2010,Both sexes,282.8
+3596,COD,Democratic Republic of the Congo,2010,Both sexes,283.2
+3598,KEN,Kenya,2010,Both sexes,285.3
+3600,GIN,Guinea,2010,Both sexes,286.2
+3602,GAB,Gabon,2010,Both sexes,288.3
+3608,ERI,Eritrea,2010,Both sexes,292.7
+3612,GNB,Guinea-Bissau,2010,Both sexes,297.9
+3614,COG,Congo,2010,Both sexes,299.7
+3620,TGO,Togo,2010,Both sexes,306.4
+3631,BDI,Burundi,2010,Both sexes,322.7
+3634,NAM,Namibia,2010,Both sexes,327.6
+3636,BWA,Botswana,2010,Both sexes,331.2
+3637,GNQ,Equatorial Guinea,2010,Both sexes,334.7
+3638,SOM,Somalia,2010,Both sexes,335.4
+3643,TZA,United Republic of Tanzania,2010,Both sexes,342.5
+3647,SSD,South Sudan,2010,Both sexes,353.7
+3648,CMR,Cameroon,2010,Both sexes,354.8
+3652,ZMB,Zambia,2010,Both sexes,363.6
+3653,UGA,Uganda,2010,Both sexes,364.3
+3655,MWI,Malawi,2010,Both sexes,366.3
+3660,TCD,Chad,2010,Both sexes,373.4
+3662,NGA,Nigeria,2010,Both sexes,377.6
+3674,MOZ,Mozambique,2010,Both sexes,408.9
+3677,SLE,Sierra Leone,2010,Both sexes,414.6
+3678,CIV,Côte d’Ivoire,2010,Both sexes,415.4
+3679,ZAF,South Africa,2010,Both sexes,416.3
+3694,CAF,Central African Republic,2010,Both sexes,458.0
+3699,LSO,Lesotho,2010,Both sexes,477.8
+3705,ZWE,Zimbabwe,2010,Both sexes,500.4
+3706,SWZ,Eswatini,2010,Both sexes,503.0
+3712,ISL,Iceland,2010,Both sexes,53.36
+3720,CHE,Switzerland,2010,Both sexes,57.03
+3721,ITA,Italy,2010,Both sexes,57.76
+3722,SWE,Sweden,2010,Both sexes,57.87
+3725,MLT,Malta,2010,Both sexes,58.29
+3727,ISR,Israel,2010,Both sexes,59.69
+3728,SGP,Singapore,2010,Both sexes,60.01
+3730,JPN,Japan,2010,Both sexes,61.36
+3734,AUS,Australia,2010,Both sexes,63.06
+3737,NLD,Netherlands,2010,Both sexes,64.33
+3738,ESP,Spain,2010,Both sexes,64.63
+3739,CYP,Cyprus,2010,Both sexes,65.01
+3740,NOR,Norway,2010,Both sexes,65.04
+3741,IRL,Ireland,2010,Both sexes,65.12
+3742,QAT,Qatar,2010,Both sexes,65.15
+3744,BHR,Bahrain,2010,Both sexes,65.97
+3746,LUX,Luxembourg,2010,Both sexes,66.83
+3751,CAN,Canada,2010,Both sexes,68.89
+3752,HTI,Haiti,2010,Both sexes,682.5
+3755,NZL,New Zealand,2010,Both sexes,70.84
+3756,MDV,Maldives,2010,Both sexes,71.1
+3764,GRC,Greece,2010,Both sexes,73.57
+3767,GBR,United Kingdom of Great Britain and Northern Ireland,2010,Both sexes,73.79
+3769,AUT,Austria,2010,Both sexes,74.43
+3776,KOR,Republic of Korea,2010,Both sexes,76.04
+3782,DEU,Germany,2010,Both sexes,77.52
+3794,BEL,Belgium,2010,Both sexes,81.24
+3796,ARE,United Arab Emirates,2010,Both sexes,81.49
+3797,MAR,Morocco,2010,Both sexes,81.99
+3798,DNK,Denmark,2010,Both sexes,82.55
+3800,KWT,Kuwait,2010,Both sexes,84.09
+3805,FRA,France,2010,Both sexes,85.28
+3806,PRT,Portugal,2010,Both sexes,86.04
+3810,SVN,Slovenia,2010,Both sexes,87.21
+3812,FIN,Finland,2010,Both sexes,87.86
+3814,CHN,China,2010,Both sexes,87.96
+3821,BRN,Brunei Darussalam,2010,Both sexes,91.16
+3825,CHL,Chile,2010,Both sexes,93.63
+3827,LBN,Lebanon,2010,Both sexes,95.31
+3831,SAU,Saudi Arabia,2010,Both sexes,97.12
+3834,CUB,Cuba,2010,Both sexes,97.35
+3837,CZE,Czechia,2010,Both sexes,98.47
+3841,TUN,Tunisia,2010,Both sexes,99.43
+3844,TUN,Tunisia,2009,Both sexes,100.9
+3846,CZE,Czechia,2009,Both sexes,101.1
+3852,ALB,Albania,2009,Both sexes,102.8
+3857,BIH,Bosnia and Herzegovina,2009,Both sexes,103.9
+3858,DZA,Algeria,2009,Both sexes,106.9
+3863,USA,United States of America,2009,Both sexes,107.8
+3865,OMN,Oman,2009,Both sexes,108.4
+3866,MKD,The former Yugoslav Republic of Macedonia,2009,Both sexes,108.9
+3869,HRV,Croatia,2009,Both sexes,109.4
+3871,BRB,Barbados,2009,Both sexes,110.0
+3878,MNE,Montenegro,2009,Both sexes,115.4
+3882,JOR,Jordan,2009,Both sexes,117.5
+3885,URY,Uruguay,2009,Both sexes,118.2
+3886,TUR,Türkiye,2009,Both sexes,118.4
+3889,SRB,Serbia,2009,Both sexes,119.5
+3893,IRN,Iran (Islamic Republic of),2009,Both sexes,121.8
+3894,PAN,Panama,2009,Both sexes,122.2
+3895,ARG,Argentina,2009,Both sexes,123.1
+3897,SYR,Syrian Arab Republic,2009,Both sexes,123.3
+3909,LBY,Libya,2009,Both sexes,129.8
+3910,SVK,Slovakia,2009,Both sexes,130.1
+3913,MYS,Malaysia,2009,Both sexes,132.7
+3916,AZE,Azerbaijan,2009,Both sexes,133.0
+3918,VNM,Viet Nam,2009,Both sexes,133.2
+3922,PER,Peru,2009,Both sexes,134.7
+3925,MEX,Mexico,2009,Both sexes,135.6
+3926,TJK,Tajikistan,2009,Both sexes,135.8
+3928,POL,Poland,2009,Both sexes,137.2
+3929,ECU,Ecuador,2009,Both sexes,137.3
+3931,ATG,Antigua and Barbuda,2009,Both sexes,138.2
+3935,CPV,Cabo Verde,2009,Both sexes,139.4
+3940,ARM,Armenia,2009,Both sexes,142.1
+3942,JAM,Jamaica,2009,Both sexes,143.4
+3943,BGD,Bangladesh,2009,Both sexes,145.0
+3944,COL,Colombia,2009,Both sexes,146.6
+3945,TON,Tonga,2009,Both sexes,146.9
+3946,BGR,Bulgaria,2009,Both sexes,147.3
+3948,UZB,Uzbekistan,2009,Both sexes,149.1
+3949,VUT,Vanuatu,2009,Both sexes,149.2
+3950,IRQ,Iraq,2009,Both sexes,149.6
+3953,LCA,Saint Lucia,2009,Both sexes,151.8
+3957,EST,Estonia,2009,Both sexes,153.6
+3958,PRY,Paraguay,2009,Both sexes,154.2
+3959,HND,Honduras,2009,Both sexes,156.0
+3960,BRA,Brazil,2009,Both sexes,156.2
+3964,GEO,Georgia,2009,Both sexes,156.4
+3968,GRD,Grenada,2009,Both sexes,157.9
+3974,ROU,Romania,2009,Both sexes,160.0
+3975,HUN,Hungary,2009,Both sexes,160.1
+3976,PRK,Democratic People's Republic of Korea,2009,Both sexes,160.3
+3979,VCT,Saint Vincent and the Grenadines,2009,Both sexes,162.2
+3980,NIC,Nicaragua,2009,Both sexes,162.3
+3984,WSM,Samoa,2009,Both sexes,163.8
+3985,THA,Thailand,2009,Both sexes,164.1
+3987,MUS,Mauritius,2009,Both sexes,165.4
+3988,TLS,Timor-Leste,2009,Both sexes,165.4
+3989,BHS,Bahamas,2009,Both sexes,166.3
+3993,VEN,Venezuela (Bolivarian Republic of),2009,Both sexes,170.1
+3995,FSM,Micronesia (Federated States of),2009,Both sexes,172.6
+4004,PAK,Pakistan,2009,Both sexes,176.9
+4005,SLB,Solomon Islands,2009,Both sexes,177.4
+4006,EGY,Egypt,2009,Both sexes,177.8
+4009,LKA,Sri Lanka,2009,Both sexes,179.0
+4012,NPL,Nepal,2009,Both sexes,182.7
+4013,SYC,Seychelles,2009,Both sexes,183.0
+4015,BLZ,Belize,2009,Both sexes,183.3
+4016,LVA,Latvia,2009,Both sexes,184.5
+4017,TTO,Trinidad and Tobago,2009,Both sexes,184.7
+4019,DOM,Dominican Republic,2009,Both sexes,185.4
+4025,IDN,Indonesia,2009,Both sexes,188.7
+4027,GTM,Guatemala,2009,Both sexes,190.8
+4032,TKM,Turkmenistan,2009,Both sexes,196.4
+4034,SUR,Suriname,2009,Both sexes,196.6
+4035,SLV,El Salvador,2009,Both sexes,196.9
+4036,LTU,Lithuania,2009,Both sexes,197.5
+4037,IND,India,2009,Both sexes,197.7
+4044,KHM,Cambodia,2009,Both sexes,202.9
+4046,FJI,Fiji,2009,Both sexes,203.3
+4047,KGZ,Kyrgyzstan,2009,Both sexes,203.7
+4049,BOL,Bolivia (Plurinational State of),2009,Both sexes,206.8
+4050,PHL,Philippines,2009,Both sexes,206.8
+4052,KIR,Kiribati,2009,Both sexes,208.6
+4056,STP,Sao Tome and Principe,2009,Both sexes,211.7
+4057,MRT,Mauritania,2009,Both sexes,214.3
+4059,SEN,Senegal,2009,Both sexes,215.1
+4062,MDA,Republic of Moldova,2009,Both sexes,217.2
+4065,MMR,Myanmar,2009,Both sexes,218.9
+4067,LAO,Lao People's Democratic Republic,2009,Both sexes,223.3
+4072,BLR,Belarus,2009,Both sexes,225.2
+4081,BTN,Bhutan,2009,Both sexes,231.9
+4084,UKR,Ukraine,2009,Both sexes,235.2
+4086,PNG,Papua New Guinea,2009,Both sexes,235.4
+4087,YEM,Yemen,2009,Both sexes,236.1
+4094,KAZ,Kazakhstan,2009,Both sexes,240.5
+4095,MNG,Mongolia,2009,Both sexes,241.3
+4100,SDN,Sudan,2009,Both sexes,247.8
+4104,COM,Comoros,2009,Both sexes,250.5
+4106,GUY,Guyana,2009,Both sexes,251.7
+4108,MDG,Madagascar,2009,Both sexes,253.7
+4113,RUS,Russian Federation,2009,Both sexes,255.5
+4116,HTI,Haiti,2009,Both sexes,256.8
+4119,AFG,Afghanistan,2009,Both sexes,259.8
+4122,BEN,Benin,2009,Both sexes,261.2
+4125,RWA,Rwanda,2009,Both sexes,265.9
+4129,LBR,Liberia,2009,Both sexes,268.7
+4132,NER,Niger,2009,Both sexes,274.2
+4134,GHA,Ghana,2009,Both sexes,275.6
+4136,ETH,Ethiopia,2009,Both sexes,277.5
+4139,DJI,Djibouti,2009,Both sexes,279.2
+4142,AGO,Angola,2009,Both sexes,281.0
+4143,BFA,Burkina Faso,2009,Both sexes,282.1
+4144,GMB,Gambia,2009,Both sexes,282.7
+4146,MLI,Mali,2009,Both sexes,285.3
+4152,COD,Democratic Republic of the Congo,2009,Both sexes,291.1
+4156,GIN,Guinea,2009,Both sexes,294.1
+4162,GNB,Guinea-Bissau,2009,Both sexes,298.6
+4163,GAB,Gabon,2009,Both sexes,299.6
+4165,ERI,Eritrea,2009,Both sexes,300.5
+4175,COG,Congo,2009,Both sexes,310.4
+4176,KEN,Kenya,2009,Both sexes,313.7
+4183,TGO,Togo,2009,Both sexes,321.3
+4187,BDI,Burundi,2009,Both sexes,330.1
+4188,NAM,Namibia,2009,Both sexes,331.9
+4191,SOM,Somalia,2009,Both sexes,335.3
+4196,GNQ,Equatorial Guinea,2009,Both sexes,344.6
+4199,BWA,Botswana,2009,Both sexes,354.5
+4202,TZA,United Republic of Tanzania,2009,Both sexes,356.8
+4203,CMR,Cameroon,2009,Both sexes,358.5
+4209,SSD,South Sudan,2009,Both sexes,367.6
+4214,TCD,Chad,2009,Both sexes,380.2
+4215,NGA,Nigeria,2009,Both sexes,380.4
+4218,UGA,Uganda,2009,Both sexes,383.1
+4223,ZMB,Zambia,2009,Both sexes,395.7
+4226,MWI,Malawi,2009,Both sexes,399.2
+4232,MOZ,Mozambique,2009,Both sexes,413.5
+4236,CIV,Côte d’Ivoire,2009,Both sexes,423.5
+4238,SLE,Sierra Leone,2009,Both sexes,428.9
+4243,ZAF,South Africa,2009,Both sexes,434.9
+4253,CAF,Central African Republic,2009,Both sexes,470.1
+4259,LSO,Lesotho,2009,Both sexes,493.3
+4264,SWZ,Eswatini,2009,Both sexes,524.1
+4269,ISL,Iceland,2009,Both sexes,54.53
+4274,ZWE,Zimbabwe,2009,Both sexes,554.2
+4278,CHE,Switzerland,2009,Both sexes,59.46
+4281,ITA,Italy,2009,Both sexes,60.07
+4283,MLT,Malta,2009,Both sexes,60.87
+4285,SWE,Sweden,2009,Both sexes,61.12
+4286,ISR,Israel,2009,Both sexes,61.48
+4287,SGP,Singapore,2009,Both sexes,62.14
+4291,JPN,Japan,2009,Both sexes,62.7
+4295,AUS,Australia,2009,Both sexes,64.77
+4296,NLD,Netherlands,2009,Both sexes,65.17
+4297,QAT,Qatar,2009,Both sexes,65.32
+4298,NOR,Norway,2009,Both sexes,66.67
+4299,LUX,Luxembourg,2009,Both sexes,66.87
+4300,ESP,Spain,2009,Both sexes,66.88
+4303,CYP,Cyprus,2009,Both sexes,68.16
+4305,BHR,Bahrain,2009,Both sexes,69.15
+4308,CAN,Canada,2009,Both sexes,71.1
+4310,NZL,New Zealand,2009,Both sexes,72.79
+4311,IRL,Ireland,2009,Both sexes,73.99
+4320,GBR,United Kingdom of Great Britain and Northern Ireland,2009,Both sexes,75.79
+4321,GRC,Greece,2009,Both sexes,75.97
+4322,MDV,Maldives,2009,Both sexes,76.1
+4325,AUT,Austria,2009,Both sexes,76.97
+4328,KOR,Republic of Korea,2009,Both sexes,77.8
+4334,DEU,Germany,2009,Both sexes,79.57
+4345,ARE,United Arab Emirates,2009,Both sexes,82.98
+4349,BEL,Belgium,2009,Both sexes,84.17
+4350,DNK,Denmark,2009,Both sexes,84.4
+4351,KWT,Kuwait,2009,Both sexes,84.89
+4354,MAR,Morocco,2009,Both sexes,86.81
+4356,FRA,France,2009,Both sexes,87.08
+4359,PRT,Portugal,2009,Both sexes,87.85
+4365,CHN,China,2009,Both sexes,89.28
+4368,FIN,Finland,2009,Both sexes,90.45
+4369,SVN,Slovenia,2009,Both sexes,90.56
+4371,BRN,Brunei Darussalam,2009,Both sexes,92.84
+4378,CHL,Chile,2009,Both sexes,94.32
+4381,CRI,Costa Rica,2009,Both sexes,95.91
+4382,LBN,Lebanon,2009,Both sexes,96.47
+4390,CUB,Cuba,2009,Both sexes,98.78
+4391,SAU,Saudi Arabia,2009,Both sexes,99.32
+4392,CUB,Cuba,2008,Both sexes,100.0
+4393,SAU,Saudi Arabia,2008,Both sexes,100.7
+4396,TUN,Tunisia,2008,Both sexes,102.1
+4397,ALB,Albania,2008,Both sexes,102.2
+4404,CZE,Czechia,2008,Both sexes,104.6
+4406,BIH,Bosnia and Herzegovina,2008,Both sexes,105.3
+4410,DZA,Algeria,2008,Both sexes,108.4
+4411,USA,United States of America,2008,Both sexes,108.5
+4414,MKD,The former Yugoslav Republic of Macedonia,2008,Both sexes,109.3
+4416,OMN,Oman,2008,Both sexes,110.2
+4422,BRB,Barbados,2008,Both sexes,112.1
+4427,HRV,Croatia,2008,Both sexes,117.3
+4432,JOR,Jordan,2008,Both sexes,118.7
+4433,URY,Uruguay,2008,Both sexes,118.7
+4436,MNE,Montenegro,2008,Both sexes,119.1
+4440,TUR,Türkiye,2008,Both sexes,121.3
+4443,PAN,Panama,2008,Both sexes,122.0
+4445,SRB,Serbia,2008,Both sexes,122.3
+4446,SYR,Syrian Arab Republic,2008,Both sexes,123.1
+4447,ARG,Argentina,2008,Both sexes,123.5
+4460,LBY,Libya,2008,Both sexes,131.2
+4462,MEX,Mexico,2008,Both sexes,133.0
+4463,IRN,Iran (Islamic Republic of),2008,Both sexes,133.5
+4464,MYS,Malaysia,2008,Both sexes,134.0
+4466,VNM,Viet Nam,2008,Both sexes,134.7
+4469,SVK,Slovakia,2008,Both sexes,135.5
+4470,PER,Peru,2008,Both sexes,135.8
+4477,WSM,Samoa,2008,Both sexes,139.1
+4479,ECU,Ecuador,2008,Both sexes,140.8
+4480,TJK,Tajikistan,2008,Both sexes,140.9
+4481,POL,Poland,2008,Both sexes,141.8
+4482,COL,Colombia,2008,Both sexes,142.0
+4483,AZE,Azerbaijan,2008,Both sexes,142.1
+4484,CPV,Cabo Verde,2008,Both sexes,142.2
+4487,ARM,Armenia,2008,Both sexes,144.3
+4489,TON,Tonga,2008,Both sexes,144.7
+4492,ATG,Antigua and Barbuda,2008,Both sexes,146.8
+4493,BGD,Bangladesh,2008,Both sexes,146.8
+4494,JAM,Jamaica,2008,Both sexes,146.8
+4499,GEO,Georgia,2008,Both sexes,149.7
+4501,BGR,Bulgaria,2008,Both sexes,150.3
+4502,LCA,Saint Lucia,2008,Both sexes,152.1
+4503,VUT,Vanuatu,2008,Both sexes,152.8
+4508,PRY,Paraguay,2008,Both sexes,156.8
+4509,UZB,Uzbekistan,2008,Both sexes,156.8
+4510,BRA,Brazil,2008,Both sexes,156.9
+4512,HND,Honduras,2008,Both sexes,158.1
+4517,ROU,Romania,2008,Both sexes,160.1
+4521,GRD,Grenada,2008,Both sexes,161.7
+4526,HUN,Hungary,2008,Both sexes,164.4
+4527,EST,Estonia,2008,Both sexes,164.5
+4528,PRK,Democratic People's Republic of Korea,2008,Both sexes,164.7
+4529,MUS,Mauritius,2008,Both sexes,164.8
+4530,NIC,Nicaragua,2008,Both sexes,165.3
+4533,THA,Thailand,2008,Both sexes,166.9
+4535,BHS,Bahamas,2008,Both sexes,167.6
+4536,TLS,Timor-Leste,2008,Both sexes,168.5
+4537,IRQ,Iraq,2008,Both sexes,168.6
+4539,VCT,Saint Vincent and the Grenadines,2008,Both sexes,169.1
+4541,LKA,Sri Lanka,2008,Both sexes,170.8
+4548,VEN,Venezuela (Bolivarian Republic of),2008,Both sexes,172.8
+4549,FSM,Micronesia (Federated States of),2008,Both sexes,173.7
+4550,EGY,Egypt,2008,Both sexes,173.8
+4554,PAK,Pakistan,2008,Both sexes,177.2
+4561,SLB,Solomon Islands,2008,Both sexes,181.0
+4562,BLZ,Belize,2008,Both sexes,182.8
+4564,SYC,Seychelles,2008,Both sexes,184.5
+4568,GTM,Guatemala,2008,Both sexes,186.4
+4569,NPL,Nepal,2008,Both sexes,188.0
+4570,IDN,Indonesia,2008,Both sexes,189.5
+4574,DOM,Dominican Republic,2008,Both sexes,192.4
+4577,TTO,Trinidad and Tobago,2008,Both sexes,195.3
+4580,SLV,El Salvador,2008,Both sexes,198.3
+4584,SUR,Suriname,2008,Both sexes,199.6
+4585,LVA,Latvia,2008,Both sexes,200.3
+4586,IND,India,2008,Both sexes,201.1
+4591,FJI,Fiji,2008,Both sexes,205.9
+4593,PHL,Philippines,2008,Both sexes,206.6
+4598,KIR,Kiribati,2008,Both sexes,209.8
+4601,KHM,Cambodia,2008,Both sexes,210.9
+4602,BOL,Bolivia (Plurinational State of),2008,Both sexes,211.1
+4605,MRT,Mauritania,2008,Both sexes,216.4
+4608,STP,Sao Tome and Principe,2008,Both sexes,217.3
+4609,KGZ,Kyrgyzstan,2008,Both sexes,217.8
+4611,TKM,Turkmenistan,2008,Both sexes,219.0
+4615,MDA,Republic of Moldova,2008,Both sexes,221.7
+4616,SEN,Senegal,2008,Both sexes,221.9
+4620,BLR,Belarus,2008,Both sexes,228.2
+4621,LAO,Lao People's Democratic Republic,2008,Both sexes,228.4
+4622,LTU,Lithuania,2008,Both sexes,228.6
+4628,BTN,Bhutan,2008,Both sexes,234.6
+4631,PNG,Papua New Guinea,2008,Both sexes,237.3
+4634,YEM,Yemen,2008,Both sexes,239.0
+4641,MNG,Mongolia,2008,Both sexes,247.6
+4644,GUY,Guyana,2008,Both sexes,249.1
+4648,SDN,Sudan,2008,Both sexes,250.3
+4656,COM,Comoros,2008,Both sexes,255.0
+4660,MDG,Madagascar,2008,Both sexes,258.4
+4665,RWA,Rwanda,2008,Both sexes,263.0
+4666,KAZ,Kazakhstan,2008,Both sexes,263.7
+4667,AFG,Afghanistan,2008,Both sexes,264.9
+4668,HTI,Haiti,2008,Both sexes,266.0
+4674,RUS,Russian Federation,2008,Both sexes,273.9
+4676,UKR,Ukraine,2008,Both sexes,275.4
+4677,BEN,Benin,2008,Both sexes,276.1
+4678,NER,Niger,2008,Both sexes,276.6
+4679,LBR,Liberia,2008,Both sexes,277.8
+4684,GMB,Gambia,2008,Both sexes,282.9
+4685,GHA,Ghana,2008,Both sexes,283.5
+4690,MLI,Mali,2008,Both sexes,287.5
+4691,BFA,Burkina Faso,2008,Both sexes,288.5
+4694,DJI,Djibouti,2008,Both sexes,290.6
+4697,AGO,Angola,2008,Both sexes,292.2
+4699,ETH,Ethiopia,2008,Both sexes,294.5
+4700,COD,Democratic Republic of the Congo,2008,Both sexes,294.6
+4706,GIN,Guinea,2008,Both sexes,300.4
+4708,GAB,Gabon,2008,Both sexes,303.9
+4709,GNB,Guinea-Bissau,2008,Both sexes,304.1
+4712,MMR,Myanmar,2008,Both sexes,306.6
+4716,ERI,Eritrea,2008,Both sexes,309.1
+4729,TGO,Togo,2008,Both sexes,329.9
+4732,COG,Congo,2008,Both sexes,334.2
+4734,SOM,Somalia,2008,Both sexes,338.1
+4736,BDI,Burundi,2008,Both sexes,340.4
+4738,KEN,Kenya,2008,Both sexes,343.9
+4742,GNQ,Equatorial Guinea,2008,Both sexes,348.0
+4743,NAM,Namibia,2008,Both sexes,354.2
+4749,CMR,Cameroon,2008,Both sexes,365.2
+4750,TZA,United Republic of Tanzania,2008,Both sexes,366.9
+4757,SSD,South Sudan,2008,Both sexes,377.5
+4759,NGA,Nigeria,2008,Both sexes,385.5
+4764,BWA,Botswana,2008,Both sexes,396.0
+4767,TCD,Chad,2008,Both sexes,400.4
+4771,UGA,Uganda,2008,Both sexes,406.9
+4780,CIV,Côte d’Ivoire,2008,Both sexes,422.7
+4781,MOZ,Mozambique,2008,Both sexes,427.1
+4788,MWI,Malawi,2008,Both sexes,438.1
+4789,ZMB,Zambia,2008,Both sexes,438.6
+4793,SLE,Sierra Leone,2008,Both sexes,441.8
+4796,ZAF,South Africa,2008,Both sexes,458.1
+4806,CAF,Central African Republic,2008,Both sexes,495.3
+4814,LSO,Lesotho,2008,Both sexes,520.7
+4821,SWZ,Eswatini,2008,Both sexes,554.1
+4824,ISL,Iceland,2008,Both sexes,57.24
+4826,CHE,Switzerland,2008,Both sexes,59.43
+4829,ZWE,Zimbabwe,2008,Both sexes,596.3
+4831,ITA,Italy,2008,Both sexes,61.16
+4834,MLT,Malta,2008,Both sexes,61.88
+4836,SWE,Sweden,2008,Both sexes,62.13
+4840,ISR,Israel,2008,Both sexes,63.95
+4841,JPN,Japan,2008,Both sexes,64.13
+4842,AUS,Australia,2008,Both sexes,64.38
+4844,QAT,Qatar,2008,Both sexes,65.4
+4848,NOR,Norway,2008,Both sexes,66.13
+4849,NLD,Netherlands,2008,Both sexes,67.21
+4851,SGP,Singapore,2008,Both sexes,67.34
+4853,CYP,Cyprus,2008,Both sexes,67.98
+4854,LUX,Luxembourg,2008,Both sexes,68.75
+4857,ESP,Spain,2008,Both sexes,70.45
+4858,IRL,Ireland,2008,Both sexes,71.9
+4861,CAN,Canada,2008,Both sexes,72.72
+4863,BHR,Bahrain,2008,Both sexes,73.17
+4864,NZL,New Zealand,2008,Both sexes,74.24
+4866,GRC,Greece,2008,Both sexes,75.05
+4868,AUT,Austria,2008,Both sexes,76.0
+4875,GBR,United Kingdom of Great Britain and Northern Ireland,2008,Both sexes,78.04
+4876,KOR,Republic of Korea,2008,Both sexes,78.6
+4883,MDV,Maldives,2008,Both sexes,80.33
+4884,DEU,Germany,2008,Both sexes,80.71
+4895,ARE,United Arab Emirates,2008,Both sexes,84.52
+4898,KWT,Kuwait,2008,Both sexes,85.35
+4900,DNK,Denmark,2008,Both sexes,85.56
+4904,BEL,Belgium,2008,Both sexes,85.99
+4907,FRA,France,2008,Both sexes,86.94
+4914,PRT,Portugal,2008,Both sexes,89.31
+4918,CHL,Chile,2008,Both sexes,91.13
+4920,MAR,Morocco,2008,Both sexes,92.05
+4922,CHN,China,2008,Both sexes,92.64
+4925,FIN,Finland,2008,Both sexes,93.61
+4926,BRN,Brunei Darussalam,2008,Both sexes,94.03
+4931,SVN,Slovenia,2008,Both sexes,96.49
+4934,CRI,Costa Rica,2008,Both sexes,97.28
+4937,LBN,Lebanon,2008,Both sexes,99.26
+4946,ALB,Albania,2007,Both sexes,101.3
+4947,CUB,Cuba,2007,Both sexes,101.6
+4948,SAU,Saudi Arabia,2007,Both sexes,102.0
+4949,SVN,Slovenia,2007,Both sexes,102.3
+4952,TUN,Tunisia,2007,Both sexes,102.9
+4955,CZE,Czechia,2007,Both sexes,106.1
+4963,USA,United States of America,2007,Both sexes,109.9
+4967,DZA,Algeria,2007,Both sexes,111.3
+4968,BRB,Barbados,2007,Both sexes,112.5
+4971,OMN,Oman,2007,Both sexes,113.4
+4973,BIH,Bosnia and Herzegovina,2007,Both sexes,113.8
+4976,HRV,Croatia,2007,Both sexes,115.0
+4980,MKD,The former Yugoslav Republic of Macedonia,2007,Both sexes,118.3
+4982,PAN,Panama,2007,Both sexes,118.6
+4985,JOR,Jordan,2007,Both sexes,120.0
+4992,MNE,Montenegro,2007,Both sexes,122.9
+4993,SYR,Syrian Arab Republic,2007,Both sexes,123.0
+4996,SRB,Serbia,2007,Both sexes,123.3
+4998,TUR,Türkiye,2007,Both sexes,123.7
+5000,URY,Uruguay,2007,Both sexes,124.2
+5003,ARG,Argentina,2007,Both sexes,126.3
+5006,MEX,Mexico,2007,Both sexes,129.0
+5014,LBY,Libya,2007,Both sexes,133.0
+5017,MYS,Malaysia,2007,Both sexes,135.3
+5018,VNM,Viet Nam,2007,Both sexes,136.1
+5020,ARM,Armenia,2007,Both sexes,136.8
+5024,IRN,Iran (Islamic Republic of),2007,Both sexes,137.6
+5026,PER,Peru,2007,Both sexes,139.0
+5027,SVK,Slovakia,2007,Both sexes,139.3
+5029,GEO,Georgia,2007,Both sexes,140.2
+5030,AZE,Azerbaijan,2007,Both sexes,140.6
+5031,COL,Colombia,2007,Both sexes,140.6
+5033,ECU,Ecuador,2007,Both sexes,141.1
+5036,WSM,Samoa,2007,Both sexes,144.0
+5037,LKA,Sri Lanka,2007,Both sexes,144.7
+5038,POL,Poland,2007,Both sexes,144.9
+5039,TON,Tonga,2007,Both sexes,146.1
+5040,CPV,Cabo Verde,2007,Both sexes,146.2
+5041,TJK,Tajikistan,2007,Both sexes,146.3
+5046,ATG,Antigua and Barbuda,2007,Both sexes,149.0
+5049,BGD,Bangladesh,2007,Both sexes,150.3
+5051,JAM,Jamaica,2007,Both sexes,150.7
+5054,BGR,Bulgaria,2007,Both sexes,152.7
+5056,LCA,Saint Lucia,2007,Both sexes,153.2
+5059,ROU,Romania,2007,Both sexes,155.3
+5060,VUT,Vanuatu,2007,Both sexes,156.4
+5062,BRA,Brazil,2007,Both sexes,157.6
+5063,PRY,Paraguay,2007,Both sexes,159.0
+5065,HND,Honduras,2007,Both sexes,159.8
+5067,MUS,Mauritius,2007,Both sexes,160.4
+5074,GRD,Grenada,2007,Both sexes,164.5
+5079,UZB,Uzbekistan,2007,Both sexes,165.4
+5082,PRK,Democratic People's Republic of Korea,2007,Both sexes,166.4
+5085,THA,Thailand,2007,Both sexes,169.7
+5087,NIC,Nicaragua,2007,Both sexes,170.1
+5088,VEN,Venezuela (Bolivarian Republic of),2007,Both sexes,170.1
+5091,BHS,Bahamas,2007,Both sexes,170.8
+5092,EGY,Egypt,2007,Both sexes,171.8
+5093,VCT,Saint Vincent and the Grenadines,2007,Both sexes,172.6
+5096,TLS,Timor-Leste,2007,Both sexes,173.1
+5099,FSM,Micronesia (Federated States of),2007,Both sexes,174.8
+5101,HUN,Hungary,2007,Both sexes,175.6
+5105,PAK,Pakistan,2007,Both sexes,178.4
+5111,BLZ,Belize,2007,Both sexes,181.2
+5114,SYC,Seychelles,2007,Both sexes,185.0
+5117,EST,Estonia,2007,Both sexes,186.5
+5120,TTO,Trinidad and Tobago,2007,Both sexes,187.8
+5124,IDN,Indonesia,2007,Both sexes,189.6
+5125,GTM,Guatemala,2007,Both sexes,190.5
+5126,SLB,Solomon Islands,2007,Both sexes,190.9
+5128,NPL,Nepal,2007,Both sexes,193.8
+5133,SUR,Suriname,2007,Both sexes,200.1
+5134,SLV,El Salvador,2007,Both sexes,200.4
+5136,DOM,Dominican Republic,2007,Both sexes,201.0
+5138,IND,India,2007,Both sexes,204.4
+5141,PHL,Philippines,2007,Both sexes,207.8
+5142,FJI,Fiji,2007,Both sexes,208.6
+5149,KIR,Kiribati,2007,Both sexes,210.9
+5158,BOL,Bolivia (Plurinational State of),2007,Both sexes,215.5
+5160,MRT,Mauritania,2007,Both sexes,218.7
+5164,STP,Sao Tome and Principe,2007,Both sexes,219.6
+5166,KHM,Cambodia,2007,Both sexes,220.6
+5170,LVA,Latvia,2007,Both sexes,223.7
+5171,TKM,Turkmenistan,2007,Both sexes,226.3
+5172,MMR,Myanmar,2007,Both sexes,227.1
+5173,IRQ,Iraq,2007,Both sexes,228.1
+5174,BLR,Belarus,2007,Both sexes,230.3
+5175,KGZ,Kyrgyzstan,2007,Both sexes,230.3
+5177,MDA,Republic of Moldova,2007,Both sexes,232.3
+5179,SEN,Senegal,2007,Both sexes,233.8
+5180,LAO,Lao People's Democratic Republic,2007,Both sexes,233.9
+5185,BTN,Bhutan,2007,Both sexes,238.9
+5186,YEM,Yemen,2007,Both sexes,241.3
+5190,PNG,Papua New Guinea,2007,Both sexes,243.3
+5193,LTU,Lithuania,2007,Both sexes,245.6
+5197,MNG,Mongolia,2007,Both sexes,250.5
+5201,SDN,Sudan,2007,Both sexes,253.4
+5205,GUY,Guyana,2007,Both sexes,256.5
+5209,COM,Comoros,2007,Both sexes,258.7
+5211,MDG,Madagascar,2007,Both sexes,261.4
+5220,HTI,Haiti,2007,Both sexes,271.7
+5221,AFG,Afghanistan,2007,Both sexes,272.6
+5225,UKR,Ukraine,2007,Both sexes,278.3
+5226,NER,Niger,2007,Both sexes,278.7
+5227,RUS,Russian Federation,2007,Both sexes,278.8
+5231,BEN,Benin,2007,Both sexes,280.9
+5232,RWA,Rwanda,2007,Both sexes,281.8
+5234,GMB,Gambia,2007,Both sexes,282.5
+5238,LBR,Liberia,2007,Both sexes,285.6
+5242,GHA,Ghana,2007,Both sexes,291.1
+5243,MLI,Mali,2007,Both sexes,291.9
+5245,KAZ,Kazakhstan,2007,Both sexes,292.8
+5248,BFA,Burkina Faso,2007,Both sexes,294.3
+5251,DJI,Djibouti,2007,Both sexes,297.7
+5253,COD,Democratic Republic of the Congo,2007,Both sexes,299.1
+5257,AGO,Angola,2007,Both sexes,302.8
+5259,GIN,Guinea,2007,Both sexes,304.5
+5260,GAB,Gabon,2007,Both sexes,305.3
+5263,GNB,Guinea-Bissau,2007,Both sexes,307.0
+5270,ETH,Ethiopia,2007,Both sexes,315.8
+5271,ERI,Eritrea,2007,Both sexes,316.8
+5281,TGO,Togo,2007,Both sexes,331.1
+5287,SOM,Somalia,2007,Both sexes,342.3
+5288,BDI,Burundi,2007,Both sexes,345.2
+5291,COG,Congo,2007,Both sexes,351.5
+5292,GNQ,Equatorial Guinea,2007,Both sexes,355.9
+5299,KEN,Kenya,2007,Both sexes,371.7
+5302,CMR,Cameroon,2007,Both sexes,375.9
+5306,SSD,South Sudan,2007,Both sexes,382.1
+5310,NGA,Nigeria,2007,Both sexes,387.6
+5314,TCD,Chad,2007,Both sexes,400.2
+5315,TZA,United Republic of Tanzania,2007,Both sexes,400.7
+5319,NAM,Namibia,2007,Both sexes,409.4
+5323,UGA,Uganda,2007,Both sexes,416.1
+5327,BWA,Botswana,2007,Both sexes,422.2
+5331,CIV,Côte d’Ivoire,2007,Both sexes,436.8
+5336,MOZ,Mozambique,2007,Both sexes,444.0
+5342,SLE,Sierra Leone,2007,Both sexes,453.2
+5350,ZAF,South Africa,2007,Both sexes,474.6
+5352,MWI,Malawi,2007,Both sexes,476.9
+5355,ZMB,Zambia,2007,Both sexes,499.9
+5359,CAF,Central African Republic,2007,Both sexes,515.6
+5377,SWZ,Eswatini,2007,Both sexes,586.5
+5378,LSO,Lesotho,2007,Both sexes,589.6
+5381,ISL,Iceland,2007,Both sexes,60.08
+5385,CHE,Switzerland,2007,Both sexes,62.17
+5387,ITA,Italy,2007,Both sexes,62.5
+5389,SWE,Sweden,2007,Both sexes,63.02
+5390,ZWE,Zimbabwe,2007,Both sexes,630.5
+5394,MLT,Malta,2007,Both sexes,64.94
+5396,AUS,Australia,2007,Both sexes,65.11
+5397,QAT,Qatar,2007,Both sexes,65.54
+5398,JPN,Japan,2007,Both sexes,65.65
+5400,NOR,Norway,2007,Both sexes,66.57
+5402,NLD,Netherlands,2007,Both sexes,67.13
+5403,ISR,Israel,2007,Both sexes,67.2
+5404,SGP,Singapore,2007,Both sexes,67.95
+5406,CYP,Cyprus,2007,Both sexes,69.84
+5411,IRL,Ireland,2007,Both sexes,72.15
+5412,ESP,Spain,2007,Both sexes,72.38
+5414,CAN,Canada,2007,Both sexes,73.51
+5417,LUX,Luxembourg,2007,Both sexes,74.51
+5419,NZL,New Zealand,2007,Both sexes,75.58
+5424,GRC,Greece,2007,Both sexes,78.17
+5426,GBR,United Kingdom of Great Britain and Northern Ireland,2007,Both sexes,78.73
+5430,AUT,Austria,2007,Both sexes,79.77
+5431,KOR,Republic of Korea,2007,Both sexes,80.18
+5435,BHR,Bahrain,2007,Both sexes,80.33
+5438,DEU,Germany,2007,Both sexes,82.03
+5442,MDV,Maldives,2007,Both sexes,82.97
+5450,BEL,Belgium,2007,Both sexes,85.75
+5451,KWT,Kuwait,2007,Both sexes,86.16
+5452,ARE,United Arab Emirates,2007,Both sexes,86.19
+5459,FRA,France,2007,Both sexes,87.86
+5462,DNK,Denmark,2007,Both sexes,90.79
+5463,CRI,Costa Rica,2007,Both sexes,91.22
+5466,PRT,Portugal,2007,Both sexes,91.52
+5468,CHN,China,2007,Both sexes,92.04
+5473,CHL,Chile,2007,Both sexes,92.92
+5480,BRN,Brunei Darussalam,2007,Both sexes,95.8
+5481,FIN,Finland,2007,Both sexes,95.82
+5484,MAR,Morocco,2007,Both sexes,97.35
+5489,LBN,Lebanon,2007,Both sexes,99.32
+5493,ALB,Albania,2006,Both sexes,100.7
+5497,CUB,Cuba,2006,Both sexes,102.7
+5498,SAU,Saudi Arabia,2006,Both sexes,102.7
+5500,TUN,Tunisia,2006,Both sexes,103.6
+5501,CRI,Costa Rica,2006,Both sexes,103.9
+5508,MAR,Morocco,2006,Both sexes,105.6
+5511,SVN,Slovenia,2006,Both sexes,106.8
+5513,CZE,Czechia,2006,Both sexes,107.9
+5515,BIH,Bosnia and Herzegovina,2006,Both sexes,108.6
+5522,USA,United States of America,2006,Both sexes,112.5
+5523,BRB,Barbados,2006,Both sexes,113.0
+5525,HRV,Croatia,2006,Both sexes,114.0
+5526,DZA,Algeria,2006,Both sexes,114.7
+5527,OMN,Oman,2006,Both sexes,114.9
+5528,LBN,Lebanon,2006,Both sexes,115.6
+5532,URY,Uruguay,2006,Both sexes,118.1
+5535,PAN,Panama,2006,Both sexes,119.4
+5538,MKD,The former Yugoslav Republic of Macedonia,2006,Both sexes,120.2
+5540,JOR,Jordan,2006,Both sexes,121.6
+5544,SYR,Syrian Arab Republic,2006,Both sexes,123.1
+5547,ARG,Argentina,2006,Both sexes,124.2
+5549,SRB,Serbia,2006,Both sexes,125.5
+5551,TUR,Türkiye,2006,Both sexes,126.1
+5552,MNE,Montenegro,2006,Both sexes,126.7
+5562,MEX,Mexico,2006,Both sexes,131.4
+5570,LBY,Libya,2006,Both sexes,135.3
+5573,MYS,Malaysia,2006,Both sexes,136.6
+5574,VNM,Viet Nam,2006,Both sexes,136.8
+5575,SVK,Slovakia,2006,Both sexes,137.6
+5580,IRN,Iran (Islamic Republic of),2006,Both sexes,139.5
+5584,PER,Peru,2006,Both sexes,140.8
+5586,ECU,Ecuador,2006,Both sexes,143.8
+5587,ARM,Armenia,2006,Both sexes,144.7
+5588,LKA,Sri Lanka,2006,Both sexes,144.7
+5589,GEO,Georgia,2006,Both sexes,144.8
+5590,POL,Poland,2006,Both sexes,144.9
+5591,COL,Colombia,2006,Both sexes,145.5
+5595,TON,Tonga,2006,Both sexes,147.7
+5598,WSM,Samoa,2006,Both sexes,149.3
+5600,CPV,Cabo Verde,2006,Both sexes,150.5
+5601,TJK,Tajikistan,2006,Both sexes,150.5
+5603,BGD,Bangladesh,2006,Both sexes,151.4
+5605,AZE,Azerbaijan,2006,Both sexes,153.1
+5607,JAM,Jamaica,2006,Both sexes,153.9
+5609,LCA,Saint Lucia,2006,Both sexes,154.5
+5610,ATG,Antigua and Barbuda,2006,Both sexes,155.1
+5611,BGR,Bulgaria,2006,Both sexes,156.7
+5614,ROU,Romania,2006,Both sexes,157.8
+5617,BRA,Brazil,2006,Both sexes,159.9
+5618,VUT,Vanuatu,2006,Both sexes,160.1
+5622,PRY,Paraguay,2006,Both sexes,161.0
+5623,HND,Honduras,2006,Both sexes,161.5
+5624,MUS,Mauritius,2006,Both sexes,162.1
+5631,PRK,Democratic People's Republic of Korea,2006,Both sexes,166.0
+5635,GRD,Grenada,2006,Both sexes,167.2
+5636,VEN,Venezuela (Bolivarian Republic of),2006,Both sexes,167.9
+5642,NIC,Nicaragua,2006,Both sexes,173.5
+5644,THA,Thailand,2006,Both sexes,174.0
+5645,EGY,Egypt,2006,Both sexes,174.1
+5646,UZB,Uzbekistan,2006,Both sexes,174.1
+5649,FSM,Micronesia (Federated States of),2006,Both sexes,176.1
+5650,BHS,Bahamas,2006,Both sexes,176.8
+5651,HUN,Hungary,2006,Both sexes,177.5
+5656,VCT,Saint Vincent and the Grenadines,2006,Both sexes,178.7
+5657,PAK,Pakistan,2006,Both sexes,179.5
+5665,BLZ,Belize,2006,Both sexes,184.6
+5667,SYC,Seychelles,2006,Both sexes,185.1
+5670,EST,Estonia,2006,Both sexes,185.7
+5671,TLS,Timor-Leste,2006,Both sexes,186.0
+5674,TTO,Trinidad and Tobago,2006,Both sexes,188.6
+5676,IDN,Indonesia,2006,Both sexes,190.4
+5678,SLB,Solomon Islands,2006,Both sexes,192.5
+5687,NPL,Nepal,2006,Both sexes,201.5
+5688,SLV,El Salvador,2006,Both sexes,202.8
+5689,SUR,Suriname,2006,Both sexes,203.0
+5691,GTM,Guatemala,2006,Both sexes,205.4
+5692,DOM,Dominican Republic,2006,Both sexes,206.9
+5694,IND,India,2006,Both sexes,207.5
+5698,FJI,Fiji,2006,Both sexes,211.5
+5701,KIR,Kiribati,2006,Both sexes,211.9
+5705,PHL,Philippines,2006,Both sexes,215.0
+5713,BOL,Bolivia (Plurinational State of),2006,Both sexes,218.8
+5718,MRT,Mauritania,2006,Both sexes,221.3
+5720,STP,Sao Tome and Principe,2006,Both sexes,223.0
+5727,MMR,Myanmar,2006,Both sexes,230.1
+5728,TKM,Turkmenistan,2006,Both sexes,230.8
+5729,LVA,Latvia,2006,Both sexes,232.1
+5730,KGZ,Kyrgyzstan,2006,Both sexes,232.9
+5733,KHM,Cambodia,2006,Both sexes,234.5
+5734,LTU,Lithuania,2006,Both sexes,235.0
+5736,MDA,Republic of Moldova,2006,Both sexes,236.6
+5737,LAO,Lao People's Democratic Republic,2006,Both sexes,240.0
+5739,SEN,Senegal,2006,Both sexes,240.4
+5740,YEM,Yemen,2006,Both sexes,243.4
+5742,BTN,Bhutan,2006,Both sexes,245.8
+5743,BLR,Belarus,2006,Both sexes,246.1
+5746,PNG,Papua New Guinea,2006,Both sexes,248.5
+5747,IRQ,Iraq,2006,Both sexes,249.6
+5752,MNG,Mongolia,2006,Both sexes,254.0
+5761,SDN,Sudan,2006,Both sexes,259.8
+5762,COM,Comoros,2006,Both sexes,262.4
+5764,MDG,Madagascar,2006,Both sexes,263.3
+5767,GUY,Guyana,2006,Both sexes,266.7
+5770,UKR,Ukraine,2006,Both sexes,268.3
+5776,AFG,Afghanistan,2006,Both sexes,275.8
+5781,NER,Niger,2006,Both sexes,281.5
+5782,HTI,Haiti,2006,Both sexes,282.4
+5783,BEN,Benin,2006,Both sexes,282.5
+5784,GMB,Gambia,2006,Both sexes,284.0
+5796,LBR,Liberia,2006,Both sexes,296.1
+5798,GHA,Ghana,2006,Both sexes,297.6
+5799,MLI,Mali,2006,Both sexes,297.9
+5800,RUS,Russian Federation,2006,Both sexes,298.7
+5801,KAZ,Kazakhstan,2006,Both sexes,298.8
+5805,BFA,Burkina Faso,2006,Both sexes,303.4
+5806,COD,Democratic Republic of the Congo,2006,Both sexes,306.8
+5807,GNB,Guinea-Bissau,2006,Both sexes,307.4
+5808,GAB,Gabon,2006,Both sexes,307.6
+5810,DJI,Djibouti,2006,Both sexes,308.0
+5816,AGO,Angola,2006,Both sexes,313.7
+5820,GIN,Guinea,2006,Both sexes,316.3
+5824,RWA,Rwanda,2006,Both sexes,320.6
+5831,ERI,Eritrea,2006,Both sexes,326.0
+5833,TGO,Togo,2006,Both sexes,332.1
+5838,ETH,Ethiopia,2006,Both sexes,338.6
+5840,SOM,Somalia,2006,Both sexes,340.9
+5844,BDI,Burundi,2006,Both sexes,350.3
+5846,GNQ,Equatorial Guinea,2006,Both sexes,357.5
+5850,COG,Congo,2006,Both sexes,366.3
+5856,CMR,Cameroon,2006,Both sexes,379.2
+5858,SSD,South Sudan,2006,Both sexes,384.1
+5863,NGA,Nigeria,2006,Both sexes,394.9
+5868,KEN,Kenya,2006,Both sexes,410.4
+5870,UGA,Uganda,2006,Both sexes,418.2
+5872,TCD,Chad,2006,Both sexes,419.0
+5875,TZA,United Republic of Tanzania,2006,Both sexes,427.4
+5885,CIV,Côte d’Ivoire,2006,Both sexes,444.3
+5890,MOZ,Mozambique,2006,Both sexes,451.7
+5894,NAM,Namibia,2006,Both sexes,462.7
+5896,SLE,Sierra Leone,2006,Both sexes,467.0
+5900,BWA,Botswana,2006,Both sexes,470.9
+5901,ZAF,South Africa,2006,Both sexes,477.1
+5909,MWI,Malawi,2006,Both sexes,511.1
+5916,CAF,Central African Republic,2006,Both sexes,530.1
+5917,ZMB,Zambia,2006,Both sexes,532.2
+5936,ISL,Iceland,2006,Both sexes,62.29
+5937,LSO,Lesotho,2006,Both sexes,620.1
+5938,SWZ,Eswatini,2006,Both sexes,627.8
+5939,MLT,Malta,2006,Both sexes,63.12
+5941,ITA,Italy,2006,Both sexes,63.96
+5944,CHE,Switzerland,2006,Both sexes,64.02
+5946,SWE,Sweden,2006,Both sexes,64.09
+5947,CYP,Cyprus,2006,Both sexes,64.47
+5948,AUS,Australia,2006,Both sexes,64.8
+5950,ZWE,Zimbabwe,2006,Both sexes,659.7
+5951,QAT,Qatar,2006,Both sexes,66.16
+5953,JPN,Japan,2006,Both sexes,66.74
+5957,ISR,Israel,2006,Both sexes,68.89
+5958,NOR,Norway,2006,Both sexes,69.36
+5959,NLD,Netherlands,2006,Both sexes,69.97
+5962,SGP,Singapore,2006,Both sexes,71.16
+5967,ESP,Spain,2006,Both sexes,73.43
+5969,CAN,Canada,2006,Both sexes,73.97
+5971,IRL,Ireland,2006,Both sexes,74.81
+5972,NZL,New Zealand,2006,Both sexes,75.42
+5974,GRC,Greece,2006,Both sexes,75.52
+5979,LUX,Luxembourg,2006,Both sexes,77.86
+5986,AUT,Austria,2006,Both sexes,80.45
+5989,GBR,United Kingdom of Great Britain and Northern Ireland,2006,Both sexes,80.74
+5994,KOR,Republic of Korea,2006,Both sexes,82.11
+5996,DEU,Germany,2006,Both sexes,83.27
+6001,BEL,Belgium,2006,Both sexes,84.6
+6007,KWT,Kuwait,2006,Both sexes,87.16
+6011,ARE,United Arab Emirates,2006,Both sexes,88.4
+6012,MDV,Maldives,2006,Both sexes,88.48
+6013,BHR,Bahrain,2006,Both sexes,88.64
+6016,FRA,France,2006,Both sexes,89.87
+6018,DNK,Denmark,2006,Both sexes,90.87
+6024,CHL,Chile,2006,Both sexes,93.26
+6025,CHN,China,2006,Both sexes,93.45
+6027,BRN,Brunei Darussalam,2006,Both sexes,94.16
+6029,PRT,Portugal,2006,Both sexes,94.66
+6032,FIN,Finland,2006,Both sexes,95.44
+6042,LBN,Lebanon,2005,Both sexes,103.3
+6044,SAU,Saudi Arabia,2005,Both sexes,103.8
+6045,SVN,Slovenia,2005,Both sexes,104.2
+6046,TUN,Tunisia,2005,Both sexes,104.5
+6050,ALB,Albania,2005,Both sexes,105.7
+6062,CUB,Cuba,2005,Both sexes,109.7
+6068,BIH,Bosnia and Herzegovina,2005,Both sexes,111.6
+6069,USA,United States of America,2005,Both sexes,112.3
+6070,CZE,Czechia,2005,Both sexes,113.1
+6072,BRB,Barbados,2005,Both sexes,113.9
+6077,PAN,Panama,2005,Both sexes,116.0
+6079,HRV,Croatia,2005,Both sexes,116.3
+6080,MAR,Morocco,2005,Both sexes,116.4
+6081,MKD,The former Yugoslav Republic of Macedonia,2005,Both sexes,118.0
+6082,OMN,Oman,2005,Both sexes,118.4
+6084,DZA,Algeria,2005,Both sexes,119.3
+6088,SYR,Syrian Arab Republic,2005,Both sexes,123.3
+6089,URY,Uruguay,2005,Both sexes,124.7
+6091,ARG,Argentina,2005,Both sexes,124.9
+6097,JOR,Jordan,2005,Both sexes,126.7
+6101,SRB,Serbia,2005,Both sexes,128.1
+6103,TUR,Türkiye,2005,Both sexes,129.0
+6104,MNE,Montenegro,2005,Both sexes,129.6
+6113,MEX,Mexico,2005,Both sexes,133.6
+6118,VNM,Viet Nam,2005,Both sexes,136.9
+6121,LBY,Libya,2005,Both sexes,138.1
+6122,MYS,Malaysia,2005,Both sexes,138.1
+6123,LKA,Sri Lanka,2005,Both sexes,138.6
+6126,ARM,Armenia,2005,Both sexes,139.7
+6127,SVK,Slovakia,2005,Both sexes,140.0
+6130,IRN,Iran (Islamic Republic of),2005,Both sexes,141.4
+6136,PER,Peru,2005,Both sexes,143.0
+6138,POL,Poland,2005,Both sexes,143.6
+6139,COL,Colombia,2005,Both sexes,144.3
+6140,GEO,Georgia,2005,Both sexes,144.5
+6143,ECU,Ecuador,2005,Both sexes,148.8
+6145,TON,Tonga,2005,Both sexes,149.5
+6153,BGD,Bangladesh,2005,Both sexes,154.5
+6155,TJK,Tajikistan,2005,Both sexes,155.1
+6157,ATG,Antigua and Barbuda,2005,Both sexes,156.1
+6158,BGR,Bulgaria,2005,Both sexes,156.4
+6159,WSM,Samoa,2005,Both sexes,157.1
+6160,CPV,Cabo Verde,2005,Both sexes,157.3
+6161,LCA,Saint Lucia,2005,Both sexes,158.0
+6163,AZE,Azerbaijan,2005,Both sexes,160.0
+6165,BRA,Brazil,2005,Both sexes,162.2
+6166,ROU,Romania,2005,Both sexes,162.3
+6169,PRY,Paraguay,2005,Both sexes,163.5
+6171,MUS,Mauritius,2005,Both sexes,163.8
+6172,VUT,Vanuatu,2005,Both sexes,163.8
+6173,JAM,Jamaica,2005,Both sexes,163.9
+6174,VEN,Venezuela (Bolivarian Republic of),2005,Both sexes,164.0
+6176,HND,Honduras,2005,Both sexes,164.4
+6178,PRK,Democratic People's Republic of Korea,2005,Both sexes,165.8
+6187,GRD,Grenada,2005,Both sexes,171.4
+6188,EGY,Egypt,2005,Both sexes,172.2
+6194,FSM,Micronesia (Federated States of),2005,Both sexes,177.5
+6197,NIC,Nicaragua,2005,Both sexes,179.1
+6198,BHS,Bahamas,2005,Both sexes,180.0
+6202,HUN,Hungary,2005,Both sexes,182.4
+6203,VCT,Saint Vincent and the Grenadines,2005,Both sexes,182.4
+6204,THA,Thailand,2005,Both sexes,182.6
+6206,UZB,Uzbekistan,2005,Both sexes,183.2
+6209,SYC,Seychelles,2005,Both sexes,185.2
+6212,EST,Estonia,2005,Both sexes,187.3
+6216,IDN,Indonesia,2005,Both sexes,189.1
+6219,BLZ,Belize,2005,Both sexes,190.4
+6224,TTO,Trinidad and Tobago,2005,Both sexes,194.9
+6227,SLB,Solomon Islands,2005,Both sexes,198.6
+6230,PAK,Pakistan,2005,Both sexes,199.6
+6236,TLS,Timor-Leste,2005,Both sexes,205.9
+6238,SLV,El Salvador,2005,Both sexes,206.4
+6239,SUR,Suriname,2005,Both sexes,206.9
+6241,IRQ,Iraq,2005,Both sexes,210.1
+6242,NPL,Nepal,2005,Both sexes,210.4
+6243,IND,India,2005,Both sexes,210.8
+6244,GTM,Guatemala,2005,Both sexes,211.2
+6246,DOM,Dominican Republic,2005,Both sexes,212.5
+6247,KIR,Kiribati,2005,Both sexes,212.9
+6249,FJI,Fiji,2005,Both sexes,214.5
+6253,PHL,Philippines,2005,Both sexes,216.9
+6260,LVA,Latvia,2005,Both sexes,219.5
+6266,BOL,Bolivia (Plurinational State of),2005,Both sexes,222.4
+6267,KGZ,Kyrgyzstan,2005,Both sexes,222.8
+6270,MRT,Mauritania,2005,Both sexes,223.9
+6272,STP,Sao Tome and Principe,2005,Both sexes,227.3
+6274,LTU,Lithuania,2005,Both sexes,227.7
+6279,MMR,Myanmar,2005,Both sexes,233.0
+6280,TKM,Turkmenistan,2005,Both sexes,233.8
+6285,MDA,Republic of Moldova,2005,Both sexes,240.4
+6288,SEN,Senegal,2005,Both sexes,244.2
+6289,LAO,Lao People's Democratic Republic,2005,Both sexes,245.8
+6290,YEM,Yemen,2005,Both sexes,245.8
+6291,KHM,Cambodia,2005,Both sexes,249.4
+6295,BTN,Bhutan,2005,Both sexes,253.6
+6296,PNG,Papua New Guinea,2005,Both sexes,254.2
+6298,BLR,Belarus,2005,Both sexes,255.0
+6303,MNG,Mongolia,2005,Both sexes,257.7
+6309,SDN,Sudan,2005,Both sexes,261.2
+6313,MDG,Madagascar,2005,Both sexes,265.2
+6314,COM,Comoros,2005,Both sexes,265.8
+6315,GUY,Guyana,2005,Both sexes,266.6
+6324,AFG,Afghanistan,2005,Both sexes,277.2
+6326,UKR,Ukraine,2005,Both sexes,280.0
+6327,BEN,Benin,2005,Both sexes,283.7
+6329,NER,Niger,2005,Both sexes,284.8
+6333,HTI,Haiti,2005,Both sexes,289.7
+6335,GMB,Gambia,2005,Both sexes,290.4
+6344,KAZ,Kazakhstan,2005,Both sexes,296.6
+6348,LBR,Liberia,2005,Both sexes,301.8
+6349,MLI,Mali,2005,Both sexes,302.4
+6350,GHA,Ghana,2005,Both sexes,302.8
+6351,GNB,Guinea-Bissau,2005,Both sexes,304.7
+6359,BFA,Burkina Faso,2005,Both sexes,313.5
+6360,DJI,Djibouti,2005,Both sexes,314.1
+6362,COD,Democratic Republic of the Congo,2005,Both sexes,315.3
+6367,AGO,Angola,2005,Both sexes,322.7
+6370,RUS,Russian Federation,2005,Both sexes,326.0
+6371,GAB,Gabon,2005,Both sexes,326.2
+6373,GIN,Guinea,2005,Both sexes,328.6
+6380,ERI,Eritrea,2005,Both sexes,334.7
+6383,SOM,Somalia,2005,Both sexes,338.6
+6386,TGO,Togo,2005,Both sexes,341.3
+6389,BDI,Burundi,2005,Both sexes,357.1
+6390,ETH,Ethiopia,2005,Both sexes,358.0
+6393,GNQ,Equatorial Guinea,2005,Both sexes,360.5
+6396,RWA,Rwanda,2005,Both sexes,366.1
+6403,SSD,South Sudan,2005,Both sexes,384.6
+6407,CMR,Cameroon,2005,Both sexes,388.9
+6408,COG,Congo,2005,Both sexes,391.7
+6414,NGA,Nigeria,2005,Both sexes,402.3
+6415,TCD,Chad,2005,Both sexes,412.4
+6422,KEN,Kenya,2005,Both sexes,437.7
+6428,TZA,United Republic of Tanzania,2005,Both sexes,440.9
+6431,UGA,Uganda,2005,Both sexes,448.1
+6432,MOZ,Mozambique,2005,Both sexes,452.5
+6433,CIV,Côte d’Ivoire,2005,Both sexes,459.3
+6442,ZAF,South Africa,2005,Both sexes,473.6
+6445,SLE,Sierra Leone,2005,Both sexes,482.0
+6450,NAM,Namibia,2005,Both sexes,496.7
+6460,BWA,Botswana,2005,Both sexes,535.3
+6461,MWI,Malawi,2005,Both sexes,535.4
+6463,CAF,Central African Republic,2005,Both sexes,539.4
+6468,ZMB,Zambia,2005,Both sexes,556.3
+6481,ISL,Iceland,2005,Both sexes,61.37
+6484,MLT,Malta,2005,Both sexes,62.73
+6488,LSO,Lesotho,2005,Both sexes,637.1
+6491,ITA,Italy,2005,Both sexes,65.05
+6493,CHE,Switzerland,2005,Both sexes,65.69
+6494,SWE,Sweden,2005,Both sexes,65.87
+6495,SWZ,Eswatini,2005,Both sexes,651.7
+6498,QAT,Qatar,2005,Both sexes,67.09
+6499,JPN,Japan,2005,Both sexes,67.52
+6500,AUS,Australia,2005,Both sexes,68.13
+6504,ZWE,Zimbabwe,2005,Both sexes,681.1
+6509,NOR,Norway,2005,Both sexes,71.89
+6510,NLD,Netherlands,2005,Both sexes,71.98
+6514,ISR,Israel,2005,Both sexes,72.49
+6516,SGP,Singapore,2005,Both sexes,74.23
+6517,CYP,Cyprus,2005,Both sexes,75.01
+6518,IRL,Ireland,2005,Both sexes,75.41
+6520,CAN,Canada,2005,Both sexes,75.69
+6521,ESP,Spain,2005,Both sexes,76.22
+6524,NZL,New Zealand,2005,Both sexes,77.39
+6527,GRC,Greece,2005,Both sexes,78.98
+6532,LUX,Luxembourg,2005,Both sexes,81.14
+6533,GBR,United Kingdom of Great Britain and Northern Ireland,2005,Both sexes,81.21
+6538,BHR,Bahrain,2005,Both sexes,83.48
+6539,AUT,Austria,2005,Both sexes,83.7
+6541,DEU,Germany,2005,Both sexes,84.32
+6547,KOR,Republic of Korea,2005,Both sexes,86.24
+6554,KWT,Kuwait,2005,Both sexes,87.94
+6556,BEL,Belgium,2005,Both sexes,88.15
+6559,DNK,Denmark,2005,Both sexes,89.49
+6563,ARE,United Arab Emirates,2005,Both sexes,91.04
+6565,FRA,France,2005,Both sexes,91.55
+6566,BRN,Brunei Darussalam,2005,Both sexes,91.67
+6569,MDV,Maldives,2005,Both sexes,92.79
+6575,CHL,Chile,2005,Both sexes,94.64
+6576,CHN,China,2005,Both sexes,95.05
+6579,CRI,Costa Rica,2005,Both sexes,95.5
+6581,PRT,Portugal,2005,Both sexes,97.15
+6587,FIN,Finland,2005,Both sexes,99.97
+6588,FIN,Finland,2004,Both sexes,100.7
+6590,ALB,Albania,2004,Both sexes,101.3
+6593,CRI,Costa Rica,2004,Both sexes,101.8
+6599,SAU,Saudi Arabia,2004,Both sexes,104.9
+6600,LBN,Lebanon,2004,Both sexes,105.0
+6603,TUN,Tunisia,2004,Both sexes,105.6
+6608,BIH,Bosnia and Herzegovina,2004,Both sexes,108.2
+6613,CUB,Cuba,2004,Both sexes,109.3
+6618,USA,United States of America,2004,Both sexes,111.3
+6622,HRV,Croatia,2004,Both sexes,113.1
+6623,SVN,Slovenia,2004,Both sexes,113.2
+6626,CZE,Czechia,2004,Both sexes,115.0
+6629,BRB,Barbados,2004,Both sexes,115.9
+6631,PAN,Panama,2004,Both sexes,116.5
+6634,MDV,Maldives,2004,Both sexes,118.4
+6636,MKD,The former Yugoslav Republic of Macedonia,2004,Both sexes,118.8
+6638,OMN,Oman,2004,Both sexes,122.4
+6642,SYR,Syrian Arab Republic,2004,Both sexes,124.6
+6643,URY,Uruguay,2004,Both sexes,125.0
+6644,DZA,Algeria,2004,Both sexes,125.1
+6645,JOR,Jordan,2004,Both sexes,125.1
+6649,ARG,Argentina,2004,Both sexes,127.8
+6650,SRB,Serbia,2004,Both sexes,128.6
+6652,MAR,Morocco,2004,Both sexes,129.2
+6659,MNE,Montenegro,2004,Both sexes,131.1
+6661,TUR,Türkiye,2004,Both sexes,131.6
+6662,MEX,Mexico,2004,Both sexes,132.3
+6667,ARM,Armenia,2004,Both sexes,135.0
+6671,VNM,Viet Nam,2004,Both sexes,136.7
+6673,SVK,Slovakia,2004,Both sexes,137.4
+6676,MYS,Malaysia,2004,Both sexes,139.6
+6682,LBY,Libya,2004,Both sexes,140.9
+6684,TJK,Tajikistan,2004,Both sexes,141.9
+6685,POL,Poland,2004,Both sexes,142.2
+6686,IRN,Iran (Islamic Republic of),2004,Both sexes,142.4
+6693,PER,Peru,2004,Both sexes,144.9
+6694,ECU,Ecuador,2004,Both sexes,145.0
+6701,GEO,Georgia,2004,Both sexes,148.4
+6705,AZE,Azerbaijan,2004,Both sexes,151.1
+6706,TON,Tonga,2004,Both sexes,151.5
+6707,COL,Colombia,2004,Both sexes,151.8
+6708,ATG,Antigua and Barbuda,2004,Both sexes,152.8
+6712,BGR,Bulgaria,2004,Both sexes,154.3
+6714,BGD,Bangladesh,2004,Both sexes,158.0
+6716,CPV,Cabo Verde,2004,Both sexes,159.4
+6719,WSM,Samoa,2004,Both sexes,160.6
+6720,LCA,Saint Lucia,2004,Both sexes,162.3
+6721,MUS,Mauritius,2004,Both sexes,163.6
+6725,PRY,Paraguay,2004,Both sexes,165.0
+6726,PRK,Democratic People's Republic of Korea,2004,Both sexes,165.5
+6727,ROU,Romania,2004,Both sexes,165.6
+6728,HND,Honduras,2004,Both sexes,165.8
+6732,JAM,Jamaica,2004,Both sexes,167.7
+6734,VUT,Vanuatu,2004,Both sexes,168.0
+6736,VEN,Venezuela (Bolivarian Republic of),2004,Both sexes,168.4
+6739,BRA,Brazil,2004,Both sexes,169.4
+6745,EGY,Egypt,2004,Both sexes,173.4
+6747,UZB,Uzbekistan,2004,Both sexes,174.5
+6750,FSM,Micronesia (Federated States of),2004,Both sexes,179.0
+6752,HUN,Hungary,2004,Both sexes,180.4
+6755,PAK,Pakistan,2004,Both sexes,183.1
+6762,NIC,Nicaragua,2004,Both sexes,184.7
+6764,SYC,Seychelles,2004,Both sexes,186.1
+6765,GRD,Grenada,2004,Both sexes,186.2
+6766,BHS,Bahamas,2004,Both sexes,186.5
+6767,VCT,Saint Vincent and the Grenadines,2004,Both sexes,188.2
+6771,EST,Estonia,2004,Both sexes,193.5
+6773,THA,Thailand,2004,Both sexes,194.1
+6774,BLZ,Belize,2004,Both sexes,194.5
+6776,TTO,Trinidad and Tobago,2004,Both sexes,195.9
+6781,LKA,Sri Lanka,2004,Both sexes,197.4
+6788,IRQ,Iraq,2004,Both sexes,201.5
+6791,SLB,Solomon Islands,2004,Both sexes,204.8
+6794,GTM,Guatemala,2004,Both sexes,206.1
+6796,SLV,El Salvador,2004,Both sexes,208.7
+6797,LVA,Latvia,2004,Both sexes,208.7
+6798,LTU,Lithuania,2004,Both sexes,208.8
+6799,IDN,Indonesia,2004,Both sexes,212.4
+6800,PHL,Philippines,2004,Both sexes,213.1
+6801,KIR,Kiribati,2004,Both sexes,214.0
+6802,IND,India,2004,Both sexes,214.2
+6805,SUR,Suriname,2004,Both sexes,215.6
+6807,MDA,Republic of Moldova,2004,Both sexes,216.3
+6809,KGZ,Kyrgyzstan,2004,Both sexes,216.6
+6810,DOM,Dominican Republic,2004,Both sexes,217.6
+6811,FJI,Fiji,2004,Both sexes,217.8
+6814,NPL,Nepal,2004,Both sexes,220.8
+6817,TKM,Turkmenistan,2004,Both sexes,223.8
+6820,MRT,Mauritania,2004,Both sexes,225.1
+6822,BOL,Bolivia (Plurinational State of),2004,Both sexes,226.0
+6826,STP,Sao Tome and Principe,2004,Both sexes,229.0
+6827,TLS,Timor-Leste,2004,Both sexes,229.3
+6832,MMR,Myanmar,2004,Both sexes,235.9
+6842,YEM,Yemen,2004,Both sexes,247.6
+6843,SEN,Senegal,2004,Both sexes,248.0
+6844,BLR,Belarus,2004,Both sexes,249.2
+6849,LAO,Lao People's Democratic Republic,2004,Both sexes,252.5
+6855,PNG,Papua New Guinea,2004,Both sexes,259.9
+6857,MNG,Mongolia,2004,Both sexes,261.4
+6858,KHM,Cambodia,2004,Both sexes,261.6
+6863,BTN,Bhutan,2004,Both sexes,264.2
+6865,MDG,Madagascar,2004,Both sexes,267.5
+6868,COM,Comoros,2004,Both sexes,268.7
+6869,UKR,Ukraine,2004,Both sexes,268.9
+6872,GUY,Guyana,2004,Both sexes,270.4
+6878,SDN,Sudan,2004,Both sexes,278.5
+6881,AFG,Afghanistan,2004,Both sexes,281.9
+6883,BEN,Benin,2004,Both sexes,284.5
+6884,NER,Niger,2004,Both sexes,287.4
+6886,KAZ,Kazakhstan,2004,Both sexes,288.6
+6892,GMB,Gambia,2004,Both sexes,294.4
+6903,GNB,Guinea-Bissau,2004,Both sexes,302.5
+6905,LBR,Liberia,2004,Both sexes,306.2
+6907,GHA,Ghana,2004,Both sexes,307.2
+6908,MLI,Mali,2004,Both sexes,310.0
+6918,HTI,Haiti,2004,Both sexes,317.5
+6920,RUS,Russian Federation,2004,Both sexes,321.3
+6921,BFA,Burkina Faso,2004,Both sexes,322.6
+6923,DJI,Djibouti,2004,Both sexes,322.9
+6924,COD,Democratic Republic of the Congo,2004,Both sexes,324.4
+6929,AGO,Angola,2004,Both sexes,333.9
+6933,GAB,Gabon,2004,Both sexes,337.7
+6934,GIN,Guinea,2004,Both sexes,338.9
+6935,TGO,Togo,2004,Both sexes,339.0
+6938,ERI,Eritrea,2004,Both sexes,342.0
+6939,SOM,Somalia,2004,Both sexes,344.8
+6946,GNQ,Equatorial Guinea,2004,Both sexes,361.1
+6948,BDI,Burundi,2004,Both sexes,363.7
+6953,ETH,Ethiopia,2004,Both sexes,374.7
+6954,SSD,South Sudan,2004,Both sexes,384.1
+6964,RWA,Rwanda,2004,Both sexes,398.9
+6966,CMR,Cameroon,2004,Both sexes,403.6
+6967,COG,Congo,2004,Both sexes,407.2
+6969,NGA,Nigeria,2004,Both sexes,410.9
+6971,TCD,Chad,2004,Both sexes,412.5
+6981,TZA,United Republic of Tanzania,2004,Both sexes,447.9
+6982,MOZ,Mozambique,2004,Both sexes,449.9
+6988,KEN,Kenya,2004,Both sexes,459.0
+6989,ZAF,South Africa,2004,Both sexes,459.5
+6994,CIV,Côte d’Ivoire,2004,Both sexes,475.1
+6998,UGA,Uganda,2004,Both sexes,480.3
+7002,SLE,Sierra Leone,2004,Both sexes,495.6
+7009,NAM,Namibia,2004,Both sexes,512.7
+7017,CAF,Central African Republic,2004,Both sexes,544.7
+7018,MWI,Malawi,2004,Both sexes,548.9
+7026,ZMB,Zambia,2004,Both sexes,575.1
+7033,BWA,Botswana,2004,Both sexes,606.7
+7034,ISL,Iceland,2004,Both sexes,61.34
+7040,LSO,Lesotho,2004,Both sexes,626.7
+7044,MLT,Malta,2004,Both sexes,64.21
+7046,SWZ,Eswatini,2004,Both sexes,649.6
+7049,ITA,Italy,2004,Both sexes,66.1
+7051,JPN,Japan,2004,Both sexes,66.86
+7053,AUS,Australia,2004,Both sexes,67.45
+7054,CHE,Switzerland,2004,Both sexes,68.0
+7056,QAT,Qatar,2004,Both sexes,68.59
+7057,SWE,Sweden,2004,Both sexes,69.75
+7060,ZWE,Zimbabwe,2004,Both sexes,694.4
+7064,ISR,Israel,2004,Both sexes,72.59
+7065,SGP,Singapore,2004,Both sexes,72.73
+7070,CYP,Cyprus,2004,Both sexes,73.96
+7073,CAN,Canada,2004,Both sexes,75.7
+7074,NOR,Norway,2004,Both sexes,75.7
+7076,NLD,Netherlands,2004,Both sexes,76.21
+7081,ESP,Spain,2004,Both sexes,78.55
+7082,NZL,New Zealand,2004,Both sexes,78.57
+7083,IRL,Ireland,2004,Both sexes,79.26
+7084,LUX,Luxembourg,2004,Both sexes,79.39
+7085,GRC,Greece,2004,Both sexes,79.86
+7089,GBR,United Kingdom of Great Britain and Northern Ireland,2004,Both sexes,82.39
+7092,AUT,Austria,2004,Both sexes,83.9
+7095,DEU,Germany,2004,Both sexes,85.06
+7105,KWT,Kuwait,2004,Both sexes,89.13
+7106,BRN,Brunei Darussalam,2004,Both sexes,89.34
+7107,BEL,Belgium,2004,Both sexes,89.46
+7111,KOR,Republic of Korea,2004,Both sexes,90.25
+7115,FRA,France,2004,Both sexes,91.58
+7121,BHR,Bahrain,2004,Both sexes,93.95
+7125,ARE,United Arab Emirates,2004,Both sexes,94.32
+7127,DNK,Denmark,2004,Both sexes,95.29
+7128,CHN,China,2004,Both sexes,96.74
+7130,CHL,Chile,2004,Both sexes,97.86
+7135,PRT,Portugal,2004,Both sexes,99.49
+7137,CHL,Chile,2003,Both sexes,100.4
+7138,CRI,Costa Rica,2003,Both sexes,100.9
+7143,PRT,Portugal,2003,Both sexes,104.0
+7149,SAU,Saudi Arabia,2003,Both sexes,106.1
+7151,ALB,Albania,2003,Both sexes,106.8
+7152,TUN,Tunisia,2003,Both sexes,106.9
+7153,LBN,Lebanon,2003,Both sexes,107.3
+7159,CUB,Cuba,2003,Both sexes,111.6
+7160,BIH,Bosnia and Herzegovina,2003,Both sexes,112.5
+7164,USA,United States of America,2003,Both sexes,113.8
+7165,MDV,Maldives,2003,Both sexes,114.0
+7175,SVN,Slovenia,2003,Both sexes,119.1
+7176,PAN,Panama,2003,Both sexes,120.1
+7177,CZE,Czechia,2003,Both sexes,120.8
+7180,HRV,Croatia,2003,Both sexes,121.3
+7183,BRB,Barbados,2003,Both sexes,123.3
+7184,SYR,Syrian Arab Republic,2003,Both sexes,123.6
+7186,MKD,The former Yugoslav Republic of Macedonia,2003,Both sexes,124.5
+7189,URY,Uruguay,2003,Both sexes,125.4
+7192,JOR,Jordan,2003,Both sexes,127.0
+7193,OMN,Oman,2003,Both sexes,127.0
+7203,SRB,Serbia,2003,Both sexes,130.6
+7207,MNE,Montenegro,2003,Both sexes,132.2
+7209,DZA,Algeria,2003,Both sexes,133.2
+7212,ARG,Argentina,2003,Both sexes,134.4
+7214,TUR,Türkiye,2003,Both sexes,134.5
+7216,MEX,Mexico,2003,Both sexes,135.9
+7217,ARM,Armenia,2003,Both sexes,136.7
+7218,VNM,Viet Nam,2003,Both sexes,136.7
+7220,MAR,Morocco,2003,Both sexes,139.2
+7225,POL,Poland,2003,Both sexes,140.3
+7226,MYS,Malaysia,2003,Both sexes,141.0
+7228,SVK,Slovakia,2003,Both sexes,143.2
+7229,LBY,Libya,2003,Both sexes,143.4
+7231,GEO,Georgia,2003,Both sexes,143.8
+7237,ECU,Ecuador,2003,Both sexes,146.3
+7240,LKA,Sri Lanka,2003,Both sexes,146.8
+7242,TJK,Tajikistan,2003,Both sexes,147.1
+7243,PER,Peru,2003,Both sexes,147.5
+7248,AZE,Azerbaijan,2003,Both sexes,150.9
+7249,ATG,Antigua and Barbuda,2003,Both sexes,151.2
+7254,TON,Tonga,2003,Both sexes,153.3
+7256,BGR,Bulgaria,2003,Both sexes,153.6
+7259,COL,Colombia,2003,Both sexes,155.0
+7262,IRN,Iran (Islamic Republic of),2003,Both sexes,158.7
+7263,CPV,Cabo Verde,2003,Both sexes,160.3
+7264,BGD,Bangladesh,2003,Both sexes,160.9
+7269,PRK,Democratic People's Republic of Korea,2003,Both sexes,165.5
+7272,PRY,Paraguay,2003,Both sexes,166.2
+7275,MUS,Mauritius,2003,Both sexes,168.4
+7278,WSM,Samoa,2003,Both sexes,169.1
+7280,LCA,Saint Lucia,2003,Both sexes,169.3
+7281,JAM,Jamaica,2003,Both sexes,169.7
+7282,HND,Honduras,2003,Both sexes,169.9
+7289,VUT,Vanuatu,2003,Both sexes,171.5
+7290,BRA,Brazil,2003,Both sexes,171.7
+7293,UZB,Uzbekistan,2003,Both sexes,173.1
+7294,ROU,Romania,2003,Both sexes,173.7
+7295,EGY,Egypt,2003,Both sexes,174.7
+7296,GRD,Grenada,2003,Both sexes,174.8
+7301,VEN,Venezuela (Bolivarian Republic of),2003,Both sexes,179.7
+7303,FSM,Micronesia (Federated States of),2003,Both sexes,180.5
+7304,HUN,Hungary,2003,Both sexes,183.9
+7309,SYC,Seychelles,2003,Both sexes,184.9
+7310,PAK,Pakistan,2003,Both sexes,185.1
+7313,IDN,Indonesia,2003,Both sexes,188.2
+7314,NIC,Nicaragua,2003,Both sexes,189.0
+7319,VCT,Saint Vincent and the Grenadines,2003,Both sexes,192.2
+7321,THA,Thailand,2003,Both sexes,194.4
+7323,EST,Estonia,2003,Both sexes,197.1
+7326,BLZ,Belize,2003,Both sexes,199.0
+7330,TTO,Trinidad and Tobago,2003,Both sexes,199.4
+7336,BHS,Bahamas,2003,Both sexes,203.2
+7341,LTU,Lithuania,2003,Both sexes,207.2
+7345,GTM,Guatemala,2003,Both sexes,209.0
+7347,SLV,El Salvador,2003,Both sexes,210.8
+7348,SLB,Solomon Islands,2003,Both sexes,211.3
+7349,LVA,Latvia,2003,Both sexes,212.1
+7350,PHL,Philippines,2003,Both sexes,212.5
+7352,IRQ,Iraq,2003,Both sexes,213.3
+7354,DOM,Dominican Republic,2003,Both sexes,215.1
+7355,KIR,Kiribati,2003,Both sexes,215.3
+7357,IND,India,2003,Both sexes,216.4
+7358,MDA,Republic of Moldova,2003,Both sexes,216.6
+7360,KGZ,Kyrgyzstan,2003,Both sexes,217.1
+7361,TKM,Turkmenistan,2003,Both sexes,217.5
+7363,FJI,Fiji,2003,Both sexes,219.9
+7365,SUR,Suriname,2003,Both sexes,222.1
+7369,NPL,Nepal,2003,Both sexes,225.2
+7371,MRT,Mauritania,2003,Both sexes,226.2
+7372,STP,Sao Tome and Principe,2003,Both sexes,227.0
+7376,BOL,Bolivia (Plurinational State of),2003,Both sexes,230.3
+7380,MMR,Myanmar,2003,Both sexes,238.0
+7391,YEM,Yemen,2003,Both sexes,249.2
+7393,TLS,Timor-Leste,2003,Both sexes,250.4
+7394,SEN,Senegal,2003,Both sexes,250.5
+7397,BLR,Belarus,2003,Both sexes,254.4
+7402,UKR,Ukraine,2003,Both sexes,258.2
+7403,LAO,Lao People's Democratic Republic,2003,Both sexes,258.8
+7408,MNG,Mongolia,2003,Both sexes,265.1
+7409,PNG,Papua New Guinea,2003,Both sexes,265.1
+7413,MDG,Madagascar,2003,Both sexes,268.4
+7416,KHM,Cambodia,2003,Both sexes,269.7
+7417,COM,Comoros,2003,Both sexes,270.7
+7418,BTN,Bhutan,2003,Both sexes,271.1
+7427,GUY,Guyana,2003,Both sexes,277.0
+7428,SDN,Sudan,2003,Both sexes,277.8
+7431,KAZ,Kazakhstan,2003,Both sexes,283.4
+7433,BEN,Benin,2003,Both sexes,284.5
+7434,AFG,Afghanistan,2003,Both sexes,286.5
+7438,NER,Niger,2003,Both sexes,289.5
+7443,HTI,Haiti,2003,Both sexes,296.8
+7444,GMB,Gambia,2003,Both sexes,297.4
+7447,GNB,Guinea-Bissau,2003,Both sexes,299.9
+7456,GHA,Ghana,2003,Both sexes,309.2
+7460,MLI,Mali,2003,Both sexes,315.8
+7469,DJI,Djibouti,2003,Both sexes,324.9
+7471,RUS,Russian Federation,2003,Both sexes,325.0
+7474,BFA,Burkina Faso,2003,Both sexes,330.3
+7476,COD,Democratic Republic of the Congo,2003,Both sexes,333.5
+7477,GAB,Gabon,2003,Both sexes,335.5
+7482,TGO,Togo,2003,Both sexes,337.9
+7484,AGO,Angola,2003,Both sexes,343.2
+7485,GIN,Guinea,2003,Both sexes,345.5
+7486,SOM,Somalia,2003,Both sexes,346.6
+7487,ERI,Eritrea,2003,Both sexes,347.3
+7492,GNQ,Equatorial Guinea,2003,Both sexes,359.4
+7497,BDI,Burundi,2003,Both sexes,370.0
+7501,LBR,Liberia,2003,Both sexes,377.0
+7503,SSD,South Sudan,2003,Both sexes,383.0
+7504,ETH,Ethiopia,2003,Both sexes,386.2
+7515,CMR,Cameroon,2003,Both sexes,408.2
+7517,TCD,Chad,2003,Both sexes,411.7
+7518,NGA,Nigeria,2003,Both sexes,415.1
+7519,RWA,Rwanda,2003,Both sexes,416.9
+7520,COG,Congo,2003,Both sexes,417.7
+7530,ZAF,South Africa,2003,Both sexes,436.6
+7531,MOZ,Mozambique,2003,Both sexes,446.0
+7532,TZA,United Republic of Tanzania,2003,Both sexes,452.8
+7537,KEN,Kenya,2003,Both sexes,466.3
+7543,CIV,Côte d’Ivoire,2003,Both sexes,477.7
+7550,UGA,Uganda,2003,Both sexes,494.1
+7554,NAM,Namibia,2003,Both sexes,500.1
+7555,SLE,Sierra Leone,2003,Both sexes,506.1
+7567,CAF,Central African Republic,2003,Both sexes,546.8
+7568,MWI,Malawi,2003,Both sexes,550.1
+7578,ZMB,Zambia,2003,Both sexes,592.8
+7582,LSO,Lesotho,2003,Both sexes,607.9
+7587,ISL,Iceland,2003,Both sexes,62.99
+7589,SWZ,Eswatini,2003,Both sexes,632.8
+7592,BWA,Botswana,2003,Both sexes,641.4
+7595,MLT,Malta,2003,Both sexes,66.29
+7601,SWE,Sweden,2003,Both sexes,68.35
+7603,JPN,Japan,2003,Both sexes,68.41
+7604,CYP,Cyprus,2003,Both sexes,69.19
+7605,AUS,Australia,2003,Both sexes,69.39
+7607,ZWE,Zimbabwe,2003,Both sexes,696.9
+7608,ITA,Italy,2003,Both sexes,70.19
+7609,QAT,Qatar,2003,Both sexes,70.23
+7611,CHE,Switzerland,2003,Both sexes,71.42
+7613,SGP,Singapore,2003,Both sexes,73.32
+7621,ISR,Israel,2003,Both sexes,75.61
+7622,NOR,Norway,2003,Both sexes,76.71
+7623,CAN,Canada,2003,Both sexes,77.36
+7627,GRC,Greece,2003,Both sexes,79.51
+7629,NLD,Netherlands,2003,Both sexes,79.77
+7630,IRL,Ireland,2003,Both sexes,80.11
+7632,NZL,New Zealand,2003,Both sexes,81.43
+7633,ESP,Spain,2003,Both sexes,81.8
+7640,LUX,Luxembourg,2003,Both sexes,84.85
+7643,GBR,United Kingdom of Great Britain and Northern Ireland,2003,Both sexes,85.67
+7644,AUT,Austria,2003,Both sexes,86.0
+7650,DEU,Germany,2003,Both sexes,89.13
+7651,KWT,Kuwait,2003,Both sexes,90.18
+7653,BRN,Brunei Darussalam,2003,Both sexes,90.71
+7657,BHR,Bahrain,2003,Both sexes,92.13
+7666,BEL,Belgium,2003,Both sexes,93.56
+7671,KOR,Republic of Korea,2003,Both sexes,94.86
+7676,FRA,France,2003,Both sexes,96.82
+7677,FIN,Finland,2003,Both sexes,96.9
+7678,ARE,United Arab Emirates,2003,Both sexes,97.74
+7680,DNK,Denmark,2003,Both sexes,98.0
+7681,CHN,China,2003,Both sexes,98.62
+7687,CHL,Chile,2002,Both sexes,100.4
+7689,ARE,United Arab Emirates,2002,Both sexes,100.9
+7690,CHN,China,2002,Both sexes,101.0
+7692,DNK,Denmark,2002,Both sexes,101.1
+7693,ALB,Albania,2002,Both sexes,102.3
+7698,PRT,Portugal,2002,Both sexes,106.7
+7699,SAU,Saudi Arabia,2002,Both sexes,107.4
+7702,TUN,Tunisia,2002,Both sexes,108.3
+7706,LBN,Lebanon,2002,Both sexes,109.5
+7712,BIH,Bosnia and Herzegovina,2002,Both sexes,111.4
+7714,CUB,Cuba,2002,Both sexes,111.9
+7720,USA,United States of America,2002,Both sexes,114.9
+7727,SVN,Slovenia,2002,Both sexes,116.7
+7731,CZE,Czechia,2002,Both sexes,119.0
+7734,PAN,Panama,2002,Both sexes,119.8
+7736,SYR,Syrian Arab Republic,2002,Both sexes,123.9
+7737,HRV,Croatia,2002,Both sexes,124.0
+7741,BRB,Barbados,2002,Both sexes,126.1
+7743,MKD,The former Yugoslav Republic of Macedonia,2002,Both sexes,127.0
+7749,MDV,Maldives,2002,Both sexes,128.2
+7751,URY,Uruguay,2002,Both sexes,128.7
+7752,JOR,Jordan,2002,Both sexes,129.0
+7755,OMN,Oman,2002,Both sexes,130.3
+7758,SRB,Serbia,2002,Both sexes,131.1
+7762,MNE,Montenegro,2002,Both sexes,133.2
+7765,DZA,Algeria,2002,Both sexes,134.7
+7767,MEX,Mexico,2002,Both sexes,135.8
+7771,ARM,Armenia,2002,Both sexes,136.9
+7772,VNM,Viet Nam,2002,Both sexes,136.9
+7773,ARG,Argentina,2002,Both sexes,137.1
+7774,TUR,Türkiye,2002,Both sexes,137.3
+7777,IRQ,Iraq,2002,Both sexes,139.6
+7780,MYS,Malaysia,2002,Both sexes,142.7
+7781,POL,Poland,2002,Both sexes,142.7
+7784,AZE,Azerbaijan,2002,Both sexes,143.7
+7787,SVK,Slovakia,2002,Both sexes,144.0
+7789,LBY,Libya,2002,Both sexes,145.1
+7793,MAR,Morocco,2002,Both sexes,145.9
+7794,IRN,Iran (Islamic Republic of),2002,Both sexes,146.7
+7797,ATG,Antigua and Barbuda,2002,Both sexes,148.9
+7799,LKA,Sri Lanka,2002,Both sexes,149.6
+7801,PER,Peru,2002,Both sexes,150.2
+7805,GEO,Georgia,2002,Both sexes,151.6
+7807,ECU,Ecuador,2002,Both sexes,152.6
+7812,TON,Tonga,2002,Both sexes,154.9
+7813,BGR,Bulgaria,2002,Both sexes,156.1
+7814,TJK,Tajikistan,2002,Both sexes,156.5
+7818,CPV,Cabo Verde,2002,Both sexes,161.6
+7821,BGD,Bangladesh,2002,Both sexes,163.7
+7828,PRK,Democratic People's Republic of Korea,2002,Both sexes,167.1
+7829,PRY,Paraguay,2002,Both sexes,167.5
+7830,COL,Colombia,2002,Both sexes,168.6
+7836,JAM,Jamaica,2002,Both sexes,171.3
+7837,HND,Honduras,2002,Both sexes,171.8
+7842,MUS,Mauritius,2002,Both sexes,173.1
+7844,EGY,Egypt,2002,Both sexes,173.7
+7846,WSM,Samoa,2002,Both sexes,174.6
+7847,VEN,Venezuela (Bolivarian Republic of),2002,Both sexes,174.6
+7849,GRD,Grenada,2002,Both sexes,175.2
+7851,VUT,Vanuatu,2002,Both sexes,175.6
+7852,LCA,Saint Lucia,2002,Both sexes,176.0
+7853,BRA,Brazil,2002,Both sexes,176.2
+7854,UZB,Uzbekistan,2002,Both sexes,176.3
+7855,ROU,Romania,2002,Both sexes,178.1
+7861,HUN,Hungary,2002,Both sexes,184.1
+7865,SYC,Seychelles,2002,Both sexes,185.5
+7867,PAK,Pakistan,2002,Both sexes,186.7
+7868,IDN,Indonesia,2002,Both sexes,187.7
+7872,NIC,Nicaragua,2002,Both sexes,192.3
+7874,TTO,Trinidad and Tobago,2002,Both sexes,195.0
+7875,VCT,Saint Vincent and the Grenadines,2002,Both sexes,195.5
+7879,THA,Thailand,2002,Both sexes,197.5
+7883,BLZ,Belize,2002,Both sexes,199.6
+7885,FSM,Micronesia (Federated States of),2002,Both sexes,200.8
+7890,BHS,Bahamas,2002,Both sexes,205.6
+7891,GTM,Guatemala,2002,Both sexes,205.8
+7893,LTU,Lithuania,2002,Both sexes,206.7
+7897,EST,Estonia,2002,Both sexes,210.2
+7900,SLV,El Salvador,2002,Both sexes,212.8
+7903,DOM,Dominican Republic,2002,Both sexes,214.8
+7906,MDA,Republic of Moldova,2002,Both sexes,215.5
+7907,PHL,Philippines,2002,Both sexes,215.8
+7908,TKM,Turkmenistan,2002,Both sexes,216.0
+7910,KGZ,Kyrgyzstan,2002,Both sexes,216.8
+7911,KIR,Kiribati,2002,Both sexes,216.9
+7914,SLB,Solomon Islands,2002,Both sexes,217.8
+7915,IND,India,2002,Both sexes,219.0
+7917,FJI,Fiji,2002,Both sexes,220.3
+7919,LVA,Latvia,2002,Both sexes,221.0
+7922,SUR,Suriname,2002,Both sexes,224.8
+7923,STP,Sao Tome and Principe,2002,Both sexes,225.3
+7924,MRT,Mauritania,2002,Both sexes,227.2
+7931,BOL,Bolivia (Plurinational State of),2002,Both sexes,234.0
+7936,MMR,Myanmar,2002,Both sexes,240.5
+7938,NPL,Nepal,2002,Both sexes,242.2
+7946,YEM,Yemen,2002,Both sexes,250.3
+7947,SEN,Senegal,2002,Both sexes,250.6
+7955,UKR,Ukraine,2002,Both sexes,257.5
+7959,TLS,Timor-Leste,2002,Both sexes,261.4
+7960,BLR,Belarus,2002,Both sexes,263.7
+7961,LAO,Lao People's Democratic Republic,2002,Both sexes,264.9
+7964,MNG,Mongolia,2002,Both sexes,267.9
+7966,PNG,Papua New Guinea,2002,Both sexes,268.9
+7969,MDG,Madagascar,2002,Both sexes,270.9
+7971,COM,Comoros,2002,Both sexes,271.5
+7975,KHM,Cambodia,2002,Both sexes,274.3
+7979,SDN,Sudan,2002,Both sexes,276.3
+7980,KAZ,Kazakhstan,2002,Both sexes,276.5
+7982,BTN,Bhutan,2002,Both sexes,279.0
+7983,GUY,Guyana,2002,Both sexes,280.2
+7988,BEN,Benin,2002,Both sexes,283.7
+7993,NER,Niger,2002,Both sexes,290.6
+7995,AFG,Afghanistan,2002,Both sexes,292.3
+7997,GNB,Guinea-Bissau,2002,Both sexes,296.4
+7999,GMB,Gambia,2002,Both sexes,299.0
+8001,HTI,Haiti,2002,Both sexes,300.5
+8010,GHA,Ghana,2002,Both sexes,309.7
+8016,RUS,Russian Federation,2002,Both sexes,316.9
+8019,MLI,Mali,2002,Both sexes,320.7
+8026,DJI,Djibouti,2002,Both sexes,326.6
+8031,GAB,Gabon,2002,Both sexes,331.4
+8033,TGO,Togo,2002,Both sexes,333.6
+8035,BFA,Burkina Faso,2002,Both sexes,335.0
+8039,COD,Democratic Republic of the Congo,2002,Both sexes,341.1
+8040,GIN,Guinea,2002,Both sexes,344.7
+8041,ERI,Eritrea,2002,Both sexes,347.9
+8042,LBR,Liberia,2002,Both sexes,349.8
+8044,SOM,Somalia,2002,Both sexes,350.8
+8048,AGO,Angola,2002,Both sexes,354.5
+8049,GNQ,Equatorial Guinea,2002,Both sexes,358.2
+8052,BDI,Burundi,2002,Both sexes,369.0
+8058,SSD,South Sudan,2002,Both sexes,381.5
+8062,ETH,Ethiopia,2002,Both sexes,390.5
+8070,CMR,Cameroon,2002,Both sexes,409.0
+8072,TCD,Chad,2002,Both sexes,412.1
+8073,ZAF,South Africa,2002,Both sexes,412.2
+8075,NGA,Nigeria,2002,Both sexes,413.9
+8080,COG,Congo,2002,Both sexes,425.1
+8081,RWA,Rwanda,2002,Both sexes,429.0
+8085,MOZ,Mozambique,2002,Both sexes,439.4
+8090,TZA,United Republic of Tanzania,2002,Both sexes,455.9
+8095,KEN,Kenya,2002,Both sexes,467.7
+8101,CIV,Côte d’Ivoire,2002,Both sexes,476.9
+8103,NAM,Namibia,2002,Both sexes,479.2
+8109,UGA,Uganda,2002,Both sexes,510.3
+8110,SLE,Sierra Leone,2002,Both sexes,513.0
+8120,CAF,Central African Republic,2002,Both sexes,547.4
+8121,MWI,Malawi,2002,Both sexes,547.4
+8131,LSO,Lesotho,2002,Both sexes,580.5
+8136,ZMB,Zambia,2002,Both sexes,593.9
+8140,SWZ,Eswatini,2002,Both sexes,610.3
+8146,BWA,Botswana,2002,Both sexes,645.0
+8149,ISL,Iceland,2002,Both sexes,66.18
+8154,MLT,Malta,2002,Both sexes,67.73
+8156,JPN,Japan,2002,Both sexes,68.38
+8159,ZWE,Zimbabwe,2002,Both sexes,694.8
+8161,SWE,Sweden,2002,Both sexes,70.03
+8162,ITA,Italy,2002,Both sexes,70.75
+8164,CYP,Cyprus,2002,Both sexes,71.3
+8165,QAT,Qatar,2002,Both sexes,71.57
+8166,AUS,Australia,2002,Both sexes,71.69
+8169,CHE,Switzerland,2002,Both sexes,73.17
+8174,SGP,Singapore,2002,Both sexes,76.49
+8178,CAN,Canada,2002,Both sexes,78.02
+8181,GRC,Greece,2002,Both sexes,79.01
+8182,NOR,Norway,2002,Both sexes,79.92
+8184,ISR,Israel,2002,Both sexes,80.61
+8185,NLD,Netherlands,2002,Both sexes,80.67
+8187,ESP,Spain,2002,Both sexes,81.76
+8190,NZL,New Zealand,2002,Both sexes,82.28
+8196,IRL,Ireland,2002,Both sexes,85.74
+8197,LUX,Luxembourg,2002,Both sexes,86.58
+8198,GBR,United Kingdom of Great Britain and Northern Ireland,2002,Both sexes,86.82
+8199,AUT,Austria,2002,Both sexes,87.4
+8206,DEU,Germany,2002,Both sexes,90.53
+8207,KWT,Kuwait,2002,Both sexes,91.25
+8220,BRN,Brunei Darussalam,2002,Both sexes,95.07
+8224,BEL,Belgium,2002,Both sexes,96.58
+8225,FIN,Finland,2002,Both sexes,97.0
+8230,FRA,France,2002,Both sexes,98.39
+8231,KOR,Republic of Korea,2002,Both sexes,98.74
+8232,BHR,Bahrain,2002,Both sexes,98.92
+8234,CRI,Costa Rica,2002,Both sexes,99.59
+8235,ALB,Albania,2001,Both sexes,100.4
+8237,BRN,Brunei Darussalam,2001,Both sexes,100.7
+8240,CRI,Costa Rica,2001,Both sexes,101.2
+8245,ARE,United Arab Emirates,2001,Both sexes,103.9
+8247,CHN,China,2001,Both sexes,105.0
+8248,KOR,Republic of Korea,2001,Both sexes,105.0
+8250,CHL,Chile,2001,Both sexes,105.7
+8253,PRT,Portugal,2001,Both sexes,109.1
+8255,SAU,Saudi Arabia,2001,Both sexes,109.3
+8256,TUN,Tunisia,2001,Both sexes,109.7
+8262,LBN,Lebanon,2001,Both sexes,111.7
+8268,USA,United States of America,2001,Both sexes,115.8
+8276,CUB,Cuba,2001,Both sexes,119.5
+8278,PAN,Panama,2001,Both sexes,120.1
+8284,CZE,Czechia,2001,Both sexes,121.5
+8288,SVN,Slovenia,2001,Both sexes,123.5
+8289,SYR,Syrian Arab Republic,2001,Both sexes,123.8
+8290,BIH,Bosnia and Herzegovina,2001,Both sexes,124.7
+8291,GEO,Georgia,2001,Both sexes,124.7
+8293,BRB,Barbados,2001,Both sexes,127.0
+8294,URY,Uruguay,2001,Both sexes,127.1
+8297,MKD,The former Yugoslav Republic of Macedonia,2001,Both sexes,128.0
+8298,HRV,Croatia,2001,Both sexes,128.6
+8307,JOR,Jordan,2001,Both sexes,131.0
+8311,OMN,Oman,2001,Both sexes,133.9
+8312,SRB,Serbia,2001,Both sexes,134.2
+8313,MDV,Maldives,2001,Both sexes,135.4
+8314,MEX,Mexico,2001,Both sexes,135.5
+8318,MNE,Montenegro,2001,Both sexes,136.7
+8321,ARG,Argentina,2001,Both sexes,137.6
+8322,VNM,Viet Nam,2001,Both sexes,137.6
+8324,DZA,Algeria,2001,Both sexes,138.8
+8327,TUR,Türkiye,2001,Both sexes,140.5
+8328,IRQ,Iraq,2001,Both sexes,141.2
+8332,ARM,Armenia,2001,Both sexes,143.2
+8334,MYS,Malaysia,2001,Both sexes,144.4
+8335,SVK,Slovakia,2001,Both sexes,144.6
+8340,LBY,Libya,2001,Both sexes,146.4
+8343,POL,Poland,2001,Both sexes,147.0
+8346,AZE,Azerbaijan,2001,Both sexes,149.5
+8347,IRN,Iran (Islamic Republic of),2001,Both sexes,150.1
+8352,MAR,Morocco,2001,Both sexes,152.2
+8353,PER,Peru,2001,Both sexes,152.6
+8357,ECU,Ecuador,2001,Both sexes,154.0
+8359,ATG,Antigua and Barbuda,2001,Both sexes,154.5
+8363,TON,Tonga,2001,Both sexes,156.6
+8366,LKA,Sri Lanka,2001,Both sexes,158.5
+8367,BGR,Bulgaria,2001,Both sexes,159.3
+8369,TJK,Tajikistan,2001,Both sexes,161.6
+8371,CPV,Cabo Verde,2001,Both sexes,163.8
+8376,BGD,Bangladesh,2001,Both sexes,167.8
+8383,PRY,Paraguay,2001,Both sexes,169.3
+8385,COL,Colombia,2001,Both sexes,170.1
+8387,MUS,Mauritius,2001,Both sexes,171.5
+8390,EGY,Egypt,2001,Both sexes,172.8
+8391,HND,Honduras,2001,Both sexes,173.8
+8395,JAM,Jamaica,2001,Both sexes,174.6
+8396,VEN,Venezuela (Bolivarian Republic of),2001,Both sexes,174.6
+8398,WSM,Samoa,2001,Both sexes,175.8
+8400,PRK,Democratic People's Republic of Korea,2001,Both sexes,176.6
+8402,UZB,Uzbekistan,2001,Both sexes,176.6
+8404,GRD,Grenada,2001,Both sexes,178.2
+8405,ROU,Romania,2001,Both sexes,178.7
+8407,BRA,Brazil,2001,Both sexes,180.0
+8408,VUT,Vanuatu,2001,Both sexes,180.3
+8410,LCA,Saint Lucia,2001,Both sexes,180.6
+8414,FSM,Micronesia (Federated States of),2001,Both sexes,183.2
+8418,HUN,Hungary,2001,Both sexes,185.1
+8421,SYC,Seychelles,2001,Both sexes,186.8
+8422,IDN,Indonesia,2001,Both sexes,187.5
+8423,PAK,Pakistan,2001,Both sexes,188.4
+8429,NIC,Nicaragua,2001,Both sexes,194.8
+8430,VCT,Saint Vincent and the Grenadines,2001,Both sexes,195.3
+8434,THA,Thailand,2001,Both sexes,200.5
+8438,BLZ,Belize,2001,Both sexes,203.4
+8440,BHS,Bahamas,2001,Both sexes,204.3
+8441,TTO,Trinidad and Tobago,2001,Both sexes,204.3
+8448,TKM,Turkmenistan,2001,Both sexes,209.6
+8452,LTU,Lithuania,2001,Both sexes,213.9
+8453,DOM,Dominican Republic,2001,Both sexes,214.1
+8454,GTM,Guatemala,2001,Both sexes,214.3
+8456,PHL,Philippines,2001,Both sexes,215.1
+8459,MDA,Republic of Moldova,2001,Both sexes,218.6
+8460,KIR,Kiribati,2001,Both sexes,219.2
+8461,KGZ,Kyrgyzstan,2001,Both sexes,219.4
+8464,FJI,Fiji,2001,Both sexes,220.9
+8466,IND,India,2001,Both sexes,221.8
+8468,SLV,El Salvador,2001,Both sexes,222.1
+8473,EST,Estonia,2001,Both sexes,223.7
+8474,SUR,Suriname,2001,Both sexes,223.8
+8475,SLB,Solomon Islands,2001,Both sexes,224.5
+8476,STP,Sao Tome and Principe,2001,Both sexes,225.0
+8478,MRT,Mauritania,2001,Both sexes,227.8
+8480,LVA,Latvia,2001,Both sexes,228.7
+8483,NPL,Nepal,2001,Both sexes,234.4
+8487,BOL,Bolivia (Plurinational State of),2001,Both sexes,238.0
+8489,MMR,Myanmar,2001,Both sexes,242.8
+8498,SEN,Senegal,2001,Both sexes,250.6
+8499,YEM,Yemen,2001,Both sexes,251.1
+8503,UKR,Ukraine,2001,Both sexes,253.8
+8505,BLR,Belarus,2001,Both sexes,254.8
+8517,TLS,Timor-Leste,2001,Both sexes,269.2
+8520,MNG,Mongolia,2001,Both sexes,270.6
+8521,LAO,Lao People's Democratic Republic,2001,Both sexes,271.2
+8522,COM,Comoros,2001,Both sexes,271.9
+8523,PNG,Papua New Guinea,2001,Both sexes,272.6
+8524,GUY,Guyana,2001,Both sexes,272.9
+8529,MDG,Madagascar,2001,Both sexes,275.6
+8530,KHM,Cambodia,2001,Both sexes,277.2
+8534,SDN,Sudan,2001,Both sexes,282.4
+8536,KAZ,Kazakhstan,2001,Both sexes,282.5
+8537,BEN,Benin,2001,Both sexes,282.7
+8542,BTN,Bhutan,2001,Both sexes,286.8
+8544,NER,Niger,2001,Both sexes,291.7
+8546,GNB,Guinea-Bissau,2001,Both sexes,293.3
+8554,GMB,Gambia,2001,Both sexes,301.1
+8555,HTI,Haiti,2001,Both sexes,303.5
+8559,AFG,Afghanistan,2001,Both sexes,307.2
+8561,GHA,Ghana,2001,Both sexes,310.3
+8563,RUS,Russian Federation,2001,Both sexes,311.4
+8574,LBR,Liberia,2001,Both sexes,323.8
+8575,DJI,Djibouti,2001,Both sexes,324.6
+8579,GAB,Gabon,2001,Both sexes,325.0
+8581,MLI,Mali,2001,Both sexes,327.4
+8583,TGO,Togo,2001,Both sexes,327.9
+8593,COD,Democratic Republic of the Congo,2001,Both sexes,337.9
+8594,BFA,Burkina Faso,2001,Both sexes,338.8
+8596,GIN,Guinea,2001,Both sexes,341.1
+8599,ERI,Eritrea,2001,Both sexes,347.9
+8602,SOM,Somalia,2001,Both sexes,354.2
+8603,GNQ,Equatorial Guinea,2001,Both sexes,358.3
+8607,BDI,Burundi,2001,Both sexes,365.5
+8611,AGO,Angola,2001,Both sexes,372.4
+8613,SSD,South Sudan,2001,Both sexes,380.3
+8615,ZAF,South Africa,2001,Both sexes,387.3
+8617,ETH,Ethiopia,2001,Both sexes,391.7
+8626,TCD,Chad,2001,Both sexes,409.4
+8627,CMR,Cameroon,2001,Both sexes,410.6
+8629,NGA,Nigeria,2001,Both sexes,411.5
+8631,COG,Congo,2001,Both sexes,420.4
+8638,MOZ,Mozambique,2001,Both sexes,432.8
+8645,NAM,Namibia,2001,Both sexes,454.3
+8646,RWA,Rwanda,2001,Both sexes,455.7
+8648,TZA,United Republic of Tanzania,2001,Both sexes,457.9
+8650,KEN,Kenya,2001,Both sexes,465.0
+8651,CIV,Côte d’Ivoire,2001,Both sexes,468.7
+8665,SLE,Sierra Leone,2001,Both sexes,520.1
+8666,UGA,Uganda,2001,Both sexes,522.6
+8673,MWI,Malawi,2001,Both sexes,542.6
+8674,CAF,Central African Republic,2001,Both sexes,544.0
+8675,LSO,Lesotho,2001,Both sexes,546.1
+8686,SWZ,Eswatini,2001,Both sexes,580.3
+8690,ZMB,Zambia,2001,Both sexes,594.0
+8695,BWA,Botswana,2001,Both sexes,627.8
+8708,MLT,Malta,2001,Both sexes,68.96
+8709,ZWE,Zimbabwe,2001,Both sexes,687.6
+8711,CYP,Cyprus,2001,Both sexes,69.98
+8712,JPN,Japan,2001,Both sexes,70.2
+8714,SWE,Sweden,2001,Both sexes,72.09
+8717,QAT,Qatar,2001,Both sexes,72.85
+8721,ITA,Italy,2001,Both sexes,73.22
+8722,ISL,Iceland,2001,Both sexes,73.4
+8723,AUS,Australia,2001,Both sexes,73.55
+8724,CHE,Switzerland,2001,Both sexes,74.69
+8726,SGP,Singapore,2001,Both sexes,76.72
+8730,CAN,Canada,2001,Both sexes,79.15
+8731,ISR,Israel,2001,Both sexes,79.15
+8733,GRC,Greece,2001,Both sexes,80.92
+8734,NOR,Norway,2001,Both sexes,81.01
+8738,NLD,Netherlands,2001,Both sexes,81.76
+8740,NZL,New Zealand,2001,Both sexes,82.78
+8741,ESP,Spain,2001,Both sexes,82.88
+8749,IRL,Ireland,2001,Both sexes,87.79
+8750,GBR,United Kingdom of Great Britain and Northern Ireland,2001,Both sexes,87.91
+8752,AUT,Austria,2001,Both sexes,89.52
+8753,LUX,Luxembourg,2001,Both sexes,90.22
+8757,DEU,Germany,2001,Both sexes,91.75
+8760,KWT,Kuwait,2001,Both sexes,92.4
+8776,BEL,Belgium,2001,Both sexes,98.11
+8778,BHR,Bahrain,2001,Both sexes,98.42
+8781,FIN,Finland,2001,Both sexes,99.07
+8782,FRA,France,2001,Both sexes,99.48
+8783,DNK,Denmark,2001,Both sexes,99.5
+8790,BHR,Bahrain,2000,Both sexes,100.8
+8793,CHL,Chile,2000,Both sexes,102.8
+8795,FIN,Finland,2000,Both sexes,104.2
+8798,BRN,Brunei Darussalam,2000,Both sexes,105.1
+8802,ALB,Albania,2000,Both sexes,106.1
+8806,ARE,United Arab Emirates,2000,Both sexes,106.9
+8809,PRT,Portugal,2000,Both sexes,109.6
+8810,CHN,China,2000,Both sexes,110.3
+8812,SAU,Saudi Arabia,2000,Both sexes,111.5
+8813,TUN,Tunisia,2000,Both sexes,111.5
+8817,KOR,Republic of Korea,2000,Both sexes,113.6
+8818,LBN,Lebanon,2000,Both sexes,113.8
+8819,USA,United States of America,2000,Both sexes,114.2
+8828,PAN,Panama,2000,Both sexes,119.6
+8831,CUB,Cuba,2000,Both sexes,121.1
+8835,SVN,Slovenia,2000,Both sexes,121.9
+8839,MKD,The former Yugoslav Republic of Macedonia,2000,Both sexes,123.7
+8840,SYR,Syrian Arab Republic,2000,Both sexes,123.7
+8842,CZE,Czechia,2000,Both sexes,124.3
+8849,BIH,Bosnia and Herzegovina,2000,Both sexes,128.3
+8850,BRB,Barbados,2000,Both sexes,128.4
+8851,GEO,Georgia,2000,Both sexes,128.5
+8858,HRV,Croatia,2000,Both sexes,133.0
+8860,JOR,Jordan,2000,Both sexes,133.2
+8862,URY,Uruguay,2000,Both sexes,134.2
+8870,ARG,Argentina,2000,Both sexes,138.5
+8871,MEX,Mexico,2000,Both sexes,138.5
+8873,OMN,Oman,2000,Both sexes,138.6
+8875,VNM,Viet Nam,2000,Both sexes,138.6
+8878,MNE,Montenegro,2000,Both sexes,139.8
+8880,SRB,Serbia,2000,Both sexes,140.6
+8881,DZA,Algeria,2000,Both sexes,141.9
+8882,MDV,Maldives,2000,Both sexes,142.2
+8884,ARM,Armenia,2000,Both sexes,143.4
+8885,TUR,Türkiye,2000,Both sexes,144.1
+8889,MYS,Malaysia,2000,Both sexes,145.1
+8892,SVK,Slovakia,2000,Both sexes,146.8
+8893,LBY,Libya,2000,Both sexes,147.5
+8896,IRQ,Iraq,2000,Both sexes,148.4
+8904,POL,Poland,2000,Both sexes,152.2
+8906,IRN,Iran (Islamic Republic of),2000,Both sexes,153.3
+8908,PER,Peru,2000,Both sexes,154.8
+8911,ATG,Antigua and Barbuda,2000,Both sexes,156.7
+8913,TON,Tonga,2000,Both sexes,158.3
+8914,MAR,Morocco,2000,Both sexes,158.6
+8918,ECU,Ecuador,2000,Both sexes,159.6
+8922,AZE,Azerbaijan,2000,Both sexes,161.0
+8925,BGR,Bulgaria,2000,Both sexes,162.7
+8928,EGY,Egypt,2000,Both sexes,166.2
+8929,CPV,Cabo Verde,2000,Both sexes,166.8
+8936,TJK,Tajikistan,2000,Both sexes,170.1
+8937,LKA,Sri Lanka,2000,Both sexes,170.7
+8938,COL,Colombia,2000,Both sexes,171.4
+8939,PRY,Paraguay,2000,Both sexes,171.5
+8941,MUS,Mauritius,2000,Both sexes,171.8
+8942,BGD,Bangladesh,2000,Both sexes,172.8
+8943,VEN,Venezuela (Bolivarian Republic of),2000,Both sexes,172.8
+8944,JAM,Jamaica,2000,Both sexes,173.4
+8948,ROU,Romania,2000,Both sexes,175.0
+8951,HND,Honduras,2000,Both sexes,176.1
+8955,WSM,Samoa,2000,Both sexes,180.3
+8958,GRD,Grenada,2000,Both sexes,182.1
+8959,UZB,Uzbekistan,2000,Both sexes,182.8
+8963,BRA,Brazil,2000,Both sexes,183.8
+8966,VUT,Vanuatu,2000,Both sexes,184.3
+8967,FSM,Micronesia (Federated States of),2000,Both sexes,184.6
+8970,LCA,Saint Lucia,2000,Both sexes,185.9
+8971,IDN,Indonesia,2000,Both sexes,187.3
+8974,SYC,Seychelles,2000,Both sexes,188.5
+8976,PAK,Pakistan,2000,Both sexes,189.8
+8978,PRK,Democratic People's Republic of Korea,2000,Both sexes,191.4
+8980,HUN,Hungary,2000,Both sexes,192.6
+8983,VCT,Saint Vincent and the Grenadines,2000,Both sexes,195.7
+8985,NIC,Nicaragua,2000,Both sexes,196.9
+8986,BLZ,Belize,2000,Both sexes,198.4
+8989,LTU,Lithuania,2000,Both sexes,200.0
+8992,TTO,Trinidad and Tobago,2000,Both sexes,202.0
+8993,BHS,Bahamas,2000,Both sexes,202.4
+8996,THA,Thailand,2000,Both sexes,203.6
+9003,DOM,Dominican Republic,2000,Both sexes,212.4
+9004,PHL,Philippines,2000,Both sexes,212.9
+9007,TKM,Turkmenistan,2000,Both sexes,214.8
+9009,EST,Estonia,2000,Both sexes,215.7
+9014,LVA,Latvia,2000,Both sexes,217.2
+9015,SLV,El Salvador,2000,Both sexes,218.0
+9016,GTM,Guatemala,2000,Both sexes,219.6
+9019,SUR,Suriname,2000,Both sexes,221.5
+9020,FJI,Fiji,2000,Both sexes,221.6
+9021,KIR,Kiribati,2000,Both sexes,222.0
+9024,IND,India,2000,Both sexes,223.8
+9028,MDA,Republic of Moldova,2000,Both sexes,226.2
+9029,STP,Sao Tome and Principe,2000,Both sexes,226.6
+9030,KGZ,Kyrgyzstan,2000,Both sexes,227.5
+9031,MRT,Mauritania,2000,Both sexes,229.0
+9036,SLB,Solomon Islands,2000,Both sexes,231.7
+9043,NPL,Nepal,2000,Both sexes,240.8
+9044,BOL,Bolivia (Plurinational State of),2000,Both sexes,242.6
+9048,MMR,Myanmar,2000,Both sexes,245.5
+9051,BLR,Belarus,2000,Both sexes,247.1
+9055,SEN,Senegal,2000,Both sexes,250.4
+9058,YEM,Yemen,2000,Both sexes,251.5
+9065,UKR,Ukraine,2000,Both sexes,257.5
+9075,COM,Comoros,2000,Both sexes,272.1
+9076,MNG,Mongolia,2000,Both sexes,273.1
+9080,PNG,Papua New Guinea,2000,Both sexes,275.6
+9081,TLS,Timor-Leste,2000,Both sexes,275.7
+9083,LAO,Lao People's Democratic Republic,2000,Both sexes,277.6
+9086,KHM,Cambodia,2000,Both sexes,279.7
+9091,BEN,Benin,2000,Both sexes,281.8
+9092,GUY,Guyana,2000,Both sexes,282.4
+9093,MDG,Madagascar,2000,Both sexes,282.8
+9094,SDN,Sudan,2000,Both sexes,283.9
+9096,KAZ,Kazakhstan,2000,Both sexes,287.4
+9098,GNB,Guinea-Bissau,2000,Both sexes,291.2
+9099,NER,Niger,2000,Both sexes,292.7
+9108,GMB,Gambia,2000,Both sexes,303.7
+9111,HTI,Haiti,2000,Both sexes,305.8
+9117,BTN,Bhutan,2000,Both sexes,308.7
+9120,GHA,Ghana,2000,Both sexes,309.9
+9122,RUS,Russian Federation,2000,Both sexes,310.7
+9125,LBR,Liberia,2000,Both sexes,314.8
+9126,AFG,Afghanistan,2000,Both sexes,316.0
+9128,GAB,Gabon,2000,Both sexes,316.9
+9132,TGO,Togo,2000,Both sexes,321.6
+9134,DJI,Djibouti,2000,Both sexes,322.2
+9143,GIN,Guinea,2000,Both sexes,328.8
+9147,MLI,Mali,2000,Both sexes,335.0
+9151,COD,Democratic Republic of the Congo,2000,Both sexes,341.7
+9152,BFA,Burkina Faso,2000,Both sexes,341.8
+9157,SOM,Somalia,2000,Both sexes,357.7
+9159,GNQ,Equatorial Guinea,2000,Both sexes,359.4
+9161,ZAF,South Africa,2000,Both sexes,361.8
+9164,BDI,Burundi,2000,Both sexes,370.0
+9167,SSD,South Sudan,2000,Both sexes,379.5
+9168,AGO,Angola,2000,Both sexes,383.6
+9179,ETH,Ethiopia,2000,Both sexes,406.3
+9180,NGA,Nigeria,2000,Both sexes,407.5
+9182,CMR,Cameroon,2000,Both sexes,412.3
+9183,TCD,Chad,2000,Both sexes,412.9
+9185,COG,Congo,2000,Both sexes,416.9
+9190,NAM,Namibia,2000,Both sexes,428.0
+9191,MOZ,Mozambique,2000,Both sexes,428.3
+9200,RWA,Rwanda,2000,Both sexes,450.9
+9201,KEN,Kenya,2000,Both sexes,458.1
+9202,TZA,United Republic of Tanzania,2000,Both sexes,458.4
+9205,CIV,Côte d’Ivoire,2000,Both sexes,460.7
+9218,LSO,Lesotho,2000,Both sexes,507.0
+9223,CAF,Central African Republic,2000,Both sexes,531.5
+9224,SLE,Sierra Leone,2000,Both sexes,533.5
+9225,MWI,Malawi,2000,Both sexes,535.2
+9226,UGA,Uganda,2000,Both sexes,536.2
+9227,SWZ,Eswatini,2000,Both sexes,539.9
+9242,ZMB,Zambia,2000,Both sexes,594.2
+9244,ERI,Eritrea,2000,Both sexes,600.5
+9245,BWA,Botswana,2000,Both sexes,601.5
+9261,ZWE,Zimbabwe,2000,Both sexes,675.3
+9265,MLT,Malta,2000,Both sexes,69.51
+9269,SWE,Sweden,2000,Both sexes,71.99
+9272,JPN,Japan,2000,Both sexes,72.14
+9274,QAT,Qatar,2000,Both sexes,73.9
+9275,ITA,Italy,2000,Both sexes,75.39
+9277,ISL,Iceland,2000,Both sexes,76.07
+9279,AUS,Australia,2000,Both sexes,76.93
+9282,CHE,Switzerland,2000,Both sexes,77.55
+9286,SGP,Singapore,2000,Both sexes,79.08
+9287,CYP,Cyprus,2000,Both sexes,79.54
+9288,ISR,Israel,2000,Both sexes,80.02
+9289,CAN,Canada,2000,Both sexes,80.77
+9291,GRC,Greece,2000,Both sexes,82.35
+9293,NLD,Netherlands,2000,Both sexes,83.48
+9295,NOR,Norway,2000,Both sexes,84.35
+9296,ESP,Spain,2000,Both sexes,84.5
+9299,NZL,New Zealand,2000,Both sexes,86.12
+9305,GBR,United Kingdom of Great Britain and Northern Ireland,2000,Both sexes,87.98
+9308,LUX,Luxembourg,2000,Both sexes,89.95
+9311,IRL,Ireland,2000,Both sexes,92.96
+9313,KWT,Kuwait,2000,Both sexes,93.57
+9314,AUT,Austria,2000,Both sexes,93.72
+9319,DEU,Germany,2000,Both sexes,95.18
+9326,FRA,France,2000,Both sexes,99.17
+9328,BEL,Belgium,2000,Both sexes,99.35
+9331,DNK,Denmark,2000,Both sexes,99.82
+9332,CRI,Costa Rica,2000,Both sexes,99.88
